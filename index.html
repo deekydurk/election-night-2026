@@ -183,7 +183,9 @@ function table(id, rows, key, q, kind) {
     tr.appendChild(el('td', r[key])); tr.appendChild(el('td', r.dem_candidate || '—')); tr.appendChild(el('td', r.opponent || '—'));
     tr.appendChild(el('td', r.held_by || '—', 'hn')); tr.appendChild(el('td', r.polls_close_et || '—', 'hn'));
     tr.appendChild(el('td', pct(r.dem_pct), 'num')); tr.appendChild(el('td', pct(r.opp_pct), 'num')); tr.appendChild(el('td', pct(r.vote_in_pct), 'num hn'));
-    const st = el('td'); st.appendChild(el('span', r.status || '—', 'chip ' + (r.standing || ''))); if (r.called_by) st.appendChild(el('span', 'Called by ' + r.called_by, 'called'));
+    let label = r.status || '—';
+    if (label === 'Polls open' && closeOrder(r.polls_close_et) < 99 && Date.now() >= Date.UTC(2026, 10, 3, 5) + closeOrder(r.polls_close_et) * 3600000) label = 'Polls closed – waiting for first numbers';
+    const st = el('td'); st.appendChild(el('span', label, 'chip ' + (r.standing || ''))); if (r.called_by) st.appendChild(el('span', 'Called by ' + r.called_by, 'called'));
     const u = liveUrl(kind, r); if (u) { const a = el('a', 'Live count \u2197', 'live'); a.href = u; a.target = '_blank'; a.rel = 'noopener'; st.appendChild(document.createElement('br')); st.appendChild(a); }
     tr.appendChild(st);
     tb.appendChild(tr);
