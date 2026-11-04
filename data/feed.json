@@ -5,6 +5,21 @@
   "source": "Alaska Division of Elections via Anchorage Daily News, Alaska Beacon; NBC News, CNN results pages"
  },
  {
+  "time_et": "By 1:08 AM",
+  "item": "Democrat Troy Jackson defeats Sen. Susan Collins in Maine's Senate race, per NBC News; NPR and the Washington Post also report Jackson won (AP call). Collins had conceded earlier.",
+  "source": "NBC News live blog; NPR; Washington Post"
+ },
+ {
+  "time_et": "By 1:08 AM",
+  "item": "CBS News projects Gov. Tina Kotek wins Oregon's governor race over Republican Christine Drazan, joining DDHQ.",
+  "source": "CBS News via KOIN; DDHQ"
+ },
+ {
+  "time_et": "By 1:08 AM",
+  "item": "AP calls governor races for Republicans Mike Mazzei (Oklahoma), Alan Wilson (South Carolina), Phil Scott (Vermont) and Brad Little (Idaho).",
+  "source": "AP race-call stories via WTOP, Yahoo News, CJME"
+ },
+ {
   "time_et": "By 12:40 AM",
   "item": "Sen. Susan Collins concedes Maine's Senate race to Democrat Troy Jackson; AP had not called the race as of ~12:30 AM. Jackson 53.0%, Collins 45.82% with 67% in.",
   "source": "Maine Morning Star via NENC; DDHQ results page (12:18 AM)"
@@ -133,20 +148,5 @@
   "time_et": "10:40 PM",
   "item": "AP calls New Mexico's governor race for Democrat Deb Haaland over Republican Gregg Hull.",
   "source": "AP via Scripps News, Source NM"
- },
- {
-  "time_et": "9:17 PM",
-  "item": "AP calls Connecticut's governor race for Democratic Gov. Ned Lamont over Republican Ryan Fazio.",
-  "source": "AP via CKOM"
- },
- {
-  "time_et": "By 11:15 PM",
-  "item": "AP calls Arkansas's governor race for Republican Gov. Sarah Huckabee Sanders over Democrat Fredrick Love.",
-  "source": "AP via KATV"
- },
- {
-  "time_et": "10:29 PM",
-  "item": "Decision Desk HQ (with the Bangor Daily News) projects Democrat Hannah Pingree wins Maine's governor race; Republican Bobby Charles and independent Rick Bennett conceded. Awaiting a second call here.",
-  "source": "Bangor Daily News/DDHQ; Portland Press Herald"
  }
 ]

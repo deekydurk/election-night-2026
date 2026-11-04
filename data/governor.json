@@ -55,7 +55,7 @@
   "opp_pct": 45.3,
   "vote_in_pct": null,
   "standing": "leading",
-  "status": "Early count – Democrat leads (local outlets report Benson projected to win; caller not confirmed in this check)",
+  "status": "Early count – Democrat leads (The Hill, Yahoo News and WLNS report Benson won; caller not confirmed in this check)",
   "called_by": "",
   "source": "DDHQ results page (results table), 11:34 PM (% in not shown)"
  },
@@ -130,9 +130,9 @@
   "opp_pct": null,
   "vote_in_pct": null,
   "standing": "pending",
-  "status": "Polls closed – no votes reported yet",
+  "status": "Polls closed – no count retrieved in this check",
   "called_by": "",
-  "source": "NBC News results page shows 0% in, 11:33 PM check"
+  "source": "Searched 1:08 AM; no count found"
  },
  {
   "state": "Alabama",
@@ -264,10 +264,10 @@
   "dem_pct": 43.4,
   "opp_pct": 46.3,
   "vote_in_pct": 23.6,
-  "standing": "trailing",
-  "status": "Early count – Democrat trails",
-  "called_by": "",
-  "source": "NBC News governor results page (AP data), 11:33 PM check"
+  "standing": "lost",
+  "status": "Lost (AP call; early count shown)",
+  "called_by": "AP",
+  "source": "AP race-call story ('Republican Brad Little wins ...') via Yahoo News/WTOP/CJME, 1:08 AM; count from earlier check"
  },
  {
   "state": "Illinois",
@@ -370,7 +370,7 @@
   "opp_pct": 50.8,
   "vote_in_pct": 59,
   "standing": "trailing",
-  "status": "Counting – Fox News projects loss; awaiting a second call",
+  "status": "Counting – Fox News projects loss; awaiting a second call (Concord Monitor reports race too close to call)",
   "called_by": "",
   "source": "Boston Globe (AP said too close to call), 10:23 PM, 59% counted; Fox News Decision Desk projects Ayotte (Fox News, 11:23 PM)"
  },
@@ -414,10 +414,10 @@
   "dem_pct": 54.05,
   "opp_pct": 44.32,
   "vote_in_pct": 16.54,
-  "standing": "leading",
-  "status": "Early count – Democrat leads",
-  "called_by": "",
-  "source": "Fox News results, 8:38 PM"
+  "standing": "lost",
+  "status": "Lost (AP call; early count shown)",
+  "called_by": "AP",
+  "source": "AP race-call story ('Republican Mike Mazzei wins ...') via Yahoo News/WTOP/CJME, 1:08 AM; count from earlier check"
  },
  {
   "state": "Oregon",
@@ -429,10 +429,10 @@
   "dem_pct": 54.4,
   "opp_pct": 43,
   "vote_in_pct": 35,
-  "standing": "leading",
-  "status": "Early count – DDHQ projects win; awaiting a second call (Kotek declared victory; KATU reports race not called yet)",
-  "called_by": "",
-  "source": "OPB, est. 35% counted; DDHQ projection per That Oregon Life headline; checked 12:05 AM"
+  "standing": "won",
+  "status": "Won (Kotek declared victory)",
+  "called_by": "DDHQ, CBS News",
+  "source": "CBS News projection via KOIN; DDHQ projection; count from earlier check, 1:08 AM"
  },
  {
   "state": "Rhode Island",
@@ -459,10 +459,10 @@
   "dem_pct": 46.9,
   "opp_pct": 51.9,
   "vote_in_pct": 84.6,
-  "standing": "trailing",
-  "status": "Counting – DDHQ projects loss; awaiting a second call (Johnson has conceded, per SC Daily Gazette)",
-  "called_by": "",
-  "source": "WIS results, 10:25 PM check; DDHQ projection of Wilson via WBTW; concession per SC Daily Gazette; concession per SC Daily Gazette headline, 11:39 PM check"
+  "standing": "lost",
+  "status": "Lost (Johnson conceded)",
+  "called_by": "AP, DDHQ",
+  "source": "AP race-call story ('Republican Alan Wilson wins ...') via Yahoo News/WTOP/CJME, 1:08 AM; count from earlier check"
  },
  {
   "state": "South Dakota",
@@ -490,7 +490,7 @@
   "opp_pct": 45.65,
   "vote_in_pct": null,
   "standing": "trailing",
-  "status": "Early count – Democrat trails (independent David Hatley 9.32%; Blackburn declared victory; no outlet call reported)",
+  "status": "Early count – Democrat trails (independent David Hatley 9.32%; Blackburn declared victory; WVLT reports secretary of state results; no AP or network call confirmed)",
   "called_by": "",
   "source": "WVLT \"at last check\" (article 11:24 PM ET; share counted not stated); checked 12:05 AM"
  },
@@ -519,10 +519,10 @@
   "dem_pct": 46,
   "opp_pct": 52,
   "vote_in_pct": 80,
-  "standing": "trailing",
-  "status": "Counting – Democrat trails (Janoo has conceded; no AP call seen)",
-  "called_by": "",
-  "source": "Valley News, 80% counted as of 10 PM; checked 12:05 AM"
+  "standing": "lost",
+  "status": "Lost (Janoo conceded)",
+  "called_by": "AP",
+  "source": "AP race-call story ('Republican Phil Scott wins ...') via Yahoo News/WTOP/CJME, 1:08 AM; count from earlier check"
  },
  {
   "state": "Wyoming",

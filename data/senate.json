@@ -54,10 +54,10 @@
   "dem_pct": 53.0,
   "opp_pct": 45.82,
   "vote_in_pct": 67,
-  "standing": "leading",
-  "status": "Counting – Democrat leads (Sen. Collins has conceded; AP had not called the race as of ~12:30 AM)",
-  "called_by": "",
-  "source": "DDHQ results page (results table), updated 12:18 AM (67% in); concession/no AP call per Maine Morning Star via NENC, ~12:30 AM"
+  "standing": "won",
+  "status": "Won (Sen. Collins conceded)",
+  "called_by": "NBC News, AP",
+  "source": "NBC News live blog ('Democrats defeat Susan Collins in Maine'); AP call via NPR and Washington Post race reports, 1:08 AM; count from DDHQ, 12:18 AM"
  },
  {
   "state": "New Hampshire",
@@ -87,7 +87,7 @@
   "standing": "leading",
   "status": "Early count – Democrat leads",
   "called_by": "",
-  "source": "Fox News results, 11:08 PM (30% in); no call found"
+  "source": "Fox News results, 11:08 PM (30% in); no call found; rechecked 1:08 AM (DDHQ 27% in, lower than shown)"
  },
  {
   "state": "Texas",
@@ -265,9 +265,9 @@
   "opp_pct": 53.23,
   "vote_in_pct": 89,
   "standing": "trailing",
-  "status": "Counting – Democrat trails (local outlets KTBS and WWNO report Letlow won; no AP or network call confirmed in this check)",
+  "status": "Counting – Democrat trails (local outlets KTBS, KSLA and WGNO report Letlow won; no AP or network call confirmed in this check)",
   "called_by": "",
-  "source": "DDHQ results page, 11:50 PM (89% in); checked vs WWNO (Letlow 52%, Davis 48% at 11 PM)"
+  "source": "DDHQ results page, 11:50 PM (89% in); checked vs WWNO (Letlow 52%, Davis 48% at 11 PM); rechecked 1:08 AM"
  },
  {
   "state": "Massachusetts",
