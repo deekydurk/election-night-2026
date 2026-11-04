@@ -126,13 +126,13 @@
   "opp_party": "R",
   "held_by": "R",
   "polls_close_et": "1:00 AM",
-  "dem_pct": null,
-  "opp_pct": null,
+  "dem_pct": 54.1,
+  "opp_pct": 42.8,
   "vote_in_pct": null,
-  "standing": "pending",
-  "status": "Polls open",
+  "standing": "leading",
+  "status": "Early count – Democrat leads (45 of 401 precincts; ranked-choice tabulation may follow)",
   "called_by": "",
-  "source": "CBS News race list"
+  "source": "Alaska Division of Elections preliminary results via Anchorage Daily News/Alaska Beacon/KTOO, 8:40 PM AKST; NBC results page shows 42.8% for Sullivan"
  },
  {
   "state": "Alabama",

@@ -1,5 +1,10 @@
 [
  {
+  "time_et": "By 1:10 AM",
+  "item": "Alaska Senate early returns: Democrat Mary Peltola 54.1%, Republican Sen. Dan Sullivan 42.8%, with 45 of 401 precincts reporting; the state will keep accepting ballots for days. Nevada still has not reported any votes in the governor's race.",
+  "source": "Alaska Division of Elections via Anchorage Daily News, Alaska Beacon; NBC News, CNN results pages"
+ },
+ {
   "time_et": "By 12:40 AM",
   "item": "Sen. Susan Collins concedes Maine's Senate race to Democrat Troy Jackson; AP had not called the race as of ~12:30 AM. Jackson 53.0%, Collins 45.82% with 67% in.",
   "source": "Maine Morning Star via NENC; DDHQ results page (12:18 AM)"
@@ -143,10 +148,5 @@
   "time_et": "10:29 PM",
   "item": "Decision Desk HQ (with the Bangor Daily News) projects Democrat Hannah Pingree wins Maine's governor race; Republican Bobby Charles and independent Rick Bennett conceded. Awaiting a second call here.",
   "source": "Bangor Daily News/DDHQ; Portland Press Herald"
- },
- {
-  "time_et": "By 11:08 PM",
-  "item": "Fox News calls Oregon's Senate race for Democratic Sen. Jeff Merkley and Arkansas's for Republican Sen. Tom Cotton; both await a second call here.",
-  "source": "Fox News results"
  }
 ]

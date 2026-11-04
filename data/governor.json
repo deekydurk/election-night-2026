@@ -160,9 +160,9 @@
   "opp_pct": null,
   "vote_in_pct": null,
   "standing": "pending",
-  "status": "Polls open",
+  "status": "Polls closed – no verified count yet",
   "called_by": "",
-  "source": "2026election.com; checked vs Wikipedia race list"
+  "source": "Checked 1:10 AM ET; no governor count retrieved"
  },
  {
   "state": "Arkansas",
