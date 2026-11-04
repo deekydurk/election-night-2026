@@ -86,8 +86,8 @@
   "vote_in_pct": 79.3,
   "standing": "won",
   "status": "Won",
-  "called_by": "DDHQ, NBC News",
-  "source": "NBC News live blog headline \"Democrats win Michigan Senate\" and The Hill (DDHQ call) via WLNS, 2:40 AM check; shares from NBC News results (AP data) at 79% counted, earlier check"
+  "called_by": "AP, NBC News, DDHQ",
+  "source": "AP call 2:27 AM ET (El-Sayed up nearly 6 points with 85% counted) per Bridge Michigan and ClickOnDetroit; NBC News and DDHQ projections earlier; shares from NBC results (AP data) at 79% counted"
  },
  {
   "state": "Texas",
@@ -126,13 +126,13 @@
   "opp_party": "R",
   "held_by": "R",
   "polls_close_et": "1:00 AM",
-  "dem_pct": 48.1,
-  "opp_pct": 48.0,
-  "vote_in_pct": null,
-  "standing": "leading",
-  "status": "Early count – Democrat leads (about 27% of precincts reporting; share of vote counted not reported; ranked-choice tabulation may follow)",
+  "dem_pct": 47.7,
+  "opp_pct": 48.5,
+  "vote_in_pct": 72.4,
+  "standing": "trailing",
+  "status": "Counting – Democrat trails (Sullivan leads by about 1,700 votes; ranked-choice tabulation may follow; counting continues for days)",
   "called_by": "",
-  "source": "KTOO/Alaska Public Media (Alaska Division of Elections results), article 8:56 PM AKT; 2:40 AM ET check"
+  "source": "NBC News results (AP data), 72.4% in, ~6 AM ET check; NBC San Diego live blog"
  },
  {
   "state": "Alabama",
@@ -308,11 +308,11 @@
   "polls_close_et": "8:00 PM",
   "dem_pct": 48.9,
   "opp_pct": 48.9,
-  "vote_in_pct": 94,
+  "vote_in_pct": 95.6,
   "standing": "leading",
-  "status": "Too close to call – Democrat leads by 28 votes (Colom 462,779, Hyde-Smith 462,751; AP has not called)",
+  "status": "Too close to call – Democrat leads by 43 votes (Colom 462,821, Hyde-Smith 462,778; AP has not called; no automatic recount law)",
   "called_by": "",
-  "source": "msindy.org unofficial returns as of 12:05 AM CT (AP had not called); 2:40 AM ET check found no newer count"
+  "source": "NBC News results (AP data), 95.6% in, ~6 AM ET check; vote totals via HuffPost/Yahoo, shortly before 4 AM ET"
  },
  {
   "state": "Montana",

@@ -1,5 +1,30 @@
 [
  {
+  "time_et": "By 6:05 AM",
+  "item": "NBC News Senate tally: Democrats 54, Republicans 44, with Alaska and Mississippi uncalled; Democrats flipped seven Republican-held seats. NBC News estimates Democrats will win about 258 House seats, their largest majority since 1993.",
+  "source": "NBC News results pages and live blog"
+ },
+ {
+  "time_et": "Before 2 AM",
+  "item": "AP calls Nevada's governor race for Democrat Aaron Ford over Republican Gov. Joe Lombardo, flipping the seat; NBC News also projects Ford (51.7% to 44.2%).",
+  "source": "AP via KTNV, Nevada Current, NPR; NBC News"
+ },
+ {
+  "time_et": "2:27 AM",
+  "item": "AP calls Michigan's Senate race for Democrat Abdul El-Sayed over Republican Mike Rogers; he led by nearly 6 points with 85% counted.",
+  "source": "AP via Bridge Michigan, ClickOnDetroit"
+ },
+ {
+  "time_et": "By 6:05 AM",
+  "item": "Mississippi Senate: Democrat Scott Colom leads Sen. Cindy Hyde-Smith by 43 votes (462,821 to 462,778) with about 96% counted; not called. Alaska Senate: Republican Sen. Dan Sullivan leads Democrat Mary Peltola 48.5% to 47.7% with 72% in. Kansas governor: Democrat Cindy Holscher leads by about 5,600 votes with 98% in; not called.",
+  "source": "NBC News results (AP data); HuffPost; KWCH"
+ },
+ {
+  "time_et": "Overnight",
+  "item": "Republican Marsha Blackburn wins Tennessee's governor race after Democrat Jerri Green conceded.",
+  "source": "Washington Post race updates (AP); Vanderbilt Hustler"
+ },
+ {
   "time_et": "By 2:40 AM",
   "item": "NBC News projects Democrat Abdul El-Sayed wins Michigan's Senate race over Republican Mike Rogers, joining DDHQ. El-Sayed 51.8%, Rogers 46.2% with 79% counted in the last retrieved count.",
   "source": "NBC News live blog; The Hill (DDHQ) via WLNS; NBC News results (AP data)"
@@ -123,30 +148,5 @@
   "time_et": "By 12:05 AM",
   "item": "AP calls Oregon's Senate race for Democratic Sen. Jeff Merkley over Republican David Brock Smith, joining Fox News (initial statewide results 57.06% to 40.24%).",
   "source": "Banks Post (AP); Fox News"
- },
- {
-  "time_et": "By 12:05 AM",
-  "item": "AP calls South Dakota's governor race for Republican Gov. Larry Rhoden over Democrat Dan Ahlers.",
-  "source": "KOTA-TV (AP)"
- },
- {
-  "time_et": "By 12:05 AM",
-  "item": "Mississippi Senate: Democrat Scott Colom leads Sen. Cindy Hyde-Smith 49.1% to 48.8% with an estimated 87% in; not called.",
-  "source": "DDHQ"
- },
- {
-  "time_et": "By 12:05 AM",
-  "item": "Not race calls: Republican Tommy Tuberville (Alabama governor) and Republican Marsha Blackburn (Tennessee governor) declared victory; AP had not called Alabama as of ~11:30 PM ET, and no call was reported in Tennessee. DDHQ projects Gov. Tina Kotek wins Oregon's governor race; awaiting a second call.",
-  "source": "WSFA; WVLT; That Oregon Life (DDHQ)"
- },
- {
-  "time_et": "By 11:39 PM",
-  "item": "NBC News projects Democrats win control of the U.S. Senate, in addition to the House. CNBC also reports Democrats have flipped the Senate.",
-  "source": "NBC News live blog and Senate results page; CNBC"
- },
- {
-  "time_et": "11:10 PM",
-  "item": "AP calls Ohio's special Senate election for Democrat Sherrod Brown over Republican Sen. Jon Husted (Brown 48.6%, Husted 46.5% at the call); NBC News also projects Brown.",
-  "source": "AP via Local 12 (WKRC); NBC News results page"
  }
 ]

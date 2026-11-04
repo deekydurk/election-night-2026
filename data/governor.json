@@ -96,13 +96,13 @@
   "opp_party": "R",
   "held_by": "D",
   "polls_close_et": "9:00 PM",
-  "dem_pct": null,
-  "opp_pct": null,
-  "vote_in_pct": 70.2,
+  "dem_pct": 50.3,
+  "opp_pct": 49.7,
+  "vote_in_pct": 97.9,
   "standing": "leading",
-  "status": "Too close to call – Democrat leads (Holscher 546,523, Masterson 540,651 votes with nearly all precincts counted; AP has not called)",
+  "status": "Too close to call – Democrat leads by about 5,600 votes (AP has not called; mail ballots still arriving through Friday)",
   "called_by": "",
-  "source": "Kansas Secretary of State via Johnson County Post, early Wed Nov 4; Kansas Reflector reports race deadlocked; percentages not reported in this check; 2:40 AM ET check found no newer count"
+  "source": "NBC News results (AP data), 97.9% in, ~6 AM ET check; KWCH; Kansas Secretary of State via Johnson County Post"
  },
  {
   "state": "Wisconsin",
@@ -126,13 +126,13 @@
   "opp_party": "R",
   "held_by": "R",
   "polls_close_et": "10:00 PM",
-  "dem_pct": null,
-  "opp_pct": null,
+  "dem_pct": 51.7,
+  "opp_pct": 44.2,
   "vote_in_pct": null,
-  "standing": "pending",
-  "status": "Polls closed – no count retrieved in this check",
-  "called_by": "",
-  "source": "Searched 1:08 AM; no count found; 2:40 AM ET check found no newer count"
+  "standing": "won",
+  "status": "Won (flips Republican-held seat)",
+  "called_by": "AP, NBC News",
+  "source": "AP call shortly before 2 AM ET with 85% counted (KTNV, Nevada Current, NPR); NBC News projection; shares from NBC News results page, ~6 AM ET check"
  },
  {
   "state": "Alabama",
@@ -145,9 +145,9 @@
   "opp_pct": 52.8,
   "vote_in_pct": 70,
   "standing": "trailing",
-  "status": "Counting – Democrat trails (Tuberville 808,214, Jones 716,391 with all 67 counties reporting per Decatur Daily; Tuberville declared victory and several local outlets report he won; Jones has not conceded; no AP call confirmed)",
+  "status": "Counting – Democrat trails (Tuberville declared victory; an AP call is reported by the PollsterGraph aggregator but not yet confirmed by a news outlet)",
   "called_by": "",
-  "source": "Decatur Daily unofficial returns, all 67 counties reporting (1:12 AM ET); share counted shown is from earlier check"
+  "source": "Decatur Daily unofficial returns, all 67 counties reporting (1:12 AM ET); share counted shown is from earlier check; ~6 AM ET check"
  },
  {
   "state": "Alaska",
@@ -355,9 +355,9 @@
   "opp_pct": null,
   "vote_in_pct": null,
   "standing": "trailing",
-  "status": "Early count – Democrat trails (Daily Nebraskan, 11:10 PM CT: Pillen leads Walz by about two points; exact figures not retrieved; Pillen declared victory; no AP or network call confirmed)",
+  "status": "Counting – Democrat trails (Pillen declared victory; an AP call is reported by the PollsterGraph aggregator but not yet confirmed by a news outlet)",
   "called_by": "",
-  "source": "Daily Nebraskan live updates, 11:10 PM CT; 2:40 AM ET check"
+  "source": "Daily Nebraskan live updates, 11:10 PM CT; 2:40 AM ET check; ~6 AM ET check"
  },
  {
   "state": "New Hampshire",
@@ -489,10 +489,10 @@
   "dem_pct": 42.81,
   "opp_pct": 45.65,
   "vote_in_pct": null,
-  "standing": "trailing",
-  "status": "Early count – Democrat trails (independent David Hatley 9.32%; Blackburn declared victory; WVLT reports secretary of state results; no AP or network call confirmed)",
-  "called_by": "",
-  "source": "WSMV (Blackburn 954,750, Green 895,412, Hatley 194,870; no winner called as of 10:20 PM CT); 2:40 AM ET check"
+  "standing": "lost",
+  "status": "Lost (Green conceded)",
+  "called_by": "AP",
+  "source": "AP call reported by PollsterGraph and Washington Post race updates; Jerri Green conceded per Vanderbilt Hustler; shares from earlier check"
  },
  {
   "state": "Texas",

@@ -1,22 +1,22 @@
 [
  {
   "chamber": "Senate",
-  "dem": 52,
-  "rep": 41,
+  "dem": 54,
+  "rep": 44,
   "other": 0,
-  "uncalled": 7,
+  "uncalled": 2,
   "control_at": 51,
-  "note": "NBC News Decision Desk tally: Democrats 52 (34 not up + 18 won, including 6 flips), Republicans 41, 7 uncalled. NBC News projects Democrats win Senate control; CNBC Election Desk also projects it. Democrats need 51 since a 50-50 tie is broken by Vice President Vance. Since that tally, DDHQ and NBC News have also projected Michigan for Democrat Abdul El-Sayed; NBC's updated seat count was not retrieved.",
-  "source": "NBC News Senate results page tally as of 12:40 AM ET check (no newer tally retrieved at 2:40 AM; NBC page still reads \"Democrats Win Majority\")"
+  "note": "NBC News tally: Democrats 54 (34 not up + 20 won, a net gain of 7), Republicans 44, with Alaska and Mississippi still uncalled. Democrats need 51 for control.",
+  "source": "NBC News Senate results page, ~6 AM ET check"
  },
  {
   "chamber": "House",
-  "dem": 252,
-  "rep": 0,
+  "dem": 231,
+  "rep": 144,
   "other": 0,
-  "uncalled": 183,
+  "uncalled": 60,
   "control_at": 218,
-  "note": "NBC News projects Democrats win House control with at least 252 seats. Shown as 252 D with the remaining 183 seats uncalled, because a Republican seats-called count was not retrievable; the actual Republican total will be well above 0 once counting finishes. Going in: 219 Republicans, 214 Democrats.",
-  "source": "NBC News Decision Desk projection (at least 252 seats), 12:40 AM ET check"
+  "note": "Seats NBC News has projected so far. NBC News estimates Democrats will finish with about 258 seats, their largest House majority since 1993.",
+  "source": "NBC News House results page and live blog, ~6 AM ET check"
  }
 ]
