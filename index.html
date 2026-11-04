@@ -43,6 +43,11 @@ ol.feed { list-style:none; margin:0; padding:0; }
 ol.feed li { padding: 6px 0; border-bottom: 1px solid var(--line); }
 ol.feed b { margin-right: 6px; font-variant-numeric: tabular-nums; }
 ol.feed small { color: var(--muted); margin-left: 4px; }
+.livemap { margin: 18px 0 0; }
+.livemap .tabs { display:flex; gap:6px; margin: 0 0 10px; flex-wrap: wrap; }
+.livemap button { font: inherit; font-size: 13px; padding: 4px 12px; border-radius: 999px; border:1px solid var(--line); background: var(--bg); color: var(--fg); cursor: pointer; }
+.livemap button[aria-pressed="true"] { background: var(--dem); border-color: var(--dem); color: #fff; }
+.livemap iframe { width:100%; height:500px; border:0; display:block; border-radius: 8px; background: #fff; }
 section.card { margin-bottom: 14px; }
 </style>
 </head>
@@ -51,6 +56,18 @@ section.card { margin-bottom: 14px; }
   <h1>Election night 2026: how Democrats are doing</h1>
   <p class="sub" id="headline">Loading…</p>
   <p class="fine">Last updated <b id="asof">—</b> · next update <span id="next">—</span>. No polls or forecasts are used: only votes actually counted, cross-checked between at least two outlets, and race calls (AP first). A race shows as won or lost only once a named outlet has called it. Counts under 50% of the expected vote are labeled "Early count", since mail and Election Day ballots are often reported in batches that swing the lead. This page checks for new numbers every 2 minutes; results are refreshed about every 15 minutes tonight. For second-by-second counts, tap "Live count" on any race to open NBC News's live results (AP data).</p>
+
+
+  <section class="card livemap" id="live-map">
+    <h2>Live map from ABC News</h2>
+    <p class="note">Updates on its own as votes are counted. Calls and counts in this map are ABC News's; the tables below are this tracker's cross-checked summary.</p>
+    <div class="tabs" role="group" aria-label="Choose map">
+      <button type="button" data-chamber="senate" aria-pressed="true">Senate</button>
+      <button type="button" data-chamber="house" aria-pressed="false">House</button>
+      <button type="button" data-chamber="governor" aria-pressed="false">Governor</button>
+    </div>
+    <iframe id="abc-map" title="ABC News live election map" src="https://abcnews.go.com/widgets/nationalMap?chamber=senate&display=inline&dist=true&year=2026" loading="lazy"></iframe>
+  </section>
 
   <div class="grid">
     <div class="card">
@@ -194,6 +211,10 @@ async function load() {
   }));
   render();
 }
+document.querySelectorAll('#live-map button').forEach((b) => b.addEventListener('click', () => {
+  document.querySelectorAll('#live-map button').forEach((x) => x.setAttribute('aria-pressed', String(x === b)));
+  $('abc-map').src = 'https://abcnews.go.com/widgets/nationalMap?chamber=' + b.dataset.chamber + '&display=inline&dist=true&year=2026';
+}));
 $('q').addEventListener('input', render);
 load();
 setInterval(load, 120000);
