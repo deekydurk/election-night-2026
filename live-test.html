@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Live widget test</title>
+<style>
+body { margin:0; padding:16px; font: 15px/1.4 system-ui, -apple-system, sans-serif; background:#faf9f5; color:#1d1d1b; }
+h1 { font-size:20px; margin:0 0 6px; }
+p { margin:0 0 14px; color:#6b6a65; }
+.box { border:1px solid #e4e2da; border-radius:10px; background:#fff; margin-bottom:18px; overflow:hidden; }
+.box h2 { font-size:15px; margin:0; padding:10px 12px; border-bottom:1px solid #e4e2da; }
+iframe { width:100%; border:0; display:block; }
+</style>
+</head>
+<body>
+<h1>Live widget test (not shared)</h1>
+<p>Each box below tries a different ABC News live-results widget. Note which numbered boxes show tonight's 2026 results and which are blank, show an error, or show an old year.</p>
+
+<div class="box"><h2>1. Senate balance of power</h2>
+<iframe src="https://abcnews.go.com/widgets/balanceOfPower?chamber=senate&display=inline&year=2026" height="260" loading="lazy"></iframe></div>
+
+<div class="box"><h2>2. House balance of power</h2>
+<iframe src="https://abcnews.go.com/widgets/balanceOfPower?chamber=house&display=inline&year=2026" height="260" loading="lazy"></iframe></div>
+
+<div class="box"><h2>3. Senate map</h2>
+<iframe src="https://abcnews.go.com/widgets/nationalMap?chamber=senate&display=inline&dist=true&year=2026" height="500" loading="lazy"></iframe></div>
+
+<div class="box"><h2>4. Senate races to watch</h2>
+<iframe src="https://abcnews.go.com/widgets/racesToWatch?chamber=senate&display=inline&year=2026" height="600" loading="lazy"></iframe></div>
+</body>
+</html>
