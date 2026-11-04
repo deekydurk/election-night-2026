@@ -252,12 +252,12 @@
     "opponent": "Monica De La Cruz (inc.)",
     "held_by": "R",
     "polls_close_et": "8:00 PM",
-    "dem_pct": null,
-    "opp_pct": null,
-    "vote_in_pct": null,
-    "standing": "pending",
-    "status": "Polls closed – no votes reported yet",
-    "called_by": ""
+    "dem_pct": 61.6,
+    "opp_pct": 38.4,
+    "vote_in_pct": 89,
+    "standing": "won",
+    "status": "Won – projected by AP",
+    "called_by": "AP"
   },
   {
     "race": "TX-28",
@@ -304,11 +304,11 @@
     "opponent": "Jay Feely",
     "held_by": "R",
     "polls_close_et": "9:00 PM",
-    "dem_pct": null,
+    "dem_pct": 55,
     "opp_pct": null,
     "vote_in_pct": null,
-    "standing": "pending",
-    "status": "Polls closed – no votes reported yet",
+    "standing": "leading",
+    "status": "Early count – Democrat leads",
     "called_by": ""
   },
   {
@@ -320,8 +320,8 @@
     "dem_pct": null,
     "opp_pct": null,
     "vote_in_pct": null,
-    "standing": "pending",
-    "status": "Polls closed – no votes reported yet",
+    "standing": "leading",
+    "status": "Counting – DDHQ projects win; awaiting a second call",
     "called_by": ""
   },
   {
@@ -395,11 +395,11 @@
     "opponent": "Greg Cunningham",
     "held_by": "D",
     "polls_close_et": "9:00 PM",
-    "dem_pct": null,
-    "opp_pct": null,
+    "dem_pct": 58,
+    "opp_pct": 42,
     "vote_in_pct": null,
-    "standing": "pending",
-    "status": "Polls closed – no votes reported yet",
+    "standing": "leading",
+    "status": "Early count – Democrat leads",
     "called_by": ""
   },
   {
@@ -450,9 +450,9 @@
     "dem_pct": null,
     "opp_pct": null,
     "vote_in_pct": null,
-    "standing": "pending",
-    "status": "Polls closed – no votes reported yet",
-    "called_by": ""
+    "standing": "won",
+    "status": "Won – projected by AP",
+    "called_by": "AP"
   },
   {
     "race": "WI-3",
@@ -538,11 +538,11 @@
     "opponent": "John Braun",
     "held_by": "D",
     "polls_close_et": "11:00 PM",
-    "dem_pct": null,
-    "opp_pct": null,
+    "dem_pct": 55,
+    "opp_pct": 44.1,
     "vote_in_pct": null,
-    "standing": "pending",
-    "status": "Polls closed – no votes reported yet",
+    "standing": "leading",
+    "status": "Early count – Democrat leads",
     "called_by": ""
   }
 ]

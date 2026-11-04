@@ -6,13 +6,13 @@
   "opp_party": "R",
   "held_by": "D",
   "polls_close_et": "7:00 PM",
-  "dem_pct": 62,
-  "opp_pct": 38,
-  "vote_in_pct": 63,
+  "dem_pct": 58.96,
+  "opp_pct": 41.04,
+  "vote_in_pct": 90.74,
   "standing": "won",
   "status": "Won",
   "called_by": "NBC News, DDHQ, Fox News, CBS News, ABC News",
-  "source": "ABC News results, 8:42 PM ET"
+  "source": "Fox News results, 11:08 PM (count); call per NBC News, DDHQ, Fox News, CBS News, ABC News"
  },
  {
   "state": "North Carolina",
@@ -21,13 +21,13 @@
   "opp_party": "R",
   "held_by": "R",
   "polls_close_et": "7:30 PM",
-  "dem_pct": 64,
-  "opp_pct": 34,
-  "vote_in_pct": 64,
+  "dem_pct": 58.52,
+  "opp_pct": 39.3,
+  "vote_in_pct": 96.83,
   "standing": "won",
   "status": "Won",
   "called_by": "AP, CBS News, ABC News",
-  "source": "ABC News results, 8:42 PM ET"
+  "source": "Fox News results, 11:08 PM (count); call per AP, CBS News, ABC News"
  },
  {
   "state": "Ohio (special)",
@@ -36,13 +36,13 @@
   "opp_party": "R",
   "held_by": "R",
   "polls_close_et": "7:30 PM",
-  "dem_pct": 48.25,
-  "opp_pct": 47.0,
-  "vote_in_pct": 73.05,
-  "standing": "leading",
-  "status": "Counting – Democrat leads",
-  "called_by": "",
-  "source": "Fox News results page, 10:07 PM ET"
+  "dem_pct": 48.65,
+  "opp_pct": 46.49,
+  "vote_in_pct": 87.01,
+  "standing": "won",
+  "status": "Won",
+  "called_by": "AP, NBC News",
+  "source": "AP call 11:10 PM via Local 12 (WKRC); NBC News results page (\"Sherrod Brown Wins\"); count: Fox News results, 11:08 PM (87% in)"
  },
  {
   "state": "Maine",
@@ -51,13 +51,13 @@
   "opp_party": "R",
   "held_by": "R",
   "polls_close_et": "8:00 PM",
-  "dem_pct": 50.81,
-  "opp_pct": 49.13,
-  "vote_in_pct": 16.18,
+  "dem_pct": 53.0,
+  "opp_pct": 45.82,
+  "vote_in_pct": 67,
   "standing": "leading",
-  "status": "Early count – Democrat leads",
+  "status": "Counting – Democrat leads (Sen. Collins has conceded; AP had not called the race as of ~12:30 AM)",
   "called_by": "",
-  "source": "Fox News results page, 10:07 PM ET"
+  "source": "DDHQ results page (results table), updated 12:18 AM (67% in); concession/no AP call per Maine Morning Star via NENC, ~12:30 AM"
  },
  {
   "state": "New Hampshire",
@@ -66,13 +66,13 @@
   "opp_party": "R",
   "held_by": "D",
   "polls_close_et": "8:00 PM",
-  "dem_pct": 59,
-  "opp_pct": 39,
-  "vote_in_pct": 25,
+  "dem_pct": 56.93,
+  "opp_pct": 41.27,
+  "vote_in_pct": 70.9,
   "standing": "won",
   "status": "Won",
   "called_by": "Fox News, ABC News",
-  "source": "ABC News results, 8:42 PM ET; Fox News call 8:11 PM"
+  "source": "Fox News results, 11:08 PM (count); call per Fox News, ABC News"
  },
  {
   "state": "Michigan",
@@ -81,13 +81,13 @@
   "opp_party": "R",
   "held_by": "D",
   "polls_close_et": "9:00 PM",
-  "dem_pct": 54.16,
-  "opp_pct": 44.15,
-  "vote_in_pct": 19.92,
+  "dem_pct": 51.38,
+  "opp_pct": 46.79,
+  "vote_in_pct": 30.46,
   "standing": "leading",
   "status": "Early count – Democrat leads",
   "called_by": "",
-  "source": "Fox News results page, 10:07 PM ET"
+  "source": "Fox News results, 11:08 PM (30% in); no call found"
  },
  {
   "state": "Texas",
@@ -96,13 +96,13 @@
   "opp_party": "R",
   "held_by": "R",
   "polls_close_et": "9:00 PM",
-  "dem_pct": 57.4,
-  "opp_pct": 41.1,
-  "vote_in_pct": 60,
-  "standing": "leading",
-  "status": "Counting – DDHQ projects win; awaiting a second call",
-  "called_by": "",
-  "source": "DDHQ tally via Clash Report, 10:14 PM (DDHQ projection at 10:14 PM); The Hill and Nexstar stations also report the DDHQ projection"
+  "dem_pct": 59.21,
+  "opp_pct": 39.21,
+  "vote_in_pct": 66.83,
+  "standing": "won",
+  "status": "Won",
+  "called_by": "NBC News, Fox News, DDHQ",
+  "source": "Fox News results, 11:08 PM (call + count); NBC News results page headline \"James Talarico Wins\"; DDHQ projection 10:14 PM"
  },
  {
   "state": "Iowa",
@@ -111,13 +111,13 @@
   "opp_party": "R",
   "held_by": "R",
   "polls_close_et": "9:00 PM",
-  "dem_pct": 55.9,
-  "opp_pct": 41.46,
-  "vote_in_pct": 30.61,
-  "standing": "leading",
-  "status": "Early count – Democrat leads",
-  "called_by": "",
-  "source": "Fox News results page, 10:07 PM ET"
+  "dem_pct": 52.38,
+  "opp_pct": 44.65,
+  "vote_in_pct": 76.12,
+  "standing": "won",
+  "status": "Won",
+  "called_by": "AP, NBC News, DDHQ",
+  "source": "Call: Iowa Capital Dispatch (\"AP projects\") and NBC News results page (\"Josh Turek Wins\"), checked 12:05 AM; DDHQ earlier. Count: earlier NBC News results (AP data), no newer count retrieved"
  },
  {
   "state": "Alaska",
@@ -141,13 +141,13 @@
   "opp_party": "R",
   "held_by": "R",
   "polls_close_et": "8:00 PM",
-  "dem_pct": 39.65,
-  "opp_pct": 60.35,
-  "vote_in_pct": 41.14,
-  "standing": "trailing",
-  "status": "Early count – Democrat trails",
-  "called_by": "",
-  "source": "Fox News results page, 10:07 PM ET"
+  "dem_pct": 44.73,
+  "opp_pct": 55.27,
+  "vote_in_pct": 76.99,
+  "standing": "lost",
+  "status": "Lost",
+  "called_by": "AP",
+  "source": "AP call at 11:17 PM ET (AP story via Yahoo News); count: Fox News results, 11:08 PM (77% in)"
  },
  {
   "state": "Arkansas",
@@ -156,13 +156,13 @@
   "opp_party": "R",
   "held_by": "R",
   "polls_close_et": "8:30 PM",
-  "dem_pct": 44.07,
-  "opp_pct": 52.99,
-  "vote_in_pct": 71.96,
-  "standing": "trailing",
-  "status": "Counting – Democrat trails",
-  "called_by": "",
-  "source": "Fox News results page, 10:07 PM ET"
+  "dem_pct": 42.15,
+  "opp_pct": 54.73,
+  "vote_in_pct": 86.84,
+  "standing": "lost",
+  "status": "Lost",
+  "called_by": "AP, Fox News",
+  "source": "AP call via KATV; Fox News projection; count: Fox News results, 11:08 PM (87% in)"
  },
  {
   "state": "Colorado",
@@ -172,12 +172,12 @@
   "held_by": "D",
   "polls_close_et": "9:00 PM",
   "dem_pct": 60.98,
-  "opp_pct": 35.05,
-  "vote_in_pct": 63.83,
+  "opp_pct": 34.96,
+  "vote_in_pct": 69.49,
   "standing": "won",
   "status": "Won",
   "called_by": "AP, Fox News",
-  "source": "Fox News results page, 10:07 PM ET; AP call per Denver Gazette"
+  "source": "Fox News results, 11:08 PM (count); call per AP, Fox News"
  },
  {
   "state": "Delaware",
@@ -186,13 +186,13 @@
   "opp_party": "R",
   "held_by": "D",
   "polls_close_et": "8:00 PM",
-  "dem_pct": 61,
-  "opp_pct": 39,
-  "vote_in_pct": 39,
+  "dem_pct": 63.56,
+  "opp_pct": 36.44,
+  "vote_in_pct": 98.75,
   "standing": "won",
   "status": "Won",
   "called_by": "AP, NBC News",
-  "source": "ABC News results, 8:42 PM ET"
+  "source": "Fox News results, 11:08 PM (count); call per AP, NBC News"
  },
  {
   "state": "Florida (special)",
@@ -201,13 +201,13 @@
   "opp_party": "R",
   "held_by": "R",
   "polls_close_et": "8:00 PM",
-  "dem_pct": 48,
-  "opp_pct": 51,
-  "vote_in_pct": 97,
+  "dem_pct": 47.95,
+  "opp_pct": 50.91,
+  "vote_in_pct": 99.0,
   "standing": "lost",
   "status": "Lost",
   "called_by": "Fox News, DDHQ, ABC News",
-  "source": "ABC News results, 8:42 PM ET"
+  "source": "Fox News results, 11:08 PM (count); call per Fox News, DDHQ, ABC News"
  },
  {
   "state": "Illinois",
@@ -216,13 +216,13 @@
   "opp_party": "R",
   "held_by": "D",
   "polls_close_et": "8:00 PM",
-  "dem_pct": 69,
-  "opp_pct": 30,
-  "vote_in_pct": 6,
+  "dem_pct": 61.2,
+  "opp_pct": 37.24,
+  "vote_in_pct": 73.88,
   "standing": "won",
   "status": "Won",
   "called_by": "AP, NBC News, Fox News, CBS News",
-  "source": "ABC News results, 8:42 PM ET"
+  "source": "Fox News results, 11:08 PM (count); call per AP, NBC News, Fox News, CBS News"
  },
  {
   "state": "Kansas",
@@ -231,13 +231,13 @@
   "opp_party": "R",
   "held_by": "R",
   "polls_close_et": "9:00 PM",
-  "dem_pct": 56.0,
-  "opp_pct": 41.36,
-  "vote_in_pct": 63.88,
-  "standing": "leading",
-  "status": "Counting – Democrat leads",
-  "called_by": "",
-  "source": "Fox News results page, 10:07 PM ET"
+  "dem_pct": 52.42,
+  "opp_pct": 44.66,
+  "vote_in_pct": 85.64,
+  "standing": "won",
+  "status": "Won",
+  "called_by": "AP, DDHQ",
+  "source": "AP call via KSHB; DDHQ projection; count: Fox News results, 11:08 PM (86% in)"
  },
  {
   "state": "Kentucky",
@@ -246,13 +246,13 @@
   "opp_party": "R",
   "held_by": "R",
   "polls_close_et": "7:00 PM",
-  "dem_pct": 44.2,
-  "opp_pct": 53.6,
-  "vote_in_pct": 72,
+  "dem_pct": 42.92,
+  "opp_pct": 54.98,
+  "vote_in_pct": 99.0,
   "standing": "lost",
   "status": "Lost",
   "called_by": "AP, ABC News, DDHQ",
-  "source": "AP call 9:16 PM ET and AP-count figures via Washington Examiner live blog; ABC News, DDHQ projections earlier; checked 9:38 PM"
+  "source": "Fox News results, 11:08 PM (count); call per AP, ABC News, DDHQ"
  },
  {
   "state": "Louisiana",
@@ -261,13 +261,13 @@
   "opp_party": "R",
   "held_by": "R",
   "polls_close_et": "9:00 PM",
-  "dem_pct": 44.38,
-  "opp_pct": 55.62,
-  "vote_in_pct": 40.84,
+  "dem_pct": 46.77,
+  "opp_pct": 53.23,
+  "vote_in_pct": 89,
   "standing": "trailing",
-  "status": "Early count – Democrat trails",
+  "status": "Counting – Democrat trails (local outlets KTBS and WWNO report Letlow won; no AP or network call confirmed in this check)",
   "called_by": "",
-  "source": "Fox News results page, 10:07 PM ET"
+  "source": "DDHQ results page, 11:50 PM (89% in); checked vs WWNO (Letlow 52%, Davis 48% at 11 PM)"
  },
  {
   "state": "Massachusetts",
@@ -276,13 +276,13 @@
   "opp_party": "R",
   "held_by": "D",
   "polls_close_et": "8:00 PM",
-  "dem_pct": 79,
-  "opp_pct": 14,
-  "vote_in_pct": 2,
+  "dem_pct": 65.03,
+  "opp_pct": 30.31,
+  "vote_in_pct": 37.85,
   "standing": "won",
   "status": "Won",
   "called_by": "AP, NBC News",
-  "source": "ABC News results, 8:42 PM ET"
+  "source": "Fox News results, 11:08 PM (count); call per AP, NBC News"
  },
  {
   "state": "Minnesota",
@@ -291,13 +291,13 @@
   "opp_party": "R",
   "held_by": "D",
   "polls_close_et": "9:00 PM",
-  "dem_pct": 41.39,
-  "opp_pct": 55.86,
-  "vote_in_pct": 2.5,
-  "standing": "trailing",
-  "status": "Early count – Democrat trails",
-  "called_by": "",
-  "source": "Fox News results page, 10:07 PM ET"
+  "dem_pct": 54.0,
+  "opp_pct": 43.3,
+  "vote_in_pct": 74.8,
+  "standing": "won",
+  "status": "Won",
+  "called_by": "AP, NBC News",
+  "source": "Count: Valley News Live unofficial results, est. 74.8% counted, 11:20 PM CT; AP call (Flanagan 54.36% at 70.6% counted) per Washington Examiner; NBC News projection per NBC Washington live blog"
  },
  {
   "state": "Mississippi",
@@ -306,13 +306,13 @@
   "opp_party": "R",
   "held_by": "R",
   "polls_close_et": "8:00 PM",
-  "dem_pct": 46.77,
-  "opp_pct": 51.07,
-  "vote_in_pct": 57.36,
-  "standing": "trailing",
-  "status": "Counting – Democrat trails",
+  "dem_pct": 49.1,
+  "opp_pct": 48.8,
+  "vote_in_pct": 87,
+  "standing": "leading",
+  "status": "Too close to call – Democrat leads",
   "called_by": "",
-  "source": "Fox News results page, 10:07 PM ET"
+  "source": "DDHQ race update (est. 87% in), via DDHQ on X, checked 12:05 AM"
  },
  {
   "state": "Montana",
@@ -321,13 +321,13 @@
   "opp_party": "R",
   "held_by": "R",
   "polls_close_et": "10:00 PM",
-  "dem_pct": null,
-  "opp_pct": null,
-  "vote_in_pct": null,
-  "standing": "pending",
-  "status": "Polls closed – no votes reported yet",
+  "dem_pct": 12.0,
+  "opp_pct": 48.4,
+  "vote_in_pct": 28.2,
+  "standing": "trailing",
+  "status": "Early count – Democrat trails (independent Seth Bodnar is second at 37.8%)",
   "called_by": "",
-  "source": "Fox News results page, 10:07 PM ET (0% reported)"
+  "source": "NBC News results (AP data), 11:33 PM check"
  },
  {
   "state": "New Jersey",
@@ -336,13 +336,13 @@
   "opp_party": "R",
   "held_by": "D",
   "polls_close_et": "8:00 PM",
-  "dem_pct": 69,
-  "opp_pct": 29,
-  "vote_in_pct": 30,
+  "dem_pct": 62.53,
+  "opp_pct": 34.93,
+  "vote_in_pct": 86.9,
   "standing": "won",
   "status": "Won",
   "called_by": "AP, NBC News",
-  "source": "ABC News results, 8:42 PM ET"
+  "source": "Fox News results, 11:08 PM (count); call per AP, NBC News"
  },
  {
   "state": "New Mexico",
@@ -351,13 +351,13 @@
   "opp_party": "R",
   "held_by": "D",
   "polls_close_et": "9:00 PM",
-  "dem_pct": 63.01,
-  "opp_pct": 36.99,
-  "vote_in_pct": 26.48,
+  "dem_pct": 61.79,
+  "opp_pct": 38.21,
+  "vote_in_pct": 44.34,
   "standing": "won",
   "status": "Won",
   "called_by": "AP, Fox News",
-  "source": "Fox News results page, 10:07 PM ET; AP call per AP story (WUSA9)"
+  "source": "Fox News results, 11:08 PM (count); call per AP, Fox News"
  },
  {
   "state": "Oklahoma",
@@ -366,13 +366,13 @@
   "opp_party": "R",
   "held_by": "R",
   "polls_close_et": "8:00 PM",
-  "dem_pct": 37.29,
-  "opp_pct": 59.24,
-  "vote_in_pct": 70.46,
+  "dem_pct": 38.74,
+  "opp_pct": 57.78,
+  "vote_in_pct": 84.06,
   "standing": "lost",
   "status": "Lost",
   "called_by": "AP, Fox News",
-  "source": "Fox News results page, 10:07 PM ET; AP call per AP story (WTOP)"
+  "source": "Fox News results, 11:08 PM (count); call per AP, Fox News"
  },
  {
   "state": "Oregon",
@@ -381,13 +381,13 @@
   "opp_party": "R",
   "held_by": "D",
   "polls_close_et": "11:00 PM",
-  "dem_pct": null,
-  "opp_pct": null,
+  "dem_pct": 57.06,
+  "opp_pct": 40.24,
   "vote_in_pct": null,
-  "standing": "pending",
-  "status": "Polls open",
-  "called_by": "",
-  "source": "2026election.com; checked vs WhatDistrictAmIIn"
+  "standing": "won",
+  "status": "Won (share counted not reported)",
+  "called_by": "AP, Fox News",
+  "source": "Banks Post: AP called race at 8 PM PT; initial statewide results 57.06%–40.24% (share counted not stated), checked 12:05 AM; Fox News earlier"
  },
  {
   "state": "Rhode Island",
@@ -396,13 +396,13 @@
   "opp_party": "R",
   "held_by": "D",
   "polls_close_et": "8:00 PM",
-  "dem_pct": 64,
-  "opp_pct": 31,
-  "vote_in_pct": 52,
+  "dem_pct": 66.57,
+  "opp_pct": 29.47,
+  "vote_in_pct": 93.73,
   "standing": "won",
   "status": "Won",
   "called_by": "AP, Fox News",
-  "source": "ABC News results, 8:42 PM ET"
+  "source": "Fox News results, 11:08 PM (count); call per AP, Fox News"
  },
  {
   "state": "South Carolina",
@@ -412,12 +412,12 @@
   "held_by": "R",
   "polls_close_et": "7:00 PM",
   "dem_pct": 51.01,
-  "opp_pct": 46.86,
-  "vote_in_pct": 86.94,
+  "opp_pct": 46.77,
+  "vote_in_pct": 96.89,
   "standing": "won",
   "status": "Won",
   "called_by": "NBC News, CBS News, DDHQ",
-  "source": "Counts: earlier AP-data count (51.01% / 46.86%, 86.94% in) kept as highest share counted; Mother Jones 10:10 PM: 88% in, Andrews +4.1 pts (no shares). Calls: NBC News ~9:59 PM (Daily Caller), CBS News 10:01 PM, DDHQ (Yahoo News)"
+  "source": "Fox News results, 11:08 PM (count); call per NBC News, CBS News, DDHQ"
  },
  {
   "state": "Tennessee",
@@ -426,13 +426,13 @@
   "opp_party": "R",
   "held_by": "R",
   "polls_close_et": "8:00 PM",
-  "dem_pct": 43.76,
-  "opp_pct": 54.31,
-  "vote_in_pct": 70.59,
+  "dem_pct": 43.3,
+  "opp_pct": 54.72,
+  "vote_in_pct": 86.77,
   "standing": "lost",
   "status": "Lost",
   "called_by": "NBC News, Fox News",
-  "source": "Fox News results page, 10:07 PM ET; NBC call per WSMV"
+  "source": "Fox News results, 11:08 PM (count); call per NBC News, Fox News"
  },
  {
   "state": "Virginia",
@@ -441,13 +441,13 @@
   "opp_party": "R",
   "held_by": "D",
   "polls_close_et": "7:00 PM",
-  "dem_pct": 58,
-  "opp_pct": 41,
-  "vote_in_pct": 54,
+  "dem_pct": 59.94,
+  "opp_pct": 39.79,
+  "vote_in_pct": 88.26,
   "standing": "won",
   "status": "Won",
   "called_by": "NBC News, DDHQ, Fox News",
-  "source": "ABC News results, 8:42 PM ET"
+  "source": "Fox News results, 11:08 PM (count); call per NBC News, DDHQ, Fox News"
  },
  {
   "state": "West Virginia",
@@ -456,13 +456,13 @@
   "opp_party": "R",
   "held_by": "R",
   "polls_close_et": "7:30 PM",
-  "dem_pct": 38.0,
-  "opp_pct": 58.25,
-  "vote_in_pct": 87.26,
+  "dem_pct": 37.96,
+  "opp_pct": 58.29,
+  "vote_in_pct": 93.35,
   "standing": "lost",
   "status": "Lost",
   "called_by": "AP, Fox News",
-  "source": "Fox News results page, 10:07 PM ET; AP call 8:52 PM per AP story (WTAP)"
+  "source": "Fox News results, 11:08 PM (count); call per AP, Fox News"
  },
  {
   "state": "Wyoming",
@@ -471,12 +471,12 @@
   "opp_party": "R",
   "held_by": "R",
   "polls_close_et": "9:00 PM",
-  "dem_pct": 58.25,
-  "opp_pct": 41.75,
-  "vote_in_pct": 4.25,
+  "dem_pct": 34.99,
+  "opp_pct": 65.01,
+  "vote_in_pct": 33.19,
   "standing": "lost",
   "status": "Lost (AP call at poll close; early count shown)",
   "called_by": "AP",
-  "source": "Fox News results page, 10:07 PM ET; AP call per GV Wire"
+  "source": "Fox News results, 11:08 PM (count); call per AP"
  }
 ]
