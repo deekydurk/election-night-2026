@@ -96,13 +96,13 @@
   "opp_party": "R",
   "held_by": "R",
   "polls_close_et": "9:00 PM",
-  "dem_pct": 58.86,
-  "opp_pct": 39.61,
-  "vote_in_pct": 55.33,
+  "dem_pct": 57.4,
+  "opp_pct": 41.1,
+  "vote_in_pct": 60,
   "standing": "leading",
-  "status": "Counting – Democrat leads",
+  "status": "Counting – DDHQ projects win; awaiting a second call",
   "called_by": "",
-  "source": "Fox News results page, 10:07 PM ET"
+  "source": "DDHQ tally via Clash Report, 10:14 PM (DDHQ projection at 10:14 PM); The Hill and Nexstar stations also report the DDHQ projection"
  },
  {
   "state": "Iowa",
@@ -407,17 +407,17 @@
  {
   "state": "South Carolina",
   "dem_candidate": "Annie Andrews",
-  "opponent": "Lindsey Graham (inc.)",
+  "opponent": "Darline Graham (inc.)",
   "opp_party": "R",
   "held_by": "R",
   "polls_close_et": "7:00 PM",
   "dem_pct": 51.01,
   "opp_pct": 46.86,
   "vote_in_pct": 86.94,
-  "standing": "leading",
-  "status": "Counting – Democrat leads",
-  "called_by": "",
-  "source": "Fox News results page, 10:07 PM ET"
+  "standing": "won",
+  "status": "Won",
+  "called_by": "NBC News, CBS News, DDHQ",
+  "source": "Counts: earlier AP-data count (51.01% / 46.86%, 86.94% in) kept as highest share counted; Mother Jones 10:10 PM: 88% in, Andrews +4.1 pts (no shares). Calls: NBC News ~9:59 PM (Daily Caller), CBS News 10:01 PM, DDHQ (Yahoo News)"
  },
  {
   "state": "Tennessee",

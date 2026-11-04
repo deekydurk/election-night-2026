@@ -1,8 +1,23 @@
 [
  {
-  "time_et": "By 10:25 PM",
-  "item": "AP calls Colorado's governor race for Democrat Phil Weiser at poll close; NBC News and Decision Desk HQ also project him. DDHQ projects Democrat Rob Sand wins Iowa's governor race and Republican Alan Wilson wins South Carolina's; both await a second call here.",
-  "source": "AP via KDVR/Axios; NBC News; DDHQ via The Hill/WBTW"
+  "time_et": "By 10:01 PM",
+  "item": "NBC News (about 9:59 PM), CBS News and Decision Desk HQ project Democrat Annie Andrews defeats Republican Sen. Darline Graham in South Carolina's Senate race, flipping the seat. (Graham, the late Sen. Lindsey Graham's sister, held the seat by appointment; the tracker's listing is corrected.)",
+  "source": "NBC News via Daily Caller; CBS News; DDHQ via Yahoo News"
+ },
+ {
+  "time_et": "10:14 PM",
+  "item": "Decision Desk HQ projects Democrat James Talarico defeats Republican Ken Paxton in Texas's Senate race (DDHQ count: Talarico 57.4%, Paxton 41.1%, about 60% counted). Shown as counting here until a second outlet's call is confirmed.",
+  "source": "DDHQ via Clash Report; The Hill"
+ },
+ {
+  "time_et": "By 9:26 PM",
+  "item": "AP projects Democrat Keisha Lance Bottoms wins Georgia's governor race over Republican Rick Jackson, joining NBC News; shown as won here.",
+  "source": "AP via FOX 5 Atlanta; NBC News"
+ },
+ {
+  "time_et": "Just after 9 PM",
+  "item": "AP calls Florida's governor race for Republican Byron Donalds over Democrat David Jolly, joining NBC News; shown as lost here. Local outlets report Jolly has conceded.",
+  "source": "AP via WINK News; NBC News; Hometown Stations"
  },
  {
   "time_et": "By 10:10 PM",
@@ -51,13 +66,18 @@
  },
  {
   "time_et": "By 10:10 PM",
-  "item": "NBC News projects Republican Byron Donalds wins Florida's governor race (AP count: Donalds 50.1%, Jolly 48.6%, about 99% counted). Shown as counting here until a second outlet's call is confirmed.",
-  "source": "NBC News; AP count via Yahoo News"
+  "item": "Ohio Senate tightens: Democrat Sherrod Brown 48.25%, Republican Sen. Jon Husted 47.00%, with 73% of expected vote in.",
+  "source": "Fox News results"
+ },
+ {
+  "time_et": "By 10:25 PM",
+  "item": "AP calls Colorado's governor race for Democrat Phil Weiser at poll close; NBC News and Decision Desk HQ also project him. DDHQ projects Democrat Rob Sand wins Iowa's governor race and Republican Alan Wilson wins South Carolina's; both await a second call here.",
+  "source": "AP via KDVR/Axios; NBC News; DDHQ via The Hill/WBTW"
  },
  {
   "time_et": "By 10:10 PM",
-  "item": "Ohio Senate tightens: Democrat Sherrod Brown 48.25%, Republican Sen. Jon Husted 47.00%, with 73% of expected vote in.",
-  "source": "Fox News results"
+  "item": "NBC News projects Republican Byron Donalds wins Florida's governor race (AP count: Donalds 50.1%, Jolly 48.6%, about 99% counted). Shown as counting here until a second outlet's call is confirmed.",
+  "source": "NBC News; AP count via Yahoo News"
  },
  {
   "time_et": "By 10:10 PM",
@@ -128,25 +148,5 @@
   "time_et": "8:00 PM",
   "item": "Fox News calls Massachusetts's governor race for Democrat Maura Healey, matching NBC News's projection; shown as won here. Fox also called Maryland's governor race for Democrat Wes Moore, awaiting a second call.",
   "source": "Fox News, NBC News"
- },
- {
-  "time_et": "8:28 PM",
-  "item": "The Hill reports Republican Sen. Ashley Moody is projected to win Florida's Senate special election over Democrat Angie Nixon. AP and NBC News had not called it as of this check, so it stays uncalled here.",
-  "source": "The Hill"
- },
- {
-  "time_et": "By 8:24 PM",
-  "item": "AP calls North Carolina's Senate race for Democrat Roy Cooper over Republican Michael Whatley, flipping a Republican-held seat.",
-  "source": "AP (via NPR)"
- },
- {
-  "time_et": "By 8:28 PM",
-  "item": "AP projects Democratic Gov. JB Pritzker wins re-election in Illinois, confirming NBC News's earlier projection.",
-  "source": "AP (via Bloomberg), NBC News"
- },
- {
-  "time_et": "8:00 PM",
-  "item": "AP called Senate races for Democrats at poll close: Chris Coons (Delaware), Juliana Stratton (Illinois), Ed Markey (Massachusetts), Cory Booker (New Jersey) and Jack Reed (Rhode Island). Shown as won here now that AP and NBC News agree.",
-  "source": "AP (via GV Wire), NBC News"
  }
 ]

@@ -9,10 +9,10 @@
   "dem_pct": 57.56,
   "opp_pct": 42.44,
   "vote_in_pct": 62.47,
-  "standing": "leading",
-  "status": "Counting – NBC News projects win; awaiting a second call",
-  "called_by": "",
-  "source": "Vote shares: NBC News results (AP data), 8:41 PM check; NBC projection via NBC live blog, 9:10 PM check"
+  "standing": "won",
+  "status": "Won",
+  "called_by": "AP, NBC News",
+  "source": "Vote shares: NBC News results (AP data), 8:41 PM check; NBC projection via NBC live blog, 9:10 PM check; AP projection via FOX 5 Atlanta, 9:24 PM"
  },
  {
   "state": "Ohio",
@@ -234,10 +234,10 @@
   "dem_pct": 48.6,
   "opp_pct": 50.1,
   "vote_in_pct": 99,
-  "standing": "trailing",
-  "status": "Counting – NBC News projects loss; awaiting a second call",
-  "called_by": "",
-  "source": "AP count via Yahoo News article (about 99% counted), ~9:34 PM; NBC News results page title shows Donalds win"
+  "standing": "lost",
+  "status": "Lost",
+  "called_by": "AP, NBC News",
+  "source": "AP count via Yahoo News article (about 99% counted), ~9:34 PM; NBC News results page title shows Donalds win; AP call via WINK News (\"just after 9 p.m.\")"
  },
  {
   "state": "Hawaii",
