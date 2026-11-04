@@ -85,9 +85,9 @@
   "opp_pct": 46.79,
   "vote_in_pct": 30.46,
   "standing": "leading",
-  "status": "Early count – Democrat leads",
+  "status": "Early count – Democrat leads (The Hill headline reports El-Sayed won; WWJ reported the race too close to call at 12:53 AM ET; no AP or network call confirmed)",
   "called_by": "",
-  "source": "Fox News results, 11:08 PM (30% in); no call found; rechecked 1:08 AM (DDHQ 27% in, lower than shown)"
+  "source": "Fox News results, 11:08 PM (30% in); no call found; rechecked 1:08 AM (DDHQ 27% in, lower than shown); 1:40 AM check: no newer count retrieved (WWJ 12:53 AM, The Hill via WROC)"
  },
  {
   "state": "Texas",
@@ -306,13 +306,13 @@
   "opp_party": "R",
   "held_by": "R",
   "polls_close_et": "8:00 PM",
-  "dem_pct": 49.1,
-  "opp_pct": 48.8,
-  "vote_in_pct": 87,
-  "standing": "leading",
-  "status": "Too close to call – Democrat leads",
+  "dem_pct": 48.2,
+  "opp_pct": 49.7,
+  "vote_in_pct": 94,
+  "standing": "trailing",
+  "status": "Too close to call – Democrat trails",
   "called_by": "",
-  "source": "DDHQ race update (est. 87% in), via DDHQ on X, checked 12:05 AM"
+  "source": "Commercial Dispatch (Columbus, Miss.) results story, published 1:00 AM ET: Hyde-Smith 459,046 (49.7%), Colom 445,259 (48.2%), 94% counted, too close to call; earlier DDHQ 87% update had Colom ahead"
  },
  {
   "state": "Montana",

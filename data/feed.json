@@ -1,5 +1,15 @@
 [
  {
+  "time_et": "By 1:38 AM",
+  "item": "AP calls New Hampshire's governor race for Republican Gov. Kelly Ayotte over Democrat Cinde Warmington, joining Fox News. Ayotte 51.1%, Warmington 47.3% as of 12:42 AM.",
+  "source": "Washington Examiner (citing AP), 12:48 AM ET; Fox News"
+ },
+ {
+  "time_et": "By 1:38 AM",
+  "item": "Mississippi Senate remains too close to call: Republican Sen. Cindy Hyde-Smith 49.7%, Democrat Scott Colom 48.2% with 94% of votes counted.",
+  "source": "Commercial Dispatch (Columbus, Miss.)"
+ },
+ {
   "time_et": "By 1:10 AM",
   "item": "Alaska Senate early returns: Democrat Mary Peltola 54.1%, Republican Sen. Dan Sullivan 42.8%, with 45 of 401 precincts reporting; the state will keep accepting ballots for days. Nevada still has not reported any votes in the governor's race.",
   "source": "Alaska Division of Elections via Anchorage Daily News, Alaska Beacon; NBC News, CNN results pages"
@@ -138,15 +148,5 @@
   "time_et": "By 11:15 PM",
   "item": "NBC News's House results page headline reads \"Democrats Win Majority\", indicating an NBC projection of House control. AP's last retrieved House tally (9:20 PM) was 73 Democratic, 36 Republican seats called.",
   "source": "NBC News results page; AP via Yahoo News"
- },
- {
-  "time_et": "By 10:54 PM",
-  "item": "AP calls Wisconsin's governor race for Democrat David Crowley over Republican Tom Tiffany; NBC News also projects him. Shown as won here.",
-  "source": "AP via WUWM; NBC News results page"
- },
- {
-  "time_et": "10:40 PM",
-  "item": "AP calls New Mexico's governor race for Democrat Deb Haaland over Republican Gregg Hull.",
-  "source": "AP via Scripps News, Source NM"
  }
 ]

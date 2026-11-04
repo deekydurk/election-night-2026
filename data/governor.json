@@ -369,10 +369,10 @@
   "dem_pct": 47.5,
   "opp_pct": 50.8,
   "vote_in_pct": 59,
-  "standing": "trailing",
-  "status": "Counting – Fox News projects loss; awaiting a second call (Concord Monitor reports race too close to call)",
-  "called_by": "",
-  "source": "Boston Globe (AP said too close to call), 10:23 PM, 59% counted; Fox News Decision Desk projects Ayotte (Fox News, 11:23 PM)"
+  "standing": "lost",
+  "status": "Lost (AP call; shares shown are from 59% counted)",
+  "called_by": "AP, Fox News",
+  "source": "Boston Globe (AP said too close to call), 10:23 PM, 59% counted; Fox News Decision Desk projects Ayotte (Fox News, 11:23 PM); AP call per Washington Examiner, 12:48 AM ET (Ayotte 51.1%, Warmington 47.3% as of 12:42 AM, share counted not stated)"
  },
  {
   "state": "New Mexico",
