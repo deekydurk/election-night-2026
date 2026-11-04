@@ -1,5 +1,65 @@
 [
  {
+  "time_et": "By 10:10 PM",
+  "item": "AP and Fox News call Colorado's Senate race for Democratic Sen. John Hickenlooper over Republican Mark Baisley (Hickenlooper 60.98%, Baisley 35.05%, 64% in per Fox News).",
+  "source": "AP (via Denver Gazette); Fox News"
+ },
+ {
+  "time_et": "By 10:10 PM",
+  "item": "AP and Fox News call New Mexico's Senate race for Democratic Sen. Ben Ray Luján over Republican Larry Marker.",
+  "source": "AP (via WUSA9, GV Wire); Fox News"
+ },
+ {
+  "time_et": "By 10:10 PM",
+  "item": "AP calls Wyoming's Senate race for Republican Harriet Hageman over Democrat James Byrd.",
+  "source": "AP (via GV Wire)"
+ },
+ {
+  "time_et": "8:52 PM",
+  "item": "AP calls West Virginia's Senate race for Republican Sen. Shelley Moore Capito over Democrat Rachel Fetty Anderson; Fox News also calls it.",
+  "source": "AP (via WTAP); Fox News"
+ },
+ {
+  "time_et": "By 10:10 PM",
+  "item": "AP and Fox News call Oklahoma's Senate race for Republican Kevin Hern over Democrat N'Kiyla Thomas.",
+  "source": "AP (via WTOP); Fox News"
+ },
+ {
+  "time_et": "By 10:10 PM",
+  "item": "NBC News and Fox News call Tennessee's Senate race for Republican Sen. Bill Hagerty over Democrat Marquita Bradshaw.",
+  "source": "WSMV (citing NBC News); Fox News"
+ },
+ {
+  "time_et": "8:32 PM",
+  "item": "AP calls Rhode Island's governor race for Democrat Helena Foulkes.",
+  "source": "AP (via CJME)"
+ },
+ {
+  "time_et": "By 10:10 PM",
+  "item": "AP calls New York's governor race for Democratic Gov. Kathy Hochul, joining CBS News; shown as won here.",
+  "source": "AP (via WAMC); CBS News"
+ },
+ {
+  "time_et": "By 10:10 PM",
+  "item": "AP projects Republican Eric Barlow wins Wyoming's governor race over Democrat Ken Casner.",
+  "source": "AP (via KTVQ)"
+ },
+ {
+  "time_et": "By 10:10 PM",
+  "item": "NBC News projects Republican Byron Donalds wins Florida's governor race (AP count: Donalds 50.1%, Jolly 48.6%, about 99% counted). Shown as counting here until a second outlet's call is confirmed.",
+  "source": "NBC News; AP count via Yahoo News"
+ },
+ {
+  "time_et": "By 10:10 PM",
+  "item": "Ohio Senate tightens: Democrat Sherrod Brown 48.25%, Republican Sen. Jon Husted 47.00%, with 73% of expected vote in.",
+  "source": "Fox News results"
+ },
+ {
+  "time_et": "By 10:10 PM",
+  "item": "Local outlets report Democrats Phil Weiser (Colorado), Ned Lamont (Connecticut) and Rob Sand (Iowa) have won governor races; the calling outlets were not confirmed in this check, so these are not yet shown as won.",
+  "source": "Colorado Sun, Axios Denver, WTNH, The Hill"
+ },
+ {
   "time_et": "By 9:50 PM",
   "item": "Texas: Democrat James Talarico leads Republican Ken Paxton 59.7% to 38.8% in the Senate race with an AP-estimated 52% counted; Democrat Gina Hinojosa leads Gov. Greg Abbott 56.6% to 42.1% with about 40% counted. Neither race is called.",
   "source": "Texas Tribune (AP data) via Victoria Advocate; NBC News (AP data)"
@@ -88,65 +148,5 @@
   "time_et": "8:19 PM",
   "item": "Florida's Senate special (Moody 50.3%, Nixon 48.5%) and governor race (Donalds 49.4%, Jolly 49.3%) are too close to call with about 92% of the expected vote counted.",
   "source": "NBC News (AP data)"
- },
- {
-  "time_et": "8:15 PM",
-  "item": "Republican John Sununu conceded New Hampshire's Senate race to Democrat Chris Pappas. NBC News had not formally called it; Pappas led 60.6% to 37.6% with about 20% of the vote in.",
-  "source": "NBC Boston"
- },
- {
-  "time_et": "8:15 PM",
-  "item": "NBC News projects Democratic wins for Cory Booker (NJ Senate), Chris Coons (DE Senate), Ed Markey (MA Senate), Juliana Stratton (IL Senate), JB Pritzker (IL governor) and Maura Healey (MA governor). Shown as counting here until a second outlet confirms.",
-  "source": "NBC News, NBC Boston, NBC Philadelphia"
- },
- {
-  "time_et": "8:00 PM",
-  "item": "Democratic Gov. Josh Shapiro wins re-election in Pennsylvania, called by AP at poll close and projected by NBC News.",
-  "source": "AP via WHYY; NBC News"
- },
- {
-  "time_et": "8:00 PM",
-  "item": "Polls closed in Alabama, Delaware, Illinois, Maine, Massachusetts, Mississippi, New Hampshire, New Jersey, Oklahoma, Pennsylvania, Rhode Island, Tennessee, the Florida panhandle and most of Michigan and Texas. No new calls in tracked races verified as of 8:12 PM.",
-  "source": "Poll-closing schedules (Fox News / ABC News guides)"
- },
- {
-  "time_et": "7:52 PM",
-  "item": "Early counts: Sherrod Brown (D) leads in Ohio's Senate special election with about 18% of the expected vote in; Annie Andrews (D) leads in South Carolina with 9% in; Charles Booker (D) trails in Kentucky with 21% in. None of these is called.",
-  "source": "NBC News (AP data)"
- },
- {
-  "time_et": "7:50 PM",
-  "item": "Decision Desk HQ projects Republican Sen. Shelley Moore Capito wins re-election in West Virginia. AP and NBC had not called it; the early count was close with about 6% of the vote in.",
-  "source": "NewsNation / Decision Desk HQ"
- },
- {
-  "time_et": "7:45 PM",
-  "item": "Democratic Sen. Mark Warner projected to win re-election in Virginia, the first Senate race called tonight.",
-  "source": "NBC News, Decision Desk HQ"
- },
- {
-  "time_et": "7:37 PM",
-  "item": "NBC News projects Democratic Sen. Jon Ossoff wins re-election in Georgia over Republican Rep. Mike Collins, with about 25% of the expected vote counted.",
-  "source": "NBC News (via GV Wire)"
- },
- {
-  "time_et": "7:30 PM",
-  "item": "Polls closed in North Carolina and Ohio. Fox News reported North Carolina's statewide results are delayed about 45 minutes after some polling sites stayed open late.",
-  "source": "Fox News"
- },
- {
-  "time_et": "7:18 PM",
-  "item": "Decision Desk HQ projects Democratic Sen. Jon Ossoff wins re-election in Georgia, minutes after polls closed. AP had not called the race at the time.",
-  "source": "Decision Desk HQ (via Clash Report)"
- },
- {
-  "time_et": "7:00 PM",
-  "item": "Polls closed in Georgia, Virginia, South Carolina, Vermont and most of Florida.",
-  "source": "Fox News / poll-closing guides"
- },
- {
-  "time_et": "6:00 PM",
-  "item": "First mainland polls closed in parts of Indiana and Kentucky.",
-  "source": "Fox News"
  }
 ]

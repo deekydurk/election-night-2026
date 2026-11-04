@@ -36,13 +36,13 @@
   "opp_party": "R",
   "held_by": "R",
   "polls_close_et": "7:30 PM",
-  "dem_pct": 56,
-  "opp_pct": 40,
-  "vote_in_pct": 37,
+  "dem_pct": 48.25,
+  "opp_pct": 47.0,
+  "vote_in_pct": 73.05,
   "standing": "leading",
-  "status": "Early count – Democrat leads",
+  "status": "Counting – Democrat leads",
   "called_by": "",
-  "source": "ABC News results, 8:42 PM ET"
+  "source": "Fox News results page, 10:07 PM ET"
  },
  {
   "state": "Maine",
@@ -51,13 +51,13 @@
   "opp_party": "R",
   "held_by": "R",
   "polls_close_et": "8:00 PM",
-  "dem_pct": 41,
-  "opp_pct": 58,
-  "vote_in_pct": 0,
-  "standing": "trailing",
-  "status": "Early count – Democrat trails",
+  "dem_pct": 50.81,
+  "opp_pct": 49.13,
+  "vote_in_pct": 16.18,
+  "standing": "leading",
+  "status": "Early count – Democrat leads",
   "called_by": "",
-  "source": "ABC News results, 8:42 PM ET (0% of expected vote shown)"
+  "source": "Fox News results page, 10:07 PM ET"
  },
  {
   "state": "New Hampshire",
@@ -81,13 +81,13 @@
   "opp_party": "R",
   "held_by": "D",
   "polls_close_et": "9:00 PM",
-  "dem_pct": 55,
-  "opp_pct": 43,
-  "vote_in_pct": 4,
+  "dem_pct": 54.16,
+  "opp_pct": 44.15,
+  "vote_in_pct": 19.92,
   "standing": "leading",
   "status": "Early count – Democrat leads",
   "called_by": "",
-  "source": "Deadline Detroit (about 4% of the vote counted), 9:10 PM ET"
+  "source": "Fox News results page, 10:07 PM ET"
  },
  {
   "state": "Texas",
@@ -96,13 +96,13 @@
   "opp_party": "R",
   "held_by": "R",
   "polls_close_et": "9:00 PM",
-  "dem_pct": 59.7,
-  "opp_pct": 38.8,
-  "vote_in_pct": 52.08,
+  "dem_pct": 58.86,
+  "opp_pct": 39.61,
+  "vote_in_pct": 55.33,
   "standing": "leading",
   "status": "Counting – Democrat leads",
   "called_by": "",
-  "source": "Texas Tribune (AP data) via Victoria Advocate, 9:50 PM check; AP estimate 52.08% counted; not called"
+  "source": "Fox News results page, 10:07 PM ET"
  },
  {
   "state": "Iowa",
@@ -111,13 +111,13 @@
   "opp_party": "R",
   "held_by": "R",
   "polls_close_et": "9:00 PM",
-  "dem_pct": null,
-  "opp_pct": null,
-  "vote_in_pct": null,
-  "standing": "pending",
-  "status": "Polls closed – no verified count yet",
+  "dem_pct": 55.9,
+  "opp_pct": 41.46,
+  "vote_in_pct": 30.61,
+  "standing": "leading",
+  "status": "Early count – Democrat leads",
   "called_by": "",
-  "source": "CBS News race list"
+  "source": "Fox News results page, 10:07 PM ET"
  },
  {
   "state": "Alaska",
@@ -141,13 +141,13 @@
   "opp_party": "R",
   "held_by": "R",
   "polls_close_et": "8:00 PM",
-  "dem_pct": 54,
-  "opp_pct": 46,
-  "vote_in_pct": 0,
-  "standing": "leading",
-  "status": "Early count – Democrat leads",
+  "dem_pct": 39.65,
+  "opp_pct": 60.35,
+  "vote_in_pct": 41.14,
+  "standing": "trailing",
+  "status": "Early count – Democrat trails",
   "called_by": "",
-  "source": "ABC News results, 8:42 PM ET (0% of expected vote shown)"
+  "source": "Fox News results page, 10:07 PM ET"
  },
  {
   "state": "Arkansas",
@@ -156,13 +156,13 @@
   "opp_party": "R",
   "held_by": "R",
   "polls_close_et": "8:30 PM",
-  "dem_pct": 29,
-  "opp_pct": 67,
-  "vote_in_pct": 1,
+  "dem_pct": 44.07,
+  "opp_pct": 52.99,
+  "vote_in_pct": 71.96,
   "standing": "trailing",
-  "status": "Early count – Democrat trails",
+  "status": "Counting – Democrat trails",
   "called_by": "",
-  "source": "ABC News results, 8:42 PM ET"
+  "source": "Fox News results page, 10:07 PM ET"
  },
  {
   "state": "Colorado",
@@ -171,13 +171,13 @@
   "opp_party": "R",
   "held_by": "D",
   "polls_close_et": "9:00 PM",
-  "dem_pct": null,
-  "opp_pct": null,
-  "vote_in_pct": null,
-  "standing": "pending",
-  "status": "Polls closed – no verified count yet",
-  "called_by": "",
-  "source": "2026election.com; checked vs WhatDistrictAmIIn"
+  "dem_pct": 60.98,
+  "opp_pct": 35.05,
+  "vote_in_pct": 63.83,
+  "standing": "won",
+  "status": "Won",
+  "called_by": "AP, Fox News",
+  "source": "Fox News results page, 10:07 PM ET; AP call per Denver Gazette"
  },
  {
   "state": "Delaware",
@@ -231,13 +231,13 @@
   "opp_party": "R",
   "held_by": "R",
   "polls_close_et": "9:00 PM",
-  "dem_pct": null,
-  "opp_pct": null,
-  "vote_in_pct": null,
-  "standing": "pending",
-  "status": "Polls closed – no verified count yet",
+  "dem_pct": 56.0,
+  "opp_pct": 41.36,
+  "vote_in_pct": 63.88,
+  "standing": "leading",
+  "status": "Counting – Democrat leads",
   "called_by": "",
-  "source": "2026election.com; checked vs WhatDistrictAmIIn"
+  "source": "Fox News results page, 10:07 PM ET"
  },
  {
   "state": "Kentucky",
@@ -261,13 +261,13 @@
   "opp_party": "R",
   "held_by": "R",
   "polls_close_et": "9:00 PM",
-  "dem_pct": null,
-  "opp_pct": null,
-  "vote_in_pct": null,
-  "standing": "pending",
-  "status": "Polls closed – no verified count yet",
+  "dem_pct": 44.38,
+  "opp_pct": 55.62,
+  "vote_in_pct": 40.84,
+  "standing": "trailing",
+  "status": "Early count – Democrat trails",
   "called_by": "",
-  "source": "2026election.com; checked vs WhatDistrictAmIIn"
+  "source": "Fox News results page, 10:07 PM ET"
  },
  {
   "state": "Massachusetts",
@@ -291,13 +291,13 @@
   "opp_party": "R",
   "held_by": "D",
   "polls_close_et": "9:00 PM",
-  "dem_pct": null,
-  "opp_pct": null,
-  "vote_in_pct": null,
-  "standing": "pending",
-  "status": "Polls closed – no verified count yet",
+  "dem_pct": 41.39,
+  "opp_pct": 55.86,
+  "vote_in_pct": 2.5,
+  "standing": "trailing",
+  "status": "Early count – Democrat trails",
   "called_by": "",
-  "source": "2026election.com; checked vs WhatDistrictAmIIn"
+  "source": "Fox News results page, 10:07 PM ET"
  },
  {
   "state": "Mississippi",
@@ -306,13 +306,13 @@
   "opp_party": "R",
   "held_by": "R",
   "polls_close_et": "8:00 PM",
-  "dem_pct": 61,
-  "opp_pct": 37,
-  "vote_in_pct": 0,
-  "standing": "leading",
-  "status": "Early count – Democrat leads",
+  "dem_pct": 46.77,
+  "opp_pct": 51.07,
+  "vote_in_pct": 57.36,
+  "standing": "trailing",
+  "status": "Counting – Democrat trails",
   "called_by": "",
-  "source": "ABC News results, 8:42 PM ET (0% of expected vote shown)"
+  "source": "Fox News results page, 10:07 PM ET"
  },
  {
   "state": "Montana",
@@ -325,9 +325,9 @@
   "opp_pct": null,
   "vote_in_pct": null,
   "standing": "pending",
-  "status": "Polls open",
+  "status": "Polls closed – no votes reported yet",
   "called_by": "",
-  "source": "2026election.com; checked vs WhatDistrictAmIIn"
+  "source": "Fox News results page, 10:07 PM ET (0% reported)"
  },
  {
   "state": "New Jersey",
@@ -351,13 +351,13 @@
   "opp_party": "R",
   "held_by": "D",
   "polls_close_et": "9:00 PM",
-  "dem_pct": null,
-  "opp_pct": null,
-  "vote_in_pct": null,
-  "standing": "pending",
-  "status": "Polls closed – no verified count yet",
-  "called_by": "",
-  "source": "2026election.com; checked vs WhatDistrictAmIIn"
+  "dem_pct": 63.01,
+  "opp_pct": 36.99,
+  "vote_in_pct": 26.48,
+  "standing": "won",
+  "status": "Won",
+  "called_by": "AP, Fox News",
+  "source": "Fox News results page, 10:07 PM ET; AP call per AP story (WUSA9)"
  },
  {
   "state": "Oklahoma",
@@ -366,13 +366,13 @@
   "opp_party": "R",
   "held_by": "R",
   "polls_close_et": "8:00 PM",
-  "dem_pct": 46,
-  "opp_pct": 51,
-  "vote_in_pct": 19,
-  "standing": "trailing",
-  "status": "Early count – Democrat trails",
-  "called_by": "",
-  "source": "ABC News results, 8:42 PM ET"
+  "dem_pct": 37.29,
+  "opp_pct": 59.24,
+  "vote_in_pct": 70.46,
+  "standing": "lost",
+  "status": "Lost",
+  "called_by": "AP, Fox News",
+  "source": "Fox News results page, 10:07 PM ET; AP call per AP story (WTOP)"
  },
  {
   "state": "Oregon",
@@ -411,13 +411,13 @@
   "opp_party": "R",
   "held_by": "R",
   "polls_close_et": "7:00 PM",
-  "dem_pct": 52,
-  "opp_pct": 46,
-  "vote_in_pct": 53,
+  "dem_pct": 51.01,
+  "opp_pct": 46.86,
+  "vote_in_pct": 86.94,
   "standing": "leading",
   "status": "Counting – Democrat leads",
   "called_by": "",
-  "source": "ABC News results, 8:42 PM ET"
+  "source": "Fox News results page, 10:07 PM ET"
  },
  {
   "state": "Tennessee",
@@ -426,13 +426,13 @@
   "opp_party": "R",
   "held_by": "R",
   "polls_close_et": "8:00 PM",
-  "dem_pct": 36,
-  "opp_pct": 62,
-  "vote_in_pct": 14,
-  "standing": "trailing",
-  "status": "Early count – Democrat trails",
-  "called_by": "",
-  "source": "ABC News results, 8:42 PM ET"
+  "dem_pct": 43.76,
+  "opp_pct": 54.31,
+  "vote_in_pct": 70.59,
+  "standing": "lost",
+  "status": "Lost",
+  "called_by": "NBC News, Fox News",
+  "source": "Fox News results page, 10:07 PM ET; NBC call per WSMV"
  },
  {
   "state": "Virginia",
@@ -456,13 +456,13 @@
   "opp_party": "R",
   "held_by": "R",
   "polls_close_et": "7:30 PM",
-  "dem_pct": 42,
-  "opp_pct": 55,
-  "vote_in_pct": 43,
-  "standing": "trailing",
-  "status": "Early count – Democrat trails",
-  "called_by": "",
-  "source": "ABC News results, 8:42 PM ET"
+  "dem_pct": 38.0,
+  "opp_pct": 58.25,
+  "vote_in_pct": 87.26,
+  "standing": "lost",
+  "status": "Lost",
+  "called_by": "AP, Fox News",
+  "source": "Fox News results page, 10:07 PM ET; AP call 8:52 PM per AP story (WTAP)"
  },
  {
   "state": "Wyoming",
@@ -471,12 +471,12 @@
   "opp_party": "R",
   "held_by": "R",
   "polls_close_et": "9:00 PM",
-  "dem_pct": null,
-  "opp_pct": null,
-  "vote_in_pct": null,
-  "standing": "pending",
-  "status": "Polls closed – no verified count yet",
-  "called_by": "",
-  "source": "2026election.com; checked vs WhatDistrictAmIIn"
+  "dem_pct": 58.25,
+  "opp_pct": 41.75,
+  "vote_in_pct": 4.25,
+  "standing": "lost",
+  "status": "Lost (AP call at poll close; early count shown)",
+  "called_by": "AP",
+  "source": "Fox News results page, 10:07 PM ET; AP call per GV Wire"
  }
 ]

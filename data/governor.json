@@ -130,7 +130,7 @@
   "opp_pct": null,
   "vote_in_pct": null,
   "standing": "pending",
-  "status": "Polls open",
+  "status": "Polls closed – no verified count yet",
   "called_by": "",
   "source": "NPR governor guide"
  },
@@ -231,13 +231,13 @@
   "opp_party": "R",
   "held_by": "R",
   "polls_close_et": "8:00 PM",
-  "dem_pct": 48.85,
-  "opp_pct": 49.9,
-  "vote_in_pct": 95.77,
+  "dem_pct": 48.6,
+  "opp_pct": 50.1,
+  "vote_in_pct": 99,
   "standing": "trailing",
-  "status": "Too close to call – Democrat trails",
+  "status": "Counting – NBC News projects loss; awaiting a second call",
   "called_by": "",
-  "source": "Fox News results, 8:38 PM (95.77% in); not called by Fox"
+  "source": "AP count via Yahoo News article (about 99% counted), ~9:34 PM; NBC News results page title shows Donalds win"
  },
  {
   "state": "Hawaii",
@@ -399,10 +399,10 @@
   "dem_pct": null,
   "opp_pct": null,
   "vote_in_pct": null,
-  "standing": "pending",
-  "status": "Counting – CBS News projects win; awaiting a second call",
-  "called_by": "",
-  "source": "CBS News New York live updates (projection), 9:10 PM check; no vote count retrieved"
+  "standing": "won",
+  "status": "Won",
+  "called_by": "AP, CBS News",
+  "source": "AP call at poll close per WAMC; CBS News projection; no vote count retrieved"
  },
  {
   "state": "Oklahoma",
@@ -444,10 +444,10 @@
   "dem_pct": 57.0,
   "opp_pct": 14.11,
   "vote_in_pct": 40.85,
-  "standing": "leading",
-  "status": "Early count – Democrat leads (independent Kenneth Block is second)",
-  "called_by": "",
-  "source": "Fox News results, 8:37 PM"
+  "standing": "won",
+  "status": "Won",
+  "called_by": "AP",
+  "source": "Fox News results, 8:37 PM; AP call 8:32 PM per AP story (CJME)"
  },
  {
   "state": "South Carolina",
@@ -534,9 +534,9 @@
   "dem_pct": null,
   "opp_pct": null,
   "vote_in_pct": null,
-  "standing": "pending",
-  "status": "Polls closed – no verified count yet",
-  "called_by": "",
-  "source": "2026election.com; checked vs Wikipedia race list"
+  "standing": "lost",
+  "status": "Lost",
+  "called_by": "AP",
+  "source": "AP projection per KTVQ / AP story (CKOM); no vote count retrieved"
  }
 ]
