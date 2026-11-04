@@ -486,11 +486,11 @@
     "opponent": "Kevin Lincoln",
     "held_by": "D",
     "polls_close_et": "11:00 PM",
-    "dem_pct": null,
-    "opp_pct": null,
-    "vote_in_pct": null,
-    "standing": "pending",
-    "status": "Polls closed – no votes reported yet",
+    "dem_pct": 58.8,
+    "opp_pct": 41.2,
+    "vote_in_pct": 23.6,
+    "standing": "leading",
+    "status": "Early count – Democrat leads",
     "called_by": ""
   },
   {
@@ -499,11 +499,11 @@
     "opponent": "David Valadao (inc.)",
     "held_by": "R",
     "polls_close_et": "11:00 PM",
-    "dem_pct": null,
-    "opp_pct": null,
-    "vote_in_pct": null,
-    "standing": "pending",
-    "status": "Polls closed – no votes reported yet",
+    "dem_pct": 59.9,
+    "opp_pct": 40.1,
+    "vote_in_pct": 12.6,
+    "standing": "leading",
+    "status": "Early count – Democrat leads",
     "called_by": ""
   },
   {
