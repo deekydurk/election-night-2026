@@ -1,5 +1,25 @@
 [
  {
+  "time_et": "By 2:10 AM",
+  "item": "Mississippi Senate: Democrat Scott Colom leads Republican Sen. Cindy Hyde-Smith by 28 votes (462,779 to 462,751, 48.9% each) in an unofficial count shortly after midnight Central; AP has not called the race.",
+  "source": "msindy.org (as of 12:05 AM CT); VoteHub"
+ },
+ {
+  "time_et": "By 2:10 AM",
+  "item": "Kansas governor's race too close to call: Democrat Cindy Holscher 546,523 votes, Republican Ty Masterson 540,651, with nearly all precincts counted; AP has not declared a winner.",
+  "source": "Kansas Secretary of State via Johnson County Post; Kansas Reflector"
+ },
+ {
+  "time_et": "By 2:10 AM",
+  "item": "Michigan Senate: Democrat Abdul El-Sayed 51.2%, Republican Mike Rogers 46.9% with an estimated 72% counted; no AP or network call confirmed in this check.",
+  "source": "DDHQ race update, 1:12 AM ET"
+ },
+ {
+  "time_et": "By 2:10 AM",
+  "item": "Nebraska Gov. Jim Pillen (R) declares victory over Democrat Lynne Walz; no AP or network call confirmed in this check.",
+  "source": "Daily Nebraskan live updates; Nebraska Public Media"
+ },
+ {
   "time_et": "By 1:38 AM",
   "item": "AP calls New Hampshire's governor race for Republican Gov. Kelly Ayotte over Democrat Cinde Warmington, joining Fox News. Ayotte 51.1%, Warmington 47.3% as of 12:42 AM.",
   "source": "Washington Examiner (citing AP), 12:48 AM ET; Fox News"
@@ -128,25 +148,5 @@
   "time_et": "By 11:39 PM",
   "item": "Concessions (not race calls): in Maine's governor race, Republican Bobby Charles and independent Rick Bennett conceded to Democrat Hannah Pingree; in South Carolina, Democrat Jermaine Johnson conceded to Republican Alan Wilson.",
   "source": "Portland Press Herald; SC Daily Gazette"
- },
- {
-  "time_et": "By 11:33 PM",
-  "item": "AP calls California's governor race for Democrat Xavier Becerra; NBC News also projects him. Oregon: Gov. Tina Kotek leads 55.6% to 41.8% in early returns. Montana Senate: Republican Kurt Alme leads with independent Seth Bodnar second and Democrat Alani Bankhead third, 28% in. Nevada has not reported votes yet.",
-  "source": "AP via KTLA; NBC News results (AP data)"
- },
- {
-  "time_et": "10:49 PM",
-  "item": "AP calls Ohio's governor race for Democrat Amy Acton over Republican Vivek Ramaswamy (Acton 50.7%, Ramaswamy 46%, 85% counted).",
-  "source": "AP via Washington Examiner"
- },
- {
-  "time_et": "By 11:08 PM",
-  "item": "NBC News and Fox News project Democrat James Talarico wins Texas's Senate race over Republican Ken Paxton, joining DDHQ; shown as won here (Fox count: Talarico 59.21%, Paxton 39.21%, 67% in).",
-  "source": "NBC News results page; Fox News results; DDHQ"
- },
- {
-  "time_et": "By 11:15 PM",
-  "item": "NBC News's House results page headline reads \"Democrats Win Majority\", indicating an NBC projection of House control. AP's last retrieved House tally (9:20 PM) was 73 Democratic, 36 Republican seats called.",
-  "source": "NBC News results page; AP via Yahoo News"
  }
 ]

@@ -81,13 +81,13 @@
   "opp_party": "R",
   "held_by": "D",
   "polls_close_et": "9:00 PM",
-  "dem_pct": 51.38,
-  "opp_pct": 46.79,
-  "vote_in_pct": 30.46,
+  "dem_pct": 51.2,
+  "opp_pct": 46.9,
+  "vote_in_pct": 72,
   "standing": "leading",
-  "status": "Early count – Democrat leads (The Hill headline reports El-Sayed won; WWJ reported the race too close to call at 12:53 AM ET; no AP or network call confirmed)",
+  "status": "Counting – Democrat leads (The Hill and Detroit News headlines report El-Sayed won/claimed victory; no AP or network call confirmed)",
   "called_by": "",
-  "source": "Fox News results, 11:08 PM (30% in); no call found; rechecked 1:08 AM (DDHQ 27% in, lower than shown); 1:40 AM check: no newer count retrieved (WWJ 12:53 AM, The Hill via WROC)"
+  "source": "DDHQ race update (est. 72% in: El-Sayed 1,819,808, Rogers 1,667,658), 1:12 AM ET; checked 2:10 AM"
  },
  {
   "state": "Texas",
@@ -132,7 +132,7 @@
   "standing": "leading",
   "status": "Early count – Democrat leads (45 of 401 precincts; ranked-choice tabulation may follow)",
   "called_by": "",
-  "source": "Alaska Division of Elections preliminary results via Anchorage Daily News/Alaska Beacon/KTOO, 8:40 PM AKST; NBC results page shows 42.8% for Sullivan"
+  "source": "Alaska Division of Elections preliminary results via Anchorage Daily News/Alaska Beacon/KTOO, 8:40 PM AKST; NBC results page shows 42.8% for Sullivan; Alaska Public Media (about 11% of precincts), checked 2:10 AM"
  },
  {
   "state": "Alabama",
@@ -306,13 +306,13 @@
   "opp_party": "R",
   "held_by": "R",
   "polls_close_et": "8:00 PM",
-  "dem_pct": 48.2,
-  "opp_pct": 49.7,
+  "dem_pct": 48.9,
+  "opp_pct": 48.9,
   "vote_in_pct": 94,
-  "standing": "trailing",
-  "status": "Too close to call – Democrat trails",
+  "standing": "leading",
+  "status": "Too close to call – Democrat leads by 28 votes (Colom 462,779, Hyde-Smith 462,751; AP has not called)",
   "called_by": "",
-  "source": "Commercial Dispatch (Columbus, Miss.) results story, published 1:00 AM ET: Hyde-Smith 459,046 (49.7%), Colom 445,259 (48.2%), 94% counted, too close to call; earlier DDHQ 87% update had Colom ahead"
+  "source": "msindy.org, unofficial count as of 1:05 AM ET (AP had not called); VoteHub >95% reported with Colom ahead, 12:58 AM; share counted shown is the last exact figure retrieved (94%)"
  },
  {
   "state": "Montana",

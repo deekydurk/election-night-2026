@@ -55,7 +55,7 @@
   "opp_pct": 45.3,
   "vote_in_pct": null,
   "standing": "leading",
-  "status": "Early count – Democrat leads (The Hill, Yahoo News and WLNS report Benson won; caller not confirmed in this check)",
+  "status": "Early count – Democrat leads (The Hill, WOOD TV and Yahoo News report Benson won; caller not confirmed in this check)",
   "called_by": "",
   "source": "DDHQ results page (results table), 11:34 PM (% in not shown)"
  },
@@ -96,13 +96,13 @@
   "opp_party": "R",
   "held_by": "D",
   "polls_close_et": "9:00 PM",
-  "dem_pct": 54.2,
-  "opp_pct": 45.8,
+  "dem_pct": null,
+  "opp_pct": null,
   "vote_in_pct": 70.2,
   "standing": "leading",
-  "status": "Counting – Democrat leads",
+  "status": "Too close to call – Democrat leads (Holscher 546,523, Masterson 540,651 votes with nearly all precincts counted; AP has not called)",
   "called_by": "",
-  "source": "NBC News results (AP data), 10:25 PM check"
+  "source": "Kansas Secretary of State via Johnson County Post, early Wed Nov 4; Kansas Reflector reports race deadlocked; percentages not reported in this check"
  },
  {
   "state": "Wisconsin",
@@ -355,7 +355,7 @@
   "opp_pct": 41.5,
   "vote_in_pct": null,
   "standing": "leading",
-  "status": "Early count – Democrat leads",
+  "status": "Early count – Democrat leads (Daily Nebraskan reports Pillen declared victory; no AP or network call confirmed)",
   "called_by": "",
   "source": "NBC News results (AP data), 10:25 PM check (312,460 votes counted)"
  },
