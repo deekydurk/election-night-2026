@@ -1,5 +1,10 @@
 [
  {
+  "time_et": "By 2:25 AM",
+  "item": "AP and NBC News call Michigan's governor race for Democrat Jocelyn Benson over Republican John James (53.8% to 44.5%, 80% counted). Michigan's Senate race: Democrat Abdul El-Sayed leads Mike Rogers 51.8% to 46.2% with 79% counted; El-Sayed declared victory and DDHQ called it, but AP says too close to call. Nevada still has not reported any votes.",
+  "source": "AP via Michigan Public; NBC News results (AP data); Detroit News; 8 News Now"
+ },
+ {
   "time_et": "By 2:10 AM",
   "item": "Mississippi Senate: Democrat Scott Colom leads Republican Sen. Cindy Hyde-Smith by 28 votes (462,779 to 462,751, 48.9% each) in an unofficial count shortly after midnight Central; AP has not called the race.",
   "source": "msindy.org (as of 12:05 AM CT); VoteHub"
@@ -143,10 +148,5 @@
   "time_et": "By 11:39 PM",
   "item": "NBC News projects Democrat Gina Hinojosa wins Texas's governor race over Gov. Greg Abbott (57% to 41.7% with 67% counted as of 11:17 PM); awaiting a second call. An ABC7 Amarillo headline reports Abbott conceded.",
   "source": "NBC News results page; Washington Examiner; ABC7 Amarillo"
- },
- {
-  "time_et": "By 11:39 PM",
-  "item": "Concessions (not race calls): in Maine's governor race, Republican Bobby Charles and independent Rick Bennett conceded to Democrat Hannah Pingree; in South Carolina, Democrat Jermaine Johnson conceded to Republican Alan Wilson.",
-  "source": "Portland Press Herald; SC Daily Gazette"
  }
 ]

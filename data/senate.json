@@ -81,13 +81,13 @@
   "opp_party": "R",
   "held_by": "D",
   "polls_close_et": "9:00 PM",
-  "dem_pct": 51.2,
-  "opp_pct": 46.9,
-  "vote_in_pct": 72,
+  "dem_pct": 51.8,
+  "opp_pct": 46.2,
+  "vote_in_pct": 79.3,
   "standing": "leading",
-  "status": "Counting – Democrat leads (The Hill and Detroit News headlines report El-Sayed won/claimed victory; no AP or network call confirmed)",
+  "status": "Counting – DDHQ projects win; awaiting a second call (El-Sayed declared victory; AP has not called)",
   "called_by": "",
-  "source": "DDHQ race update (est. 72% in: El-Sayed 1,819,808, Rogers 1,667,658), 1:12 AM ET; checked 2:10 AM"
+  "source": "NBC News results (AP data) via CryptoTicker, 79.3% counted, ~1:44 AM ET; DDHQ call per Detroit News (only call as of 1:38 AM); AP: too close to call early Wednesday"
  },
  {
   "state": "Texas",

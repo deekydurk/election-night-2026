@@ -51,13 +51,13 @@
   "opp_party": "R",
   "held_by": "D",
   "polls_close_et": "9:00 PM",
-  "dem_pct": 53.02,
-  "opp_pct": 45.3,
-  "vote_in_pct": null,
-  "standing": "leading",
-  "status": "Early count – Democrat leads (The Hill, WOOD TV and Yahoo News report Benson won; caller not confirmed in this check)",
-  "called_by": "",
-  "source": "DDHQ results page (results table), 11:34 PM (% in not shown)"
+  "dem_pct": 53.8,
+  "opp_pct": 44.5,
+  "vote_in_pct": 80,
+  "standing": "won",
+  "status": "Won",
+  "called_by": "AP, NBC News, DDHQ",
+  "source": "AP call per Michigan Public live blog (AP: Benson has won election); NBC News projection per CryptoTicker (53.8/44.5, 80% counted); DDHQ call 10:45 PM per Gander"
  },
  {
   "state": "Arizona",
