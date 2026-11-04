@@ -57,12 +57,12 @@
   "opponent": "Jen Kiggans (inc.)",
   "held_by": "R",
   "polls_close_et": "7:00 PM",
-  "dem_pct": 53,
-  "opp_pct": 45,
-  "vote_in_pct": 61,
-  "standing": "leading",
-  "status": "Counting – DDHQ projects win; awaiting a second call",
-  "called_by": ""
+  "dem_pct": 51.5,
+  "opp_pct": 46.2,
+  "vote_in_pct": 88,
+  "standing": "won",
+  "status": "Won – projected by AP and DDHQ",
+  "called_by": "AP, DDHQ"
  },
  {
   "race": "NC-1",
@@ -203,9 +203,9 @@
   "dem_pct": 67,
   "opp_pct": 33,
   "vote_in_pct": 26,
-  "standing": "leading",
-  "status": "Early count – Democrat leads",
-  "called_by": ""
+  "standing": "won",
+  "status": "Won – projected by AP",
+  "called_by": "AP"
  },
  {
   "race": "PA-7",
@@ -333,9 +333,9 @@
   "dem_pct": 61,
   "opp_pct": 35,
   "vote_in_pct": null,
-  "standing": "leading",
-  "status": "Counting – CBS projects win; awaiting a second call",
-  "called_by": ""
+  "standing": "won",
+  "status": "Won – projected by AP and CBS",
+  "called_by": "AP, CBS"
  },
  {
   "race": "IA-1",
@@ -347,7 +347,7 @@
   "opp_pct": 50.4,
   "vote_in_pct": 1,
   "standing": "trailing",
-  "status": "Early count – Democrat trails",
+  "status": "Counting – CBS projects win; awaiting a second call",
   "called_by": ""
  },
  {
