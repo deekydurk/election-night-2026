@@ -1,5 +1,10 @@
 [
  {
+  "time_et": "By 10:25 PM",
+  "item": "AP calls Colorado's governor race for Democrat Phil Weiser at poll close; NBC News and Decision Desk HQ also project him. DDHQ projects Democrat Rob Sand wins Iowa's governor race and Republican Alan Wilson wins South Carolina's; both await a second call here.",
+  "source": "AP via KDVR/Axios; NBC News; DDHQ via The Hill/WBTW"
+ },
+ {
   "time_et": "By 10:10 PM",
   "item": "AP and Fox News call Colorado's Senate race for Democratic Sen. John Hickenlooper over Republican Mark Baisley (Hickenlooper 60.98%, Baisley 35.05%, 64% in per Fox News).",
   "source": "AP (via Denver Gazette); Fox News"
@@ -143,10 +148,5 @@
   "time_et": "8:00 PM",
   "item": "AP called Senate races for Democrats at poll close: Chris Coons (Delaware), Juliana Stratton (Illinois), Ed Markey (Massachusetts), Cory Booker (New Jersey) and Jack Reed (Rhode Island). Shown as won here now that AP and NBC News agree.",
   "source": "AP (via GV Wire), NBC News"
- },
- {
-  "time_et": "8:19 PM",
-  "item": "Florida's Senate special (Moody 50.3%, Nixon 48.5%) and governor race (Donalds 49.4%, Jolly 49.3%) are too close to call with about 92% of the expected vote counted.",
-  "source": "NBC News (AP data)"
  }
 ]
