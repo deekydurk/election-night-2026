@@ -1,22 +1,2 @@
-[
- {
-  "chamber": "Senate",
-  "dem": 52,
-  "rep": 41,
-  "other": 0,
-  "uncalled": 7,
-  "control_at": 51,
-  "note": "NBC News Decision Desk tally: Democrats 52 (34 not up + 18 won, including 6 flips), Republicans 41, 7 uncalled. NBC News projects Democrats win Senate control; CNBC Election Desk also projects it. Democrats need 51 since a 50-50 tie is broken by Vice President Vance.",
-  "source": "NBC News Senate results page tally as of 12:40 AM ET check (no newer tally retrieved at 2:10 AM; NBC page still reads \"Democrats Win Majority\")"
- },
- {
-  "chamber": "House",
-  "dem": 252,
-  "rep": 0,
-  "other": 0,
-  "uncalled": 183,
-  "control_at": 218,
-  "note": "NBC News projects Democrats win House control with at least 252 seats. Shown as 252 D with the remaining 183 seats uncalled, because a Republican seats-called count was not retrievable; the actual Republican total will be well above 0 once counting finishes. Going in: 219 Republicans, 214 Democrats.",
-  "source": "NBC News Decision Desk projection (at least 252 seats), 12:40 AM ET check"
- }
-]
+[{"chamber": "Senate","dem": 41,"rep": 31,"other": 0,"uncalled": 28,"control_at": 51,"note": "Includes seats not up this year (34 Democratic-caucus, 31 Republican) plus races NBC News has projected. Democrats need 51 for control, since a 50-50 tie is broken by Vice President Vance. This is the latest NBC tally retrieved (8:19 PM); no newer NBC or AP seat tally was retrievable at 10:38 PM, so later calls (e.g., South Carolina, Colorado, New Mexico) are not yet reflected here. Fox News's own tally at 10:07 PM was 45 Democratic, 36 Republican.","source": "NBC News seat tally, 8:19 PM ET"},
+{"chamber": "House","dem": 32,"rep": 15,"other": 0,"uncalled": 388,"control_at": 218,"note": "Seats NBC News has projected so far. Going in: 218 Republicans, 214 Democrats, 1 independent caucusing with the GOP, 2 vacancies.","source": "NBC News seat tally, 8:19 PM ET"}]
