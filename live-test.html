@@ -15,22 +15,25 @@ iframe { width:100%; border:0; display:block; }
 </head>
 <body>
 <h1>Live widget test (not shared)</h1>
-<p>Round 2. Each box below tries a different ABC News live-results widget. Note which numbered boxes show tonight's 2026 results and which are blank, show an error, or show an old year.</p>
+<p>Round 3: state results. Each lettered box tries a different way of asking ABC News for Georgia's live results. Note which numbered boxes show tonight's 2026 results and which are blank, show an error, or show an old year.</p>
 
-<div class="box"><h2>3. Senate map</h2>
-<iframe src="https://abcnews.go.com/widgets/nationalMap?chamber=senate&display=inline&dist=true&year=2026" height="500" loading="lazy"></iframe></div>
+<div class="box"><h2>A. Georgia Senate (stateResults, GA)</h2>
+<iframe src="https://abcnews.go.com/widgets/stateResults?state=GA&chamber=senate&display=inline&year=2026" height="420" loading="lazy"></iframe></div>
 
-<div class="box"><h2>5. House map</h2>
-<iframe src="https://abcnews.go.com/widgets/nationalMap?chamber=house&display=inline&dist=true&year=2026" height="500" loading="lazy"></iframe></div>
+<div class="box"><h2>B. Georgia Senate (stateResults, ga)</h2>
+<iframe src="https://abcnews.go.com/widgets/stateResults?state=ga&chamber=senate&display=inline&year=2026" height="420" loading="lazy"></iframe></div>
 
-<div class="box"><h2>6. Governor map</h2>
-<iframe src="https://abcnews.go.com/widgets/nationalMap?chamber=governor&display=inline&dist=true&year=2026" height="500" loading="lazy"></iframe></div>
+<div class="box"><h2>C. Georgia Senate (stateResults, georgia)</h2>
+<iframe src="https://abcnews.go.com/widgets/stateResults?state=georgia&chamber=senate&display=inline&year=2026" height="420" loading="lazy"></iframe></div>
 
-<div class="box"><h2>7. Senate balance of power (other spelling)</h2>
-<iframe src="https://abcnews.go.com/widgets/balance-of-power?chamber=senate&display=inline&year=2026" height="260" loading="lazy"></iframe></div>
+<div class="box"><h2>D. Georgia Senate (stateMap)</h2>
+<iframe src="https://abcnews.go.com/widgets/stateMap?state=GA&chamber=senate&display=inline&dist=true&year=2026" height="500" loading="lazy"></iframe></div>
 
-<div class="box"><h2>8. Senate balance of power (short name)</h2>
-<iframe src="https://abcnews.go.com/widgets/bop?chamber=senate&display=inline&year=2026" height="260" loading="lazy"></iframe></div>
+<div class="box"><h2>E. Georgia on the national map</h2>
+<iframe src="https://abcnews.go.com/widgets/nationalMap?chamber=senate&state=GA&display=inline&dist=true&year=2026" height="500" loading="lazy"></iframe></div>
+
+<div class="box"><h2>F. Georgia governor (stateResults)</h2>
+<iframe src="https://abcnews.go.com/widgets/stateResults?state=GA&chamber=governor&display=inline&year=2026" height="420" loading="lazy"></iframe></div>
 
 </body>
 </html>
