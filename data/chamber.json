@@ -1,22 +1,4 @@
 [
- {
-  "chamber": "Senate",
-  "dem": 41,
-  "rep": 31,
-  "other": 0,
-  "uncalled": 28,
-  "control_at": 51,
-  "note": "Includes seats not up this year (34 Democratic-caucus, 31 Republican) plus races NBC News has projected. Democrats need 51 for control, since a 50-50 tie is broken by Vice President Vance. The AP call in North Carolina (by 8:24 PM) came after this NBC tally and may not be reflected yet.",
-  "source": "NBC News seat tally, 8:19 PM ET"
- },
- {
-  "chamber": "House",
-  "dem": 32,
-  "rep": 15,
-  "other": 0,
-  "uncalled": 388,
-  "control_at": 218,
-  "note": "Seats NBC News has projected so far. Going in: 218 Republicans, 214 Democrats, 1 independent caucusing with the GOP, 2 vacancies.",
-  "source": "NBC News seat tally, 8:19 PM ET"
- }
+{"chamber": "Senate", "dem": 41, "rep": 31, "other": 0, "uncalled": 28, "control_at": 51, "note": "Includes seats not up this year (34 Democratic-caucus, 31 Republican) plus races NBC News has projected. Democrats need 51 for control, since a 50-50 tie is broken by Vice President Vance. This is the latest NBC tally retrieved (8:19 PM); later calls (AP in North Carolina, Fox News/DDHQ in Florida) may not be reflected yet.", "source": "NBC News seat tally, 8:19 PM ET"},
+{"chamber": "House", "dem": 32, "rep": 15, "other": 0, "uncalled": 388, "control_at": 218, "note": "Seats NBC News has projected so far. Going in: 218 Republicans, 214 Democrats, 1 independent caucusing with the GOP, 2 vacancies.", "source": "NBC News seat tally, 8:19 PM ET"}
 ]
