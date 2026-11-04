@@ -18,12 +18,12 @@
   "opponent": "Casey Askar",
   "held_by": "D",
   "polls_close_et": "7:00 PM",
-  "dem_pct": 52,
-  "opp_pct": 48,
-  "vote_in_pct": 97,
-  "standing": "leading",
-  "status": "Counting – Democrat leads",
-  "called_by": ""
+  "dem_pct": 51.9,
+  "opp_pct": 48.1,
+  "vote_in_pct": 97.6,
+  "standing": "won",
+  "status": "Won – projected by AP, CBS, NBC and DDHQ",
+  "called_by": "AP, CBS, NBC, DDHQ"
  },
  {
   "race": "FL-25",
@@ -61,7 +61,7 @@
   "opp_pct": 45,
   "vote_in_pct": 61,
   "standing": "leading",
-  "status": "Counting – Democrat leads",
+  "status": "Counting – DDHQ projects win; awaiting a second call",
   "called_by": ""
  },
  {
@@ -80,15 +80,15 @@
  {
   "race": "NC-11",
   "dem_candidate": "Jamie Ager",
-  "opponent": "Jennifer Balkom",
+  "opponent": "Jennifer Balkcom",
   "held_by": "R",
   "polls_close_et": "7:30 PM",
   "dem_pct": 59,
   "opp_pct": 39,
   "vote_in_pct": 86,
-  "standing": "leading",
-  "status": "Counting – ABC projects win; awaiting a second call",
-  "called_by": ""
+  "standing": "won",
+  "status": "Won – projected by AP, ABC, CBS and DDHQ",
+  "called_by": "AP, ABC, CBS, DDHQ"
  },
  {
   "race": "OH-1",
@@ -177,9 +177,9 @@
   "dem_pct": 59,
   "opp_pct": 41,
   "vote_in_pct": 42,
-  "standing": "leading",
-  "status": "Early count – Democrat leads",
-  "called_by": ""
+  "standing": "won",
+  "status": "Won – projected by AP",
+  "called_by": "AP"
  },
  {
   "race": "NJ-7",
@@ -190,9 +190,9 @@
   "dem_pct": 64,
   "opp_pct": 34,
   "vote_in_pct": 31,
-  "standing": "leading",
-  "status": "Early count – Democrat leads",
-  "called_by": ""
+  "standing": "won",
+  "status": "Won – projected by AP",
+  "called_by": "AP"
  },
  {
   "race": "PA-1",
@@ -217,7 +217,7 @@
   "opp_pct": 29,
   "vote_in_pct": 27,
   "standing": "leading",
-  "status": "Early count – Democrat leads",
+  "status": "Counting – DDHQ projects win; awaiting a second call",
   "called_by": ""
  },
  {
@@ -229,9 +229,9 @@
   "dem_pct": 69,
   "opp_pct": 31,
   "vote_in_pct": 36,
-  "standing": "leading",
-  "status": "Early count – Democrat leads",
-  "called_by": ""
+  "standing": "won",
+  "status": "Won – projected by NBC and DDHQ",
+  "called_by": "NBC, DDHQ"
  },
  {
   "race": "PA-10",
@@ -477,7 +477,7 @@
   "opp_pct": null,
   "vote_in_pct": null,
   "standing": "pending",
-  "status": "Polls open",
+  "status": "Polls closed – no votes reported yet",
   "called_by": ""
  },
  {
