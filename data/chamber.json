@@ -1,22 +1,22 @@
 [
-  {
-    "chamber": "Senate",
-    "dem": 45,
-    "rep": 35,
-    "other": 0,
-    "uncalled": 20,
-    "control_at": 51,
-    "note": "Includes seats not up this year (34 Democratic-caucus, 31 Republican) plus races AP has called. Democrats need 51 for control, since a 50-50 tie is broken by Vice President Vance. This is the latest AP tally retrieved (9:20 PM); no newer NBC or AP tally was retrievable at 11:15 PM. Fox News's own tally at 11:08 PM was 48 Democratic, 38 Republican.",
-    "source": "AP seat tally via Yahoo News, as of 9:20 PM ET"
-  },
-  {
-    "chamber": "House",
-    "dem": 73,
-    "rep": 36,
-    "other": 0,
-    "uncalled": 326,
-    "control_at": 218,
-    "note": "Seats AP had called as of 9:20 PM (latest tally retrieved). NBC News's House results page headline reads \"Democrats Win Majority\"; the seat count behind that projection was not retrievable in this check. Going in: 218 Republicans, 214 Democrats, 1 independent caucusing with the GOP, 2 vacancies.",
-    "source": "AP seat tally via Yahoo News, as of 9:20 PM ET"
-  }
+ {
+  "chamber": "Senate",
+  "dem": 45,
+  "rep": 35,
+  "other": 0,
+  "uncalled": 20,
+  "control_at": 51,
+  "note": "Includes seats not up this year (34 Democratic-caucus, 31 Republican) plus races AP has called. Democrats need 51 for control, since a 50-50 tie is broken by Vice President Vance. NBC News projects Democrats win control of the Senate (NBC results page headline \"Democrats Win Majority\"; CNBC also reports Democrats flipped the Senate). The seat counts shown are the latest AP tally retrieved (9:20 PM); no newer NBC or AP seat count was retrievable at 11:39 PM.",
+  "source": "AP seat tally via Yahoo News, as of 9:20 PM ET"
+ },
+ {
+  "chamber": "House",
+  "dem": 73,
+  "rep": 36,
+  "other": 0,
+  "uncalled": 326,
+  "control_at": 218,
+  "note": "Seats AP had called as of 9:20 PM (latest tally retrieved). NBC News projects Democrats win control of the House (NBC results page headline \"Democrats Win Majority\"); the seat count behind that projection was not retrievable in this check. Going in: 218 Republicans, 214 Democrats, 1 independent caucusing with the GOP, 2 vacancies.",
+  "source": "AP seat tally via Yahoo News, as of 9:20 PM ET"
+ }
 ]

@@ -69,10 +69,10 @@
   "dem_pct": 58.6,
   "opp_pct": 39.9,
   "vote_in_pct": 64.8,
-  "standing": "leading",
-  "status": "Counting – Democrat leads",
-  "called_by": "",
-  "source": "NBC News results (AP data), 10:25 PM check; The Hill reports Hobbs projected winner (outlet not confirmed)"
+  "standing": "won",
+  "status": "Won",
+  "called_by": "CBS News, DDHQ",
+  "source": "CBS News and DDHQ projections via KTAR and azfamily; count: NBC News results (AP data), 10:25 PM check"
  },
  {
   "state": "Iowa",
@@ -81,13 +81,13 @@
   "opp_party": "R",
   "held_by": "R",
   "polls_close_et": "9:00 PM",
-  "dem_pct": 61.62,
-  "opp_pct": 38.38,
-  "vote_in_pct": 26,
-  "standing": "leading",
-  "status": "Counting – DDHQ projects win; awaiting a second call",
-  "called_by": "",
-  "source": "Decision Desk HQ projection 9:57 PM via The Hill; NBC results page (AP data) shows 58.6/41.4 at 38.3% in"
+  "dem_pct": 57.7,
+  "opp_pct": 42.3,
+  "vote_in_pct": 79,
+  "standing": "won",
+  "status": "Won",
+  "called_by": "AP, CBS News, DDHQ",
+  "source": "AP call 11:14 PM and AP count at call (79% in) via Washington Examiner; CBS News projection; DDHQ projection"
  },
  {
   "state": "Kansas",
@@ -295,9 +295,9 @@
   "opp_pct": 42.9,
   "vote_in_pct": null,
   "standing": "leading",
-  "status": "Counting – DDHQ projects win; awaiting a second call (Charles has conceded)",
+  "status": "Counting – DDHQ projects win; awaiting a second call (Charles and Bennett have conceded, per Portland Press Herald)",
   "called_by": "",
-  "source": "Bangor Daily News / DDHQ call 10:29 PM (count, % counted not stated); Press Herald (concession)"
+  "source": "Bangor Daily News / DDHQ call 10:29 PM (count, % counted not stated); Press Herald (concession); concessions per Portland Press Herald headline, 11:39 PM check"
  },
  {
   "state": "Maryland",
@@ -460,9 +460,9 @@
   "opp_pct": 51.9,
   "vote_in_pct": 84.6,
   "standing": "trailing",
-  "status": "Counting – DDHQ projects loss; awaiting a second call (Johnson has conceded)",
+  "status": "Counting – DDHQ projects loss; awaiting a second call (Johnson has conceded, per SC Daily Gazette)",
   "called_by": "",
-  "source": "WIS results, 10:25 PM check; DDHQ projection of Wilson via WBTW; concession per SC Daily Gazette"
+  "source": "WIS results, 10:25 PM check; DDHQ projection of Wilson via WBTW; concession per SC Daily Gazette; concession per SC Daily Gazette headline, 11:39 PM check"
  },
  {
   "state": "South Dakota",
@@ -501,13 +501,13 @@
   "opp_party": "R",
   "held_by": "R",
   "polls_close_et": "9:00 PM",
-  "dem_pct": 56.6,
-  "opp_pct": 42.1,
-  "vote_in_pct": 40,
+  "dem_pct": 57,
+  "opp_pct": 41.7,
+  "vote_in_pct": 67,
   "standing": "leading",
-  "status": "Early count – Democrat leads",
+  "status": "Counting – NBC News projects win; awaiting a second call (ABC7 Amarillo headline reports Abbott conceded)",
   "called_by": "",
-  "source": "NBC News (AP data) via CryptoTicker, 40% counted, 9:06 PM; MultiState shows 57.4/41.4 at 9:43 PM (% counted not shown); not called"
+  "source": "Count as of 11:17 PM (67% counted) via Washington Examiner; NBC News results page (\"Gina Hinojosa Wins\"), 11:39 PM check"
  },
  {
   "state": "Vermont",

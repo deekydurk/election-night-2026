@@ -39,10 +39,10 @@
   "dem_pct": 48.65,
   "opp_pct": 46.49,
   "vote_in_pct": 87.01,
-  "standing": "leading",
-  "status": "Counting – Democrat leads",
-  "called_by": "",
-  "source": "Fox News results, 11:08 PM (87% in); no call found"
+  "standing": "won",
+  "status": "Won",
+  "called_by": "AP, NBC News",
+  "source": "AP call 11:10 PM via Local 12 (WKRC); NBC News results page (\"Sherrod Brown Wins\"); count: Fox News results, 11:08 PM (87% in)"
  },
  {
   "state": "Maine",
@@ -115,9 +115,9 @@
   "opp_pct": 44.65,
   "vote_in_pct": 76.12,
   "standing": "leading",
-  "status": "Counting – Democrat leads",
+  "status": "Counting – DDHQ projects win; awaiting a second call",
   "called_by": "",
-  "source": "Fox News results, 11:08 PM (76% in); no call found"
+  "source": "DDHQ projection via The Hill, 11:18 PM (The Hill: Turek just over 51%, 78% tallied, rounded); count shown: Fox News results, 11:08 PM (76% in)"
  },
  {
   "state": "Alaska",
@@ -159,10 +159,10 @@
   "dem_pct": 42.15,
   "opp_pct": 54.73,
   "vote_in_pct": 86.84,
-  "standing": "trailing",
-  "status": "Counting – Fox News projects loss; awaiting a second call",
-  "called_by": "",
-  "source": "Fox News results, 11:08 PM (Fox calls Cotton; 87% in)"
+  "standing": "lost",
+  "status": "Lost",
+  "called_by": "AP, Fox News",
+  "source": "AP call via KATV; Fox News projection; count: Fox News results, 11:08 PM (87% in)"
  },
  {
   "state": "Colorado",
@@ -234,10 +234,10 @@
   "dem_pct": 52.42,
   "opp_pct": 44.66,
   "vote_in_pct": 85.64,
-  "standing": "leading",
-  "status": "Counting – DDHQ projects win; awaiting a second call",
-  "called_by": "",
-  "source": "Fox News results, 11:08 PM (count, 86% in); DDHQ projection via Bloomberg, The Hill"
+  "standing": "won",
+  "status": "Won",
+  "called_by": "AP, DDHQ",
+  "source": "AP call via KSHB; DDHQ projection; count: Fox News results, 11:08 PM (86% in)"
  },
  {
   "state": "Kentucky",

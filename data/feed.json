@@ -1,5 +1,45 @@
 [
  {
+  "time_et": "By 11:39 PM",
+  "item": "NBC News projects Democrats win control of the U.S. Senate, in addition to the House. CNBC also reports Democrats have flipped the Senate.",
+  "source": "NBC News live blog and Senate results page; CNBC"
+ },
+ {
+  "time_et": "11:10 PM",
+  "item": "AP calls Ohio's special Senate election for Democrat Sherrod Brown over Republican Sen. Jon Husted (Brown 48.6%, Husted 46.5% at the call); NBC News also projects Brown.",
+  "source": "AP via Local 12 (WKRC); NBC News results page"
+ },
+ {
+  "time_et": "11:14 PM",
+  "item": "AP calls Iowa's governor race for Democrat Rob Sand over Republican Zach Lahn (Sand 57.7%, Lahn 42.3%, 79% counted); CBS News and DDHQ also project Sand.",
+  "source": "AP via Washington Examiner; CBS News; DDHQ"
+ },
+ {
+  "time_et": "By 11:39 PM",
+  "item": "AP calls Kansas's Senate race for Democrat Adam Hamilton over Republican Sen. Roger Marshall, joining DDHQ; shown as won here. AP also calls Arkansas's Senate race for Republican Sen. Tom Cotton, joining Fox News.",
+  "source": "AP via KSHB and KATV; DDHQ; Fox News"
+ },
+ {
+  "time_et": "By 11:39 PM",
+  "item": "CBS News and DDHQ project Democratic Gov. Katie Hobbs wins Arizona's governor race over Republican Andy Biggs; shown as won here.",
+  "source": "CBS News and DDHQ via KTAR, azfamily"
+ },
+ {
+  "time_et": "11:18 PM",
+  "item": "DDHQ projects Democrat Josh Turek wins Iowa's Senate race over Republican Ashley Hinson; awaiting a second call.",
+  "source": "DDHQ via The Hill"
+ },
+ {
+  "time_et": "By 11:39 PM",
+  "item": "NBC News projects Democrat Gina Hinojosa wins Texas's governor race over Gov. Greg Abbott (57% to 41.7% with 67% counted as of 11:17 PM); awaiting a second call. An ABC7 Amarillo headline reports Abbott conceded.",
+  "source": "NBC News results page; Washington Examiner; ABC7 Amarillo"
+ },
+ {
+  "time_et": "By 11:39 PM",
+  "item": "Concessions (not race calls): in Maine's governor race, Republican Bobby Charles and independent Rick Bennett conceded to Democrat Hannah Pingree; in South Carolina, Democrat Jermaine Johnson conceded to Republican Alan Wilson.",
+  "source": "Portland Press Herald; SC Daily Gazette"
+ },
+ {
   "time_et": "By 11:33 PM",
   "item": "AP calls California's governor race for Democrat Xavier Becerra; NBC News also projects him. Oregon: Gov. Tina Kotek leads 55.6% to 41.8% in early returns. Montana Senate: Republican Kurt Alme leads with independent Seth Bodnar second and Democrat Alani Bankhead third, 28% in. Nevada has not reported votes yet.",
   "source": "AP via KTLA; NBC News results (AP data)"
@@ -108,45 +148,5 @@
   "time_et": "By 10:10 PM",
   "item": "AP and Fox News call Oklahoma's Senate race for Republican Kevin Hern over Democrat N'Kiyla Thomas.",
   "source": "AP (via WTOP); Fox News"
- },
- {
-  "time_et": "By 10:10 PM",
-  "item": "NBC News and Fox News call Tennessee's Senate race for Republican Sen. Bill Hagerty over Democrat Marquita Bradshaw.",
-  "source": "WSMV (citing NBC News); Fox News"
- },
- {
-  "time_et": "8:32 PM",
-  "item": "AP calls Rhode Island's governor race for Democrat Helena Foulkes.",
-  "source": "AP (via CJME)"
- },
- {
-  "time_et": "By 10:10 PM",
-  "item": "AP calls New York's governor race for Democratic Gov. Kathy Hochul, joining CBS News; shown as won here.",
-  "source": "AP (via WAMC); CBS News"
- },
- {
-  "time_et": "By 10:10 PM",
-  "item": "AP projects Republican Eric Barlow wins Wyoming's governor race over Democrat Ken Casner.",
-  "source": "AP (via KTVQ)"
- },
- {
-  "time_et": "By 10:10 PM",
-  "item": "Ohio Senate tightens: Democrat Sherrod Brown 48.25%, Republican Sen. Jon Husted 47.00%, with 73% of expected vote in.",
-  "source": "Fox News results"
- },
- {
-  "time_et": "By 10:25 PM",
-  "item": "AP calls Colorado's governor race for Democrat Phil Weiser at poll close; NBC News and Decision Desk HQ also project him. DDHQ projects Democrat Rob Sand wins Iowa's governor race and Republican Alan Wilson wins South Carolina's; both await a second call here.",
-  "source": "AP via KDVR/Axios; NBC News; DDHQ via The Hill/WBTW"
- },
- {
-  "time_et": "By 10:10 PM",
-  "item": "NBC News projects Republican Byron Donalds wins Florida's governor race (AP count: Donalds 50.1%, Jolly 48.6%, about 99% counted). Shown as counting here until a second outlet's call is confirmed.",
-  "source": "NBC News; AP count via Yahoo News"
- },
- {
-  "time_et": "By 10:10 PM",
-  "item": "Local outlets report Democrats Phil Weiser (Colorado), Ned Lamont (Connecticut) and Rob Sand (Iowa) have won governor races; the calling outlets were not confirmed in this check, so these are not yet shown as won.",
-  "source": "Colorado Sun, Axios Denver, WTNH, The Hill"
  }
 ]
