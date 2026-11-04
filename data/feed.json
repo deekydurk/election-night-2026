@@ -1,32 +1,152 @@
 [
- {"time_et": "9:10 PM", "item": "Michigan Senate early returns: Democrat Abdul El-Sayed 55%, Republican Mike Rogers 43%, with about 4% of the vote counted.", "source": "Deadline Detroit"},
- {"time_et": "9:16 PM", "item": "The Associated Press calls Kentucky's Senate race for Republican Andy Barr over Democrat Charles Booker (Barr 53.6%, Booker 44.2%, 72% counted), confirming earlier ABC News and Decision Desk HQ projections.", "source": "AP (via Washington Examiner live blog)"},
- {"time_et": "By 9:10 PM", "item": "NBC News projects Democrat Keisha Lance Bottoms wins Georgia's governor race over Republican Rick Jackson, flipping a Republican-held seat. Shown as counting here until a second outlet confirms.", "source": "NBC News live blog"},
- {"time_et": "By 9:10 PM", "item": "CBS News projects Democratic Gov. Kathy Hochul wins re-election in New York over Republican Bruce Blakeman. Shown as counting here until a second outlet confirms.", "source": "CBS News New York"},
- {"time_et": "By 9:10 PM", "item": "NBC News projects Democratic Gov. Wes Moore wins re-election in Maryland, matching Fox News's earlier call; shown as won here.", "source": "NBC News, Fox News"},
- {"time_et": "By 9:10 PM", "item": "Some outlets report Republican Byron Donalds is projected to win Florida's governor race; no AP or major-network call was confirmed in this check, so it stays uncalled here.", "source": "Florida News Network (iHeart), Western Journal"},
- {"time_et": "By 8:42 PM", "item": "ABC News projects Republican Andy Barr wins Kentucky's Senate race over Democrat Charles Booker (Barr 54%, Booker 44%, 56% of expected vote in), matching Decision Desk HQ; shown as called here.", "source": "ABC News, DDHQ (via Bloomberg)"},
- {"time_et": "By 8:42 PM", "item": "ABC News projects Democrat Chris Pappas wins New Hampshire's Senate race, joining Fox News; shown as won here (Pappas 59%, Sununu 39%, 25% in).", "source": "ABC News, Fox News"},
- {"time_et": "8:33 PM", "item": "Fox News calls Florida's Senate special election for Republican Sen. Ashley Moody over Democrat Angie Nixon (Moody 50.77%, Nixon 48.09%, 96% in). Decision Desk HQ has also projected Moody, so it is shown as called here.", "source": "Fox News, Decision Desk HQ (via Mediaite)"},
- {"time_et": "8:38 PM", "item": "Florida's governor race remains uncalled: Republican Byron Donalds 49.90%, Democrat David Jolly 48.85%, with about 96% counted.", "source": "Fox News results"},
- {"time_et": "8:11 PM", "item": "Fox News calls New Hampshire's Senate race for Democrat Chris Pappas. Shown as counting here until a second outlet confirms.", "source": "Fox News"},
- {"time_et": "8:00 PM", "item": "Fox News calls Massachusetts's governor race for Democrat Maura Healey, matching NBC News's projection; shown as won here. Fox also called Maryland's governor race for Democrat Wes Moore, awaiting a second call.", "source": "Fox News, NBC News"},
- {"time_et": "8:28 PM", "item": "The Hill reports Republican Sen. Ashley Moody is projected to win Florida's Senate special election over Democrat Angie Nixon. AP and NBC News had not called it as of this check, so it stays uncalled here.", "source": "The Hill"},
- {"time_et": "By 8:24 PM", "item": "AP calls North Carolina's Senate race for Democrat Roy Cooper over Republican Michael Whatley, flipping a Republican-held seat.", "source": "AP (via NPR)"},
- {"time_et": "By 8:28 PM", "item": "AP projects Democratic Gov. JB Pritzker wins re-election in Illinois, confirming NBC News's earlier projection.", "source": "AP (via Bloomberg), NBC News"},
- {"time_et": "8:00 PM", "item": "AP called Senate races for Democrats at poll close: Chris Coons (Delaware), Juliana Stratton (Illinois), Ed Markey (Massachusetts), Cory Booker (New Jersey) and Jack Reed (Rhode Island). Shown as won here now that AP and NBC News agree.", "source": "AP (via GV Wire), NBC News"},
- {"time_et": "8:19 PM", "item": "Florida's Senate special (Moody 50.3%, Nixon 48.5%) and governor race (Donalds 49.4%, Jolly 49.3%) are too close to call with about 92% of the expected vote counted.", "source": "NBC News (AP data)"},
- {"time_et": "8:15 PM", "item": "Republican John Sununu conceded New Hampshire's Senate race to Democrat Chris Pappas. NBC News had not formally called it; Pappas led 60.6% to 37.6% with about 20% of the vote in.", "source": "NBC Boston"},
- {"time_et": "8:15 PM", "item": "NBC News projects Democratic wins for Cory Booker (NJ Senate), Chris Coons (DE Senate), Ed Markey (MA Senate), Juliana Stratton (IL Senate), JB Pritzker (IL governor) and Maura Healey (MA governor). Shown as counting here until a second outlet confirms.", "source": "NBC News, NBC Boston, NBC Philadelphia"},
- {"time_et": "8:00 PM", "item": "Democratic Gov. Josh Shapiro wins re-election in Pennsylvania, called by AP at poll close and projected by NBC News.", "source": "AP via WHYY; NBC News"},
- {"time_et": "8:00 PM", "item": "Polls closed in Alabama, Delaware, Illinois, Maine, Massachusetts, Mississippi, New Hampshire, New Jersey, Oklahoma, Pennsylvania, Rhode Island, Tennessee, the Florida panhandle and most of Michigan and Texas. No new calls in tracked races verified as of 8:12 PM.", "source": "Poll-closing schedules (Fox News / ABC News guides)"},
- {"time_et": "7:52 PM", "item": "Early counts: Sherrod Brown (D) leads in Ohio's Senate special election with about 18% of the expected vote in; Annie Andrews (D) leads in South Carolina with 9% in; Charles Booker (D) trails in Kentucky with 21% in. None of these is called.", "source": "NBC News (AP data)"},
- {"time_et": "7:50 PM", "item": "Decision Desk HQ projects Republican Sen. Shelley Moore Capito wins re-election in West Virginia. AP and NBC had not called it; the early count was close with about 6% of the vote in.", "source": "NewsNation / Decision Desk HQ"},
- {"time_et": "7:45 PM", "item": "Democratic Sen. Mark Warner projected to win re-election in Virginia, the first Senate race called tonight.", "source": "NBC News, Decision Desk HQ"},
- {"time_et": "7:37 PM", "item": "NBC News projects Democratic Sen. Jon Ossoff wins re-election in Georgia over Republican Rep. Mike Collins, with about 25% of the expected vote counted.", "source": "NBC News (via GV Wire)"},
- {"time_et": "7:30 PM", "item": "Polls closed in North Carolina and Ohio. Fox News reported North Carolina's statewide results are delayed about 45 minutes after some polling sites stayed open late.", "source": "Fox News"},
- {"time_et": "7:18 PM", "item": "Decision Desk HQ projects Democratic Sen. Jon Ossoff wins re-election in Georgia, minutes after polls closed. AP had not called the race at the time.", "source": "Decision Desk HQ (via Clash Report)"},
- {"time_et": "7:00 PM", "item": "Polls closed in Georgia, Virginia, South Carolina, Vermont and most of Florida.", "source": "Fox News / poll-closing guides"},
- {"time_et": "6:00 PM", "item": "First mainland polls closed in parts of Indiana and Kentucky.", "source": "Fox News"},
- {"time_et": "Earlier", "item": "Guam: Democrat Alicia Limtiaco won the congressional delegate seat over the Republican incumbent by about 2 points, per unofficial results. Republican Tony Ada won Guam's governor race.", "source": "CNBC"}
+ {
+  "time_et": "By 9:50 PM",
+  "item": "Texas: Democrat James Talarico leads Republican Ken Paxton 59.7% to 38.8% in the Senate race with an AP-estimated 52% counted; Democrat Gina Hinojosa leads Gov. Greg Abbott 56.6% to 42.1% with about 40% counted. Neither race is called.",
+  "source": "Texas Tribune (AP data) via Victoria Advocate; NBC News (AP data)"
+ },
+ {
+  "time_et": "9:10 PM",
+  "item": "Michigan Senate early returns: Democrat Abdul El-Sayed 55%, Republican Mike Rogers 43%, with about 4% of the vote counted.",
+  "source": "Deadline Detroit"
+ },
+ {
+  "time_et": "9:16 PM",
+  "item": "The Associated Press calls Kentucky's Senate race for Republican Andy Barr over Democrat Charles Booker (Barr 53.6%, Booker 44.2%, 72% counted), confirming earlier ABC News and Decision Desk HQ projections.",
+  "source": "AP (via Washington Examiner live blog)"
+ },
+ {
+  "time_et": "By 9:10 PM",
+  "item": "NBC News projects Democrat Keisha Lance Bottoms wins Georgia's governor race over Republican Rick Jackson, flipping a Republican-held seat. Shown as counting here until a second outlet confirms.",
+  "source": "NBC News live blog"
+ },
+ {
+  "time_et": "By 9:10 PM",
+  "item": "CBS News projects Democratic Gov. Kathy Hochul wins re-election in New York over Republican Bruce Blakeman. Shown as counting here until a second outlet confirms.",
+  "source": "CBS News New York"
+ },
+ {
+  "time_et": "By 9:10 PM",
+  "item": "NBC News projects Democratic Gov. Wes Moore wins re-election in Maryland, matching Fox News's earlier call; shown as won here.",
+  "source": "NBC News, Fox News"
+ },
+ {
+  "time_et": "By 9:10 PM",
+  "item": "Some outlets report Republican Byron Donalds is projected to win Florida's governor race; no AP or major-network call was confirmed in this check, so it stays uncalled here.",
+  "source": "Florida News Network (iHeart), Western Journal"
+ },
+ {
+  "time_et": "By 8:42 PM",
+  "item": "ABC News projects Republican Andy Barr wins Kentucky's Senate race over Democrat Charles Booker (Barr 54%, Booker 44%, 56% of expected vote in), matching Decision Desk HQ; shown as called here.",
+  "source": "ABC News, DDHQ (via Bloomberg)"
+ },
+ {
+  "time_et": "By 8:42 PM",
+  "item": "ABC News projects Democrat Chris Pappas wins New Hampshire's Senate race, joining Fox News; shown as won here (Pappas 59%, Sununu 39%, 25% in).",
+  "source": "ABC News, Fox News"
+ },
+ {
+  "time_et": "8:33 PM",
+  "item": "Fox News calls Florida's Senate special election for Republican Sen. Ashley Moody over Democrat Angie Nixon (Moody 50.77%, Nixon 48.09%, 96% in). Decision Desk HQ has also projected Moody, so it is shown as called here.",
+  "source": "Fox News, Decision Desk HQ (via Mediaite)"
+ },
+ {
+  "time_et": "8:38 PM",
+  "item": "Florida's governor race remains uncalled: Republican Byron Donalds 49.90%, Democrat David Jolly 48.85%, with about 96% counted.",
+  "source": "Fox News results"
+ },
+ {
+  "time_et": "8:11 PM",
+  "item": "Fox News calls New Hampshire's Senate race for Democrat Chris Pappas. Shown as counting here until a second outlet confirms.",
+  "source": "Fox News"
+ },
+ {
+  "time_et": "8:00 PM",
+  "item": "Fox News calls Massachusetts's governor race for Democrat Maura Healey, matching NBC News's projection; shown as won here. Fox also called Maryland's governor race for Democrat Wes Moore, awaiting a second call.",
+  "source": "Fox News, NBC News"
+ },
+ {
+  "time_et": "8:28 PM",
+  "item": "The Hill reports Republican Sen. Ashley Moody is projected to win Florida's Senate special election over Democrat Angie Nixon. AP and NBC News had not called it as of this check, so it stays uncalled here.",
+  "source": "The Hill"
+ },
+ {
+  "time_et": "By 8:24 PM",
+  "item": "AP calls North Carolina's Senate race for Democrat Roy Cooper over Republican Michael Whatley, flipping a Republican-held seat.",
+  "source": "AP (via NPR)"
+ },
+ {
+  "time_et": "By 8:28 PM",
+  "item": "AP projects Democratic Gov. JB Pritzker wins re-election in Illinois, confirming NBC News's earlier projection.",
+  "source": "AP (via Bloomberg), NBC News"
+ },
+ {
+  "time_et": "8:00 PM",
+  "item": "AP called Senate races for Democrats at poll close: Chris Coons (Delaware), Juliana Stratton (Illinois), Ed Markey (Massachusetts), Cory Booker (New Jersey) and Jack Reed (Rhode Island). Shown as won here now that AP and NBC News agree.",
+  "source": "AP (via GV Wire), NBC News"
+ },
+ {
+  "time_et": "8:19 PM",
+  "item": "Florida's Senate special (Moody 50.3%, Nixon 48.5%) and governor race (Donalds 49.4%, Jolly 49.3%) are too close to call with about 92% of the expected vote counted.",
+  "source": "NBC News (AP data)"
+ },
+ {
+  "time_et": "8:15 PM",
+  "item": "Republican John Sununu conceded New Hampshire's Senate race to Democrat Chris Pappas. NBC News had not formally called it; Pappas led 60.6% to 37.6% with about 20% of the vote in.",
+  "source": "NBC Boston"
+ },
+ {
+  "time_et": "8:15 PM",
+  "item": "NBC News projects Democratic wins for Cory Booker (NJ Senate), Chris Coons (DE Senate), Ed Markey (MA Senate), Juliana Stratton (IL Senate), JB Pritzker (IL governor) and Maura Healey (MA governor). Shown as counting here until a second outlet confirms.",
+  "source": "NBC News, NBC Boston, NBC Philadelphia"
+ },
+ {
+  "time_et": "8:00 PM",
+  "item": "Democratic Gov. Josh Shapiro wins re-election in Pennsylvania, called by AP at poll close and projected by NBC News.",
+  "source": "AP via WHYY; NBC News"
+ },
+ {
+  "time_et": "8:00 PM",
+  "item": "Polls closed in Alabama, Delaware, Illinois, Maine, Massachusetts, Mississippi, New Hampshire, New Jersey, Oklahoma, Pennsylvania, Rhode Island, Tennessee, the Florida panhandle and most of Michigan and Texas. No new calls in tracked races verified as of 8:12 PM.",
+  "source": "Poll-closing schedules (Fox News / ABC News guides)"
+ },
+ {
+  "time_et": "7:52 PM",
+  "item": "Early counts: Sherrod Brown (D) leads in Ohio's Senate special election with about 18% of the expected vote in; Annie Andrews (D) leads in South Carolina with 9% in; Charles Booker (D) trails in Kentucky with 21% in. None of these is called.",
+  "source": "NBC News (AP data)"
+ },
+ {
+  "time_et": "7:50 PM",
+  "item": "Decision Desk HQ projects Republican Sen. Shelley Moore Capito wins re-election in West Virginia. AP and NBC had not called it; the early count was close with about 6% of the vote in.",
+  "source": "NewsNation / Decision Desk HQ"
+ },
+ {
+  "time_et": "7:45 PM",
+  "item": "Democratic Sen. Mark Warner projected to win re-election in Virginia, the first Senate race called tonight.",
+  "source": "NBC News, Decision Desk HQ"
+ },
+ {
+  "time_et": "7:37 PM",
+  "item": "NBC News projects Democratic Sen. Jon Ossoff wins re-election in Georgia over Republican Rep. Mike Collins, with about 25% of the expected vote counted.",
+  "source": "NBC News (via GV Wire)"
+ },
+ {
+  "time_et": "7:30 PM",
+  "item": "Polls closed in North Carolina and Ohio. Fox News reported North Carolina's statewide results are delayed about 45 minutes after some polling sites stayed open late.",
+  "source": "Fox News"
+ },
+ {
+  "time_et": "7:18 PM",
+  "item": "Decision Desk HQ projects Democratic Sen. Jon Ossoff wins re-election in Georgia, minutes after polls closed. AP had not called the race at the time.",
+  "source": "Decision Desk HQ (via Clash Report)"
+ },
+ {
+  "time_et": "7:00 PM",
+  "item": "Polls closed in Georgia, Virginia, South Carolina, Vermont and most of Florida.",
+  "source": "Fox News / poll-closing guides"
+ },
+ {
+  "time_et": "6:00 PM",
+  "item": "First mainland polls closed in parts of Indiana and Kentucky.",
+  "source": "Fox News"
+ }
 ]
