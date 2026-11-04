@@ -48,6 +48,9 @@ ol.feed small { color: var(--muted); margin-left: 4px; }
 .livemap button { font: inherit; font-size: 13px; padding: 4px 12px; border-radius: 999px; border:1px solid var(--line); background: var(--bg); color: var(--fg); cursor: pointer; }
 .livemap button[aria-pressed="true"] { background: var(--dem); border-color: var(--dem); color: #fff; }
 .livemap iframe { width:100%; height:500px; border:0; display:block; border-radius: 8px; background: #fff; }
+.stale { display:none; margin: 12px 0 0; padding: 10px 12px; border-radius: 8px; background: #fff4d6; color: #5c4400; border: 1px solid #f0d58a; font-size: 14px; }
+@media (prefers-color-scheme: dark) { .stale { background: #3a3016; color: #f3dc9a; border-color: #6b5a26; } }
+.stale.show { display:block; }
 section.card { margin-bottom: 14px; }
 </style>
 </head>
@@ -55,9 +58,10 @@ section.card { margin-bottom: 14px; }
 <div class="wrap">
   <h1>Election night 2026: how Democrats are doing</h1>
   <p class="sub" id="headline">Loading…</p>
-  <p class="fine">Last updated <b id="asof">—</b> · next update <span id="next">—</span>. No polls or forecasts are used: only votes actually counted, cross-checked between at least two outlets, and race calls (AP first). A race shows as won or lost only once a named outlet has called it. Counts under 50% of the expected vote are labeled "Early count", since mail and Election Day ballots are often reported in batches that swing the lead. This page checks for new numbers every 2 minutes; results are refreshed about every 15 minutes tonight. For second-by-second counts, tap "Live count" on any race to open NBC News's live results (AP data).</p>
+  <p class="fine">Last updated <b id="asof">—</b> · next update <span id="next">—</span>. No polls or forecasts are used: only votes actually counted, cross-checked between at least two outlets, and race calls (AP first). A race shows as won or lost only once a named outlet has called it. Counts under 50% of the expected vote are labeled "Early count", since mail and Election Day ballots are often reported in batches that swing the lead. This page checks for new numbers every 2 minutes; Senate and governor results are refreshed about every 30 minutes and House results in between. For second-by-second counts, tap "Live count" on any race to open NBC News's live results (AP data).</p>
 
 
+  <p class="stale" id="stale" role="status">These numbers may be behind: the last update was <b id="stale-age">a while</b> ago. Tap "Live count" on any race, or use the live map below, for the latest.</p>
   <section class="card livemap" id="live-map">
     <h2>Live map from ABC News</h2>
     <p class="note">Updates on its own as votes are counted. Calls and counts in this map are ABC News's; the tables below are this tracker's cross-checked summary.</p>
@@ -204,12 +208,22 @@ function render() {
   (D.feed || []).forEach((r) => { const li = el('li'); li.appendChild(el('b', r.time_et || '')); li.appendChild(document.createTextNode(r.item || '')); if (r.source) li.appendChild(el('small', '— ' + r.source)); fd.appendChild(li); });
 }
 
+function staleCheck() {
+  const s = (D.status || [])[0] || {};
+  const t = Date.parse(s.as_of_iso || '');
+  const box = $('stale');
+  if (!t) { box.classList.remove('show'); return; }
+  const mins = Math.round((Date.now() - t) / 60000);
+  if (mins > 45) { $('stale-age').textContent = mins >= 120 ? Math.round(mins / 60) + ' hours' : mins + ' minutes'; box.classList.add('show'); }
+  else box.classList.remove('show');
+}
 async function load() {
   const t = Date.now();
   await Promise.all(['senate', 'governor', 'house', 'chamber', 'status', 'feed'].map(async (k) => {
     try { const res = await fetch(`data/${k}.json?t=${t}`, {cache: 'no-store'}); if (res.ok) D[k] = await res.json(); } catch (e) {}
   }));
   render();
+  staleCheck();
 }
 document.querySelectorAll('#live-map button').forEach((b) => b.addEventListener('click', () => {
   document.querySelectorAll('#live-map button').forEach((x) => x.setAttribute('aria-pressed', String(x === b)));
@@ -218,6 +232,7 @@ document.querySelectorAll('#live-map button').forEach((b) => b.addEventListener(
 $('q').addEventListener('input', render);
 load();
 setInterval(load, 120000);
+setInterval(staleCheck, 60000);
 </script>
 </body>
 </html>
