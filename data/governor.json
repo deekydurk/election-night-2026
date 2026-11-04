@@ -141,13 +141,13 @@
   "opp_party": "R",
   "held_by": "R",
   "polls_close_et": "8:00 PM",
-  "dem_pct": 66.42,
-  "opp_pct": 33.58,
-  "vote_in_pct": null,
-  "standing": "leading",
-  "status": "Early count – Democrat leads",
+  "dem_pct": 46,
+  "opp_pct": 54,
+  "vote_in_pct": 70,
+  "standing": "trailing",
+  "status": "Counting – Democrat trails (Tuberville declared victory; AP had not called it as of ~11:30 PM ET)",
   "called_by": "",
-  "source": "Fox News results, 8:17 PM (<1% in, first returns only)"
+  "source": "WSFA (AP data), 70% counted as of 10:30 PM CT; checked 12:05 AM"
  },
  {
   "state": "Alaska",
@@ -250,9 +250,9 @@
   "opp_pct": null,
   "vote_in_pct": null,
   "standing": "pending",
-  "status": "Polls open",
+  "status": "Polls closed – no votes reported yet",
   "called_by": "",
-  "source": "2026election.com; checked vs Wikipedia race list"
+  "source": "Honolulu Star-Advertiser results page, no results posted as of 12:05 AM"
  },
  {
   "state": "Idaho",
@@ -295,9 +295,9 @@
   "opp_pct": 42.9,
   "vote_in_pct": null,
   "standing": "leading",
-  "status": "Counting – DDHQ projects win; awaiting a second call (Charles and Bennett have conceded, per Portland Press Herald)",
+  "status": "Counting – DDHQ projects win; awaiting a second call (Bangor Daily News/DDHQ called it 10:29 PM; Charles and Bennett have conceded)",
   "called_by": "",
-  "source": "Bangor Daily News / DDHQ call 10:29 PM (count, % counted not stated); Press Herald (concession); concessions per Portland Press Herald headline, 11:39 PM check"
+  "source": "Bangor Daily News/DDHQ: Pingree 48.9%, Charles 42.9%, Bennett 8.2% (share counted not stated); checked 12:05 AM"
  },
  {
   "state": "Maryland",
@@ -426,13 +426,13 @@
   "opp_party": "R",
   "held_by": "D",
   "polls_close_et": "11:00 PM",
-  "dem_pct": 55.6,
-  "opp_pct": 41.8,
-  "vote_in_pct": null,
+  "dem_pct": 54.4,
+  "opp_pct": 43,
+  "vote_in_pct": 35,
   "standing": "leading",
-  "status": "Early count – Democrat leads",
+  "status": "Early count – DDHQ projects win; awaiting a second call",
   "called_by": "",
-  "source": "NBC News results (AP data), 11:33 PM check; OPB reported 54.4/43 at ~35% counted"
+  "source": "OPB, est. 35% counted; DDHQ projection per That Oregon Life headline; checked 12:05 AM"
  },
  {
   "state": "Rhode Island",
@@ -474,10 +474,10 @@
   "dem_pct": 59.8,
   "opp_pct": 40.2,
   "vote_in_pct": 3.3,
-  "standing": "leading",
-  "status": "Early count – Democrat leads",
-  "called_by": "",
-  "source": "NBC News results (AP data), 10:25 PM check; note KELO reports AP's SD feed had errors, SoS site showed Rhoden ahead"
+  "standing": "lost",
+  "status": "Lost (AP call; early count shown)",
+  "called_by": "AP",
+  "source": "Call: KOTA-TV, \"according to the Associated Press\" (11:03 PM CT); count: earlier NBC News results (AP data), no newer count retrieved"
  },
  {
   "state": "Tennessee",
@@ -486,13 +486,13 @@
   "opp_party": "R",
   "held_by": "R",
   "polls_close_et": "8:00 PM",
-  "dem_pct": 34.2,
-  "opp_pct": 53.62,
-  "vote_in_pct": 10.37,
+  "dem_pct": 42.81,
+  "opp_pct": 45.65,
+  "vote_in_pct": null,
   "standing": "trailing",
-  "status": "Early count – Democrat trails",
+  "status": "Early count – Democrat trails (independent David Hatley 9.32%; Blackburn declared victory; no outlet call reported)",
   "called_by": "",
-  "source": "Fox News results, 8:38 PM"
+  "source": "WVLT \"at last check\" (article 11:24 PM ET; share counted not stated); checked 12:05 AM"
  },
  {
   "state": "Texas",
@@ -516,13 +516,13 @@
   "opp_party": "R",
   "held_by": "R",
   "polls_close_et": "7:00 PM",
-  "dem_pct": 42.53,
-  "opp_pct": 55.79,
-  "vote_in_pct": 20.0,
+  "dem_pct": 46,
+  "opp_pct": 52,
+  "vote_in_pct": 80,
   "standing": "trailing",
-  "status": "Early count – Democrat trails (Janoo has conceded; AP had not called it as of ~10:50 PM)",
+  "status": "Counting – Democrat trails (Janoo has conceded; no AP call seen)",
   "called_by": "",
-  "source": "Fox News results, 7:53 PM; concession per VTDigger"
+  "source": "Valley News, 80% counted as of 10 PM; checked 12:05 AM"
  },
  {
   "state": "Wyoming",

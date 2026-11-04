@@ -114,10 +114,10 @@
   "dem_pct": 52.38,
   "opp_pct": 44.65,
   "vote_in_pct": 76.12,
-  "standing": "leading",
-  "status": "Counting – DDHQ projects win; awaiting a second call",
-  "called_by": "",
-  "source": "DDHQ projection via The Hill, 11:18 PM (The Hill: Turek just over 51%, 78% tallied, rounded); count shown: Fox News results, 11:08 PM (76% in)"
+  "standing": "won",
+  "status": "Won",
+  "called_by": "AP, NBC News, DDHQ",
+  "source": "Call: Iowa Capital Dispatch (\"AP projects\") and NBC News results page (\"Josh Turek Wins\"), checked 12:05 AM; DDHQ earlier. Count: earlier NBC News results (AP data), no newer count retrieved"
  },
  {
   "state": "Alaska",
@@ -306,13 +306,13 @@
   "opp_party": "R",
   "held_by": "R",
   "polls_close_et": "8:00 PM",
-  "dem_pct": 47.07,
-  "opp_pct": 50.73,
-  "vote_in_pct": 81.46,
-  "standing": "trailing",
-  "status": "Counting – Democrat trails",
+  "dem_pct": 49.1,
+  "opp_pct": 48.8,
+  "vote_in_pct": 87,
+  "standing": "leading",
+  "status": "Too close to call – Democrat leads",
   "called_by": "",
-  "source": "Fox News results, 11:08 PM (81% in); no call found"
+  "source": "DDHQ race update (est. 87% in), via DDHQ on X, checked 12:05 AM"
  },
  {
   "state": "Montana",
@@ -381,13 +381,13 @@
   "opp_party": "R",
   "held_by": "D",
   "polls_close_et": "11:00 PM",
-  "dem_pct": 30.34,
-  "opp_pct": 66.78,
+  "dem_pct": 57.06,
+  "opp_pct": 40.24,
   "vote_in_pct": null,
-  "standing": "trailing",
-  "status": "Counting – Fox News projects win; awaiting a second call (under 1% counted)",
-  "called_by": "",
-  "source": "Fox News results, 11:08 PM (Fox calls Merkley; under 1% in)"
+  "standing": "won",
+  "status": "Won (share counted not reported)",
+  "called_by": "AP, Fox News",
+  "source": "Banks Post: AP called race at 8 PM PT; initial statewide results 57.06%–40.24% (share counted not stated), checked 12:05 AM; Fox News earlier"
  },
  {
   "state": "Rhode Island",

@@ -1,5 +1,30 @@
 [
  {
+  "time_et": "By 12:05 AM",
+  "item": "AP calls Iowa's Senate race for Democrat Josh Turek over Republican Ashley Hinson; NBC News also projects Turek, joining DDHQ.",
+  "source": "Iowa Capital Dispatch (AP); NBC News results page; DDHQ"
+ },
+ {
+  "time_et": "By 12:05 AM",
+  "item": "AP calls Oregon's Senate race for Democratic Sen. Jeff Merkley over Republican David Brock Smith, joining Fox News (initial statewide results 57.06% to 40.24%).",
+  "source": "Banks Post (AP); Fox News"
+ },
+ {
+  "time_et": "By 12:05 AM",
+  "item": "AP calls South Dakota's governor race for Republican Gov. Larry Rhoden over Democrat Dan Ahlers.",
+  "source": "KOTA-TV (AP)"
+ },
+ {
+  "time_et": "By 12:05 AM",
+  "item": "Mississippi Senate: Democrat Scott Colom leads Sen. Cindy Hyde-Smith 49.1% to 48.8% with an estimated 87% in; not called.",
+  "source": "DDHQ"
+ },
+ {
+  "time_et": "By 12:05 AM",
+  "item": "Not race calls: Republican Tommy Tuberville (Alabama governor) and Republican Marsha Blackburn (Tennessee governor) declared victory; AP had not called Alabama as of ~11:30 PM ET, and no call was reported in Tennessee. DDHQ projects Gov. Tina Kotek wins Oregon's governor race; awaiting a second call.",
+  "source": "WSFA; WVLT; That Oregon Life (DDHQ)"
+ },
+ {
   "time_et": "By 11:39 PM",
   "item": "NBC News projects Democrats win control of the U.S. Senate, in addition to the House. CNBC also reports Democrats have flipped the Senate.",
   "source": "NBC News live blog and Senate results page; CNBC"
@@ -123,30 +148,5 @@
   "time_et": "Just after 9 PM",
   "item": "AP calls Florida's governor race for Republican Byron Donalds over Democrat David Jolly, joining NBC News; shown as lost here. Local outlets report Jolly has conceded.",
   "source": "AP via WINK News; NBC News; Hometown Stations"
- },
- {
-  "time_et": "By 10:10 PM",
-  "item": "AP and Fox News call Colorado's Senate race for Democratic Sen. John Hickenlooper over Republican Mark Baisley (Hickenlooper 60.98%, Baisley 35.05%, 64% in per Fox News).",
-  "source": "AP (via Denver Gazette); Fox News"
- },
- {
-  "time_et": "By 10:10 PM",
-  "item": "AP and Fox News call New Mexico's Senate race for Democratic Sen. Ben Ray Luján over Republican Larry Marker.",
-  "source": "AP (via WUSA9, GV Wire); Fox News"
- },
- {
-  "time_et": "By 10:10 PM",
-  "item": "AP calls Wyoming's Senate race for Republican Harriet Hageman over Democrat James Byrd.",
-  "source": "AP (via GV Wire)"
- },
- {
-  "time_et": "8:52 PM",
-  "item": "AP calls West Virginia's Senate race for Republican Sen. Shelley Moore Capito over Democrat Rachel Fetty Anderson; Fox News also calls it.",
-  "source": "AP (via WTAP); Fox News"
- },
- {
-  "time_et": "By 10:10 PM",
-  "item": "AP and Fox News call Oklahoma's Senate race for Republican Kevin Hern over Democrat N'Kiyla Thomas.",
-  "source": "AP (via WTOP); Fox News"
  }
 ]
