@@ -1,5 +1,35 @@
 [
  {
+  "time_et": "By 8:55 AM",
+  "item": "House battlegrounds: AP has now called OH-1, OH-9, IA-1, IA-2, IA-3, NE-2, WI-3, NM-2, NV-3, TX-28, TX-34, TX-35 and MI-8 for Democrats. NBC News and DDHQ project Democrats won VA-1 and NC-1. In MI-4, Democrat Sean McCann now leads Rep. Bill Huizenga 50.3% to 48.2% with 95% counted; not called.",
+  "source": "AP via PBS, WCPO, 13abc, WKOW, Michigan Public, NPR; NBC News; DDHQ"
+ },
+ {
+  "time_et": "Wed. morning",
+  "item": "Kansas governor: Republican Ty Masterson says the first count \"does not seem to be going our way\" but the margin allows another look under Kansas law; AP still says too close to call (Holscher 50.3%, Masterson 49.7%, 98% counted).",
+  "source": "KSHB; Axios Kansas City (AP)"
+ },
+ {
+  "time_et": "2:54 AM",
+  "item": "AP calls Montana's Senate race for Republican Kurt Alme; NBC News also projects Alme. Alme 47.7%, independent Seth Bodnar 38.6%, Democrat Alani Bankhead 11.9% with 78% counted. Bodnar had conceded.",
+  "source": "Washington Examiner (AP); NBC News results page"
+ },
+ {
+  "time_et": "2:53 AM",
+  "item": "AP calls Nebraska's governor race for Republican Gov. Jim Pillen over Democrat Lynne Walz.",
+  "source": "Canadian Press via CJME (AP); Nebraska Examiner"
+ },
+ {
+  "time_et": "Early Wed.",
+  "item": "AP calls Alabama's governor race for Republican Tommy Tuberville over Democrat Doug Jones (52.1% to 47.9% with 99% counted); NBC News also projects Tuberville. Jones had not conceded.",
+  "source": "WBHM (AP); NBC News results page"
+ },
+ {
+  "time_et": "By 8:35 AM",
+  "item": "Alaska governor: Democrat Jonathan Kreiss-Tomkins 48.97%, Republican Bernadette Wilson 29.46%, Republican Dave Bronson 14.16% in DDHQ's count (67% shown); not called. Kansas governor and Mississippi and Alaska Senate races remain uncalled.",
+  "source": "Decision Desk HQ results page; WIBW; Magnolia Tribune"
+ },
+ {
   "time_et": "By 6:05 AM",
   "item": "NBC News Senate tally: Democrats 54, Republicans 44, with Alaska and Mississippi uncalled; Democrats flipped seven Republican-held seats. NBC News estimates Democrats will win about 258 House seats, their largest majority since 1993.",
   "source": "NBC News results pages and live blog"
@@ -118,35 +148,5 @@
   "time_et": "11:29 PM",
   "item": "AP calls Maine's governor race for Democrat Hannah Pingree, joining DDHQ; Republican Bobby Charles and independent Rick Bennett conceded.",
   "source": "AP via Yahoo News; WGME"
- },
- {
-  "time_et": "11:17 PM",
-  "item": "AP calls Alabama's open Senate seat for Republican Barry Moore over Democrat Everett Wess.",
-  "source": "AP via Yahoo News"
- },
- {
-  "time_et": "By 12:40 AM",
-  "item": "CBS News projects Democrat Gina Hinojosa defeats Gov. Greg Abbott in Texas, joining NBC News; shown as won here.",
-  "source": "CBS News Texas; NBC News"
- },
- {
-  "time_et": "By 12:40 AM",
-  "item": "Fox News Decision Desk projects Republican Gov. Kelly Ayotte wins New Hampshire's governor race over Democrat Cinde Warmington; awaiting a second call.",
-  "source": "Fox News"
- },
- {
-  "time_et": "By 12:40 AM",
-  "item": "AP calls Minnesota's Senate race for Democrat Peggy Flanagan (54.36%, 70.6% counted) and Hawaii's governor race for Gov. Josh Green; NBC News projects both. NBC's Senate tally stands at 52 Democrats, 41 Republicans, 7 uncalled, with NBC and CNBC projecting Democratic control of both chambers.",
-  "source": "AP via Washington Examiner, CKOM; NBC News results page and live blog; CNBC"
- },
- {
-  "time_et": "By 12:05 AM",
-  "item": "AP calls Iowa's Senate race for Democrat Josh Turek over Republican Ashley Hinson; NBC News also projects Turek, joining DDHQ.",
-  "source": "Iowa Capital Dispatch (AP); NBC News results page; DDHQ"
- },
- {
-  "time_et": "By 12:05 AM",
-  "item": "AP calls Oregon's Senate race for Democratic Sen. Jeff Merkley over Republican David Brock Smith, joining Fox News (initial statewide results 57.06% to 40.24%).",
-  "source": "Banks Post (AP); Fox News"
  }
 ]

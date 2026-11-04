@@ -44,12 +44,13 @@
   "opponent": "Rob Wittman (inc.)",
   "held_by": "R",
   "polls_close_et": "7:00 PM",
-  "dem_pct": 49.7,
-  "opp_pct": 50.0,
-  "vote_in_pct": 79,
-  "standing": "trailing",
-  "status": "Counting – Democrat trails",
-  "called_by": ""
+  "dem_pct": 50.5,
+  "opp_pct": 49.3,
+  "vote_in_pct": null,
+  "standing": "won",
+  "status": "Won (AP still says too close to call; all precincts in, mail ballots still being counted; Wittman has not conceded)",
+  "called_by": "NBC News, DDHQ",
+  "source": "NBC News projection (NBC News post via Townhall); DDHQ call 10:28 PM; AP count via Axios Richmond (all precincts reporting), ~8:55 AM ET check"
  },
  {
   "race": "VA-2",
@@ -70,12 +71,13 @@
   "opponent": "Laurie Buckhout",
   "held_by": "D",
   "polls_close_et": "7:30 PM",
-  "dem_pct": 51,
-  "opp_pct": 47,
-  "vote_in_pct": 60,
-  "standing": "leading",
-  "status": "Counting – Democrat leads",
-  "called_by": ""
+  "dem_pct": 49.6,
+  "opp_pct": 47.1,
+  "vote_in_pct": null,
+  "standing": "won",
+  "status": "Won (Buckhout conceded; all 290 precincts reporting)",
+  "called_by": "NBC News, DDHQ",
+  "source": "DDHQ call 12:16 AM and count via Townhall; NBC News projection; WLOS/WITN (concession), ~8:55 AM ET check"
  },
  {
   "race": "NC-11",
@@ -96,12 +98,13 @@
   "opponent": "Eric Conroy",
   "held_by": "D",
   "polls_close_et": "7:30 PM",
-  "dem_pct": 58,
-  "opp_pct": 40,
-  "vote_in_pct": 44,
-  "standing": "leading",
-  "status": "Early count – Democrat leads",
-  "called_by": ""
+  "dem_pct": 54.4,
+  "opp_pct": 42.9,
+  "vote_in_pct": 93,
+  "standing": "won",
+  "status": "Won",
+  "called_by": "AP, CBS News, DDHQ",
+  "source": "AP call 10:35 PM via Local 12/WCPO; CBS News projection; DDHQ via The Hill; count via WVXU and Center Square (93% in), ~8:55 AM ET check"
  },
  {
   "race": "OH-9",
@@ -109,12 +112,13 @@
   "opponent": "Derek Merrin",
   "held_by": "D",
   "polls_close_et": "7:30 PM",
-  "dem_pct": 42,
-  "opp_pct": 58,
-  "vote_in_pct": 30,
-  "standing": "trailing",
-  "status": "Early count – Democrat trails",
-  "called_by": ""
+  "dem_pct": 52.7,
+  "opp_pct": 47.3,
+  "vote_in_pct": 98,
+  "standing": "won",
+  "status": "Won",
+  "called_by": "AP, NBC News, CBS News, DDHQ",
+  "source": "NBC News results page (AP data, projected winner, 98% in); AP call via 13abc; CBS News projection; DDHQ via The Hill, ~8:55 AM ET check"
  },
  {
   "race": "MI-4",
@@ -122,12 +126,13 @@
   "opponent": "Bill Huizenga (inc.)",
   "held_by": "R",
   "polls_close_et": "8:00 PM",
-  "dem_pct": 27,
-  "opp_pct": 71,
-  "vote_in_pct": 1,
-  "standing": "trailing",
-  "status": "Early count – Democrat trails",
-  "called_by": ""
+  "dem_pct": 50.3,
+  "opp_pct": 48.2,
+  "vote_in_pct": 94.8,
+  "standing": "leading",
+  "status": "Counting – Democrat leads (not called)",
+  "called_by": "",
+  "source": "NBC News results (AP data), 94.8% in, ~8:55 AM ET check; earlier WSBT (87% in) had Huizenga narrowly ahead"
  },
  {
   "race": "MI-7",
@@ -135,12 +140,13 @@
   "opponent": "Tom Barrett (inc.)",
   "held_by": "R",
   "polls_close_et": "8:00 PM",
-  "dem_pct": 39,
-  "opp_pct": 59,
-  "vote_in_pct": 27,
-  "standing": "trailing",
-  "status": "Early count – Democrat trails",
-  "called_by": ""
+  "dem_pct": 51,
+  "opp_pct": 47.8,
+  "vote_in_pct": 96,
+  "standing": "leading",
+  "status": "Counting – Democrat leads (Lawrence declared victory; AP has not called)",
+  "called_by": "",
+  "source": "WLNS (96% of expected vote counted); Michigan Public/WKAR (AP call pending), ~8:55 AM ET check"
  },
  {
   "race": "MI-8",
@@ -148,12 +154,13 @@
   "opponent": "Thomas Smith",
   "held_by": "D",
   "polls_close_et": "8:00 PM",
-  "dem_pct": 51,
-  "opp_pct": 47,
-  "vote_in_pct": 20,
-  "standing": "leading",
-  "status": "Early count – Democrat leads",
-  "called_by": ""
+  "dem_pct": 52.8,
+  "opp_pct": 44.7,
+  "vote_in_pct": null,
+  "standing": "won",
+  "status": "Won (shares from an earlier count; share counted not stated)",
+  "called_by": "AP",
+  "source": "AP call 1:32 AM via Michigan Public live blog; Detroit News; shares via Michigan News Source, ~8:55 AM ET check"
  },
  {
   "race": "MI-10",
@@ -161,12 +168,13 @@
   "opponent": "Michael Bouchard",
   "held_by": "R",
   "polls_close_et": "8:00 PM",
-  "dem_pct": 50,
-  "opp_pct": 48,
-  "vote_in_pct": 10,
+  "dem_pct": null,
+  "opp_pct": null,
+  "vote_in_pct": null,
   "standing": "leading",
-  "status": "Early count – Democrat leads",
-  "called_by": ""
+  "status": "Counting – Democrat leads by about 6 points with about 90% counted (Bouchard conceded; AP has not called)",
+  "called_by": "",
+  "source": "Bridge Michigan (6 AM ET); Michigan Advance (Bouchard concession), ~8:55 AM ET check"
  },
  {
   "race": "NH-1",
@@ -265,12 +273,13 @@
   "opponent": "Tano Tijerina",
   "held_by": "D",
   "polls_close_et": "8:00 PM",
-  "dem_pct": 79,
-  "opp_pct": 19,
+  "dem_pct": 65.8,
+  "opp_pct": 29.6,
   "vote_in_pct": null,
-  "standing": "leading",
-  "status": "Early count – Democrat leads",
-  "called_by": ""
+  "standing": "won",
+  "status": "Won",
+  "called_by": "AP, DDHQ",
+  "source": "AP call 12:31 AM (Washington Examiner, Yahoo/AP); DDHQ call per The Texan; shares via Newsweek, ~8:55 AM ET check"
  },
  {
   "race": "TX-34",
@@ -278,12 +287,13 @@
   "opponent": "Eric Flores",
   "held_by": "D",
   "polls_close_et": "8:00 PM",
-  "dem_pct": 50,
-  "opp_pct": 46,
-  "vote_in_pct": 36,
-  "standing": "leading",
-  "status": "Early count – Democrat leads",
-  "called_by": ""
+  "dem_pct": 55.6,
+  "opp_pct": 39.8,
+  "vote_in_pct": null,
+  "standing": "won",
+  "status": "Won (Flores conceded)",
+  "called_by": "AP",
+  "source": "AP race calls via NPR; Texas Tribune; shares via Newsweek, ~8:55 AM ET check"
  },
  {
   "race": "TX-35",
@@ -291,12 +301,13 @@
   "opponent": "Carlos De La Cruz",
   "held_by": "D",
   "polls_close_et": "8:00 PM",
-  "dem_pct": 66,
-  "opp_pct": 34,
-  "vote_in_pct": 44,
-  "standing": "leading",
-  "status": "Early count – Democrat leads",
-  "called_by": ""
+  "dem_pct": 55.4,
+  "opp_pct": 44.6,
+  "vote_in_pct": 97.2,
+  "standing": "won",
+  "status": "Won",
+  "called_by": "AP, NBC News",
+  "source": "NBC News results page (AP data, projected winner, 97.2% in); AP race calls via NPR, ~8:55 AM ET check"
  },
  {
   "race": "AZ-1",
@@ -304,12 +315,13 @@
   "opponent": "Jay Feely",
   "held_by": "R",
   "polls_close_et": "9:00 PM",
-  "dem_pct": 55,
-  "opp_pct": null,
+  "dem_pct": 52.5,
+  "opp_pct": 45.5,
   "vote_in_pct": null,
   "standing": "leading",
-  "status": "Early count – Democrat leads",
-  "called_by": ""
+  "status": "Counting – Democrat leads (not called; share counted not stated)",
+  "called_by": "",
+  "source": "KTAR results, ~8:55 AM ET check"
  },
  {
   "race": "AZ-6",
@@ -317,12 +329,13 @@
   "opponent": "Juan Ciscomani (inc.)",
   "held_by": "R",
   "polls_close_et": "9:00 PM",
-  "dem_pct": 58,
-  "opp_pct": 40,
-  "vote_in_pct": 70,
+  "dem_pct": 54.0,
+  "opp_pct": 44.0,
+  "vote_in_pct": null,
   "standing": "leading",
-  "status": "Counting – DDHQ projects win; awaiting a second call",
-  "called_by": ""
+  "status": "Counting – DDHQ projects win; awaiting a second call (AP says too close to call)",
+  "called_by": "",
+  "source": "KJZZ (AP count as of 2 AM MT); DDHQ call 10:12 PM via The Advocate, ~8:55 AM ET check"
  },
  {
   "race": "CO-8",
@@ -343,12 +356,13 @@
   "opponent": "Mariannette Miller-Meeks (inc.)",
   "held_by": "R",
   "polls_close_et": "9:00 PM",
-  "dem_pct": 44.7,
-  "opp_pct": 50.4,
-  "vote_in_pct": 1,
-  "standing": "trailing",
-  "status": "Counting – CBS projects win; awaiting a second call",
-  "called_by": ""
+  "dem_pct": 53.6,
+  "opp_pct": 42.8,
+  "vote_in_pct": 93,
+  "standing": "won",
+  "status": "Won",
+  "called_by": "AP, CBS News, DDHQ",
+  "source": "AP call 12:08 AM via PBS NewsHour; DDHQ via Iowa Starting Line; count via Center Square (93% in), ~8:55 AM ET check"
  },
  {
   "race": "IA-2",
@@ -356,12 +370,13 @@
   "opponent": "Joe Mitchell",
   "held_by": "R",
   "polls_close_et": "9:00 PM",
-  "dem_pct": 61.3,
-  "opp_pct": 35.6,
-  "vote_in_pct": 9,
-  "standing": "leading",
-  "status": "Early count – Democrat leads",
-  "called_by": ""
+  "dem_pct": null,
+  "opp_pct": null,
+  "vote_in_pct": null,
+  "standing": "won",
+  "status": "Won (James 171,484 votes, Mitchell 157,722 with all counties reporting)",
+  "called_by": "AP, DDHQ",
+  "source": "AP projection via Yahoo/KCRG; DDHQ call 10:33 PM and Iowa Secretary of State totals via Iowa Starting Line, ~8:55 AM ET check"
  },
  {
   "race": "IA-3",
@@ -369,12 +384,13 @@
   "opponent": "Zach Nunn (inc.)",
   "held_by": "R",
   "polls_close_et": "9:00 PM",
-  "dem_pct": 60.5,
-  "opp_pct": 39.2,
-  "vote_in_pct": 37,
-  "standing": "leading",
-  "status": "Early count – Democrat leads",
-  "called_by": ""
+  "dem_pct": 54.6,
+  "opp_pct": 45.4,
+  "vote_in_pct": 92,
+  "standing": "won",
+  "status": "Won",
+  "called_by": "AP, NBC News",
+  "source": "AP call via Iowa Public Radio; NBC News live blog; count via Center Square (92% in), ~8:55 AM ET check"
  },
  {
   "race": "NE-2",
@@ -382,12 +398,13 @@
   "opponent": "Brinker Harding",
   "held_by": "R",
   "polls_close_et": "9:00 PM",
-  "dem_pct": 64,
-  "opp_pct": 34,
-  "vote_in_pct": 36,
-  "standing": "leading",
-  "status": "Early count – Democrat leads",
-  "called_by": ""
+  "dem_pct": 56.4,
+  "opp_pct": 41.0,
+  "vote_in_pct": 87.3,
+  "standing": "won",
+  "status": "Won (Harding conceded)",
+  "called_by": "AP, NBC News, DDHQ",
+  "source": "NBC News results page (AP data), 87.3% in; AP call via Nebraska Examiner/Washington Examiner; DDHQ via The Hill, ~8:55 AM ET check"
  },
  {
   "race": "NM-2",
@@ -398,9 +415,10 @@
   "dem_pct": 58,
   "opp_pct": 42,
   "vote_in_pct": null,
-  "standing": "leading",
-  "status": "Early count – Democrat leads",
-  "called_by": ""
+  "standing": "won",
+  "status": "Won (vote shares from an earlier check)",
+  "called_by": "AP",
+  "source": "AP call 12:12 AM ET per Fox News results page, ~8:55 AM ET check; shares from earlier check"
  },
  {
   "race": "NY-3",
@@ -408,12 +426,13 @@
   "opponent": "Mike LiPetri",
   "held_by": "D",
   "polls_close_et": "9:00 PM",
-  "dem_pct": 62,
-  "opp_pct": 37,
-  "vote_in_pct": 8,
+  "dem_pct": 55.1,
+  "opp_pct": 44.7,
+  "vote_in_pct": 87.3,
   "standing": "leading",
-  "status": "Early count – Democrat leads",
-  "called_by": ""
+  "status": "Counting – NBC News projects win; awaiting a second call",
+  "called_by": "",
+  "source": "NBC New York results (NBC News Decision Desk, projected winner, 87.3% in), ~8:55 AM ET check"
  },
  {
   "race": "NY-4",
@@ -421,12 +440,13 @@
   "opponent": "Jeanine Driscoll",
   "held_by": "D",
   "polls_close_et": "9:00 PM",
-  "dem_pct": null,
-  "opp_pct": null,
-  "vote_in_pct": null,
-  "standing": "pending",
-  "status": "Polls closed – no votes reported yet",
-  "called_by": ""
+  "dem_pct": 56,
+  "opp_pct": 43,
+  "vote_in_pct": 85,
+  "standing": "leading",
+  "status": "Counting – Democrat leads (not called)",
+  "called_by": "",
+  "source": "ABC7 New York results (4:57 AM); NBC News (85% expected vote in), ~8:55 AM ET check"
  },
  {
   "race": "NY-17",
@@ -434,12 +454,13 @@
   "opponent": "Mike Lawler (inc.)",
   "held_by": "R",
   "polls_close_et": "9:00 PM",
-  "dem_pct": 57.4,
-  "opp_pct": 42.6,
-  "vote_in_pct": 2,
+  "dem_pct": 52.2,
+  "opp_pct": 47.7,
+  "vote_in_pct": 60.9,
   "standing": "leading",
-  "status": "Early count – Democrat leads",
-  "called_by": ""
+  "status": "Counting – Democrat leads (Lawler conceded; no network call yet; Westchester count continues)",
+  "called_by": "",
+  "source": "NBC News results (AP data), 60.9% in; NBC New York and CBS News (Lawler concession), ~8:55 AM ET check"
  },
  {
   "race": "NY-19",
@@ -460,12 +481,13 @@
   "opponent": "Derrick Van Orden (inc.)",
   "held_by": "R",
   "polls_close_et": "9:00 PM",
-  "dem_pct": 53,
-  "opp_pct": null,
-  "vote_in_pct": 70,
-  "standing": "leading",
-  "status": "Counting – Democrat leads",
-  "called_by": ""
+  "dem_pct": 52.4,
+  "opp_pct": 45.8,
+  "vote_in_pct": 91,
+  "standing": "won",
+  "status": "Won (Van Orden conceded)",
+  "called_by": "AP, NBC News",
+  "source": "AP call 11:48 PM CT and AP count (91% in) via WKOW/Wisconsin Examiner; NBC News live blog, ~8:55 AM ET check"
  },
  {
   "race": "NV-3",
@@ -476,9 +498,10 @@
   "dem_pct": null,
   "opp_pct": null,
   "vote_in_pct": null,
-  "standing": "pending",
-  "status": "Polls closed – no votes reported yet",
-  "called_by": ""
+  "standing": "won",
+  "status": "Won (no vote share retrieved)",
+  "called_by": "AP",
+  "source": "AP call 4:04 AM ET per Fox News results page, ~8:55 AM ET check"
  },
  {
   "race": "CA-13",
@@ -486,12 +509,13 @@
   "opponent": "Kevin Lincoln",
   "held_by": "D",
   "polls_close_et": "11:00 PM",
-  "dem_pct": 58.8,
-  "opp_pct": 41.2,
-  "vote_in_pct": 23.6,
+  "dem_pct": 61.3,
+  "opp_pct": 38.7,
+  "vote_in_pct": 57.2,
   "standing": "leading",
-  "status": "Early count – Democrat leads",
-  "called_by": ""
+  "status": "Counting – Democrat leads (not called)",
+  "called_by": "",
+  "source": "NBC Los Angeles (NBC News Decision Desk, 57.2% in), ~8:55 AM ET check"
  },
  {
   "race": "CA-22",
@@ -499,12 +523,13 @@
   "opponent": "David Valadao (inc.)",
   "held_by": "R",
   "polls_close_et": "11:00 PM",
-  "dem_pct": 59.9,
-  "opp_pct": 40.1,
-  "vote_in_pct": 12.6,
+  "dem_pct": 66.4,
+  "opp_pct": 33.6,
+  "vote_in_pct": null,
   "standing": "leading",
-  "status": "Early count – Democrat leads",
-  "called_by": ""
+  "status": "Counting – Democrat leads (not called; share counted not stated)",
+  "called_by": "",
+  "source": "NBC Los Angeles (NBC News Decision Desk), ~8:55 AM ET check"
  },
  {
   "race": "CA-45",
@@ -512,12 +537,13 @@
   "opponent": "Chuong Vo",
   "held_by": "D",
   "polls_close_et": "11:00 PM",
-  "dem_pct": null,
-  "opp_pct": null,
+  "dem_pct": 58.7,
+  "opp_pct": 41.3,
   "vote_in_pct": null,
-  "standing": "pending",
-  "status": "Polls closed – no votes reported yet",
-  "called_by": ""
+  "standing": "leading",
+  "status": "Counting – Democrat leads (not called; share counted not stated)",
+  "called_by": "",
+  "source": "NBC Los Angeles (NBC News Decision Desk), ~8:55 AM ET check"
  },
  {
   "race": "CA-48",
@@ -525,12 +551,13 @@
   "opponent": "Jim Desmond",
   "held_by": "R",
   "polls_close_et": "11:00 PM",
-  "dem_pct": null,
-  "opp_pct": null,
-  "vote_in_pct": null,
-  "standing": "pending",
-  "status": "Polls closed – no votes reported yet",
-  "called_by": ""
+  "dem_pct": 59.6,
+  "opp_pct": 40.4,
+  "vote_in_pct": 52.2,
+  "standing": "leading",
+  "status": "Counting – Democrat leads (not called)",
+  "called_by": "",
+  "source": "NBC News results (AP data), 52.2% in, ~8:55 AM ET check"
  },
  {
   "race": "WA-3",
@@ -538,11 +565,12 @@
   "opponent": "John Braun",
   "held_by": "D",
   "polls_close_et": "11:00 PM",
-  "dem_pct": 55,
-  "opp_pct": 44.1,
-  "vote_in_pct": null,
+  "dem_pct": 55.0,
+  "opp_pct": 44.2,
+  "vote_in_pct": 66.7,
   "standing": "leading",
-  "status": "Early count – Democrat leads",
-  "called_by": ""
+  "status": "Counting – NBC News projects win; awaiting a second call (AP has not called)",
+  "called_by": "",
+  "source": "NBC News results page (projected winner, 66.7% in); OPB (AP not called), ~8:55 AM ET check"
  }
 ]

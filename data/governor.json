@@ -100,9 +100,9 @@
   "opp_pct": 49.7,
   "vote_in_pct": 97.9,
   "standing": "leading",
-  "status": "Too close to call – Democrat leads by about 5,600 votes (AP has not called; mail ballots still arriving through Friday)",
+  "status": "Too close to call – Democrat leads (50.3% to 49.7% with 98% counted per AP; mail ballots still arriving through Friday; Masterson says the first count \"does not seem to be going our way\" and will let the review process finish)",
   "called_by": "",
-  "source": "NBC News results (AP data), 97.9% in, ~6 AM ET check; KWCH; Kansas Secretary of State via Johnson County Post"
+  "source": "NBC News results (AP data), 97.9% in; Axios Kansas City (AP, 6 AM: still too close to call); KSHB (Masterson statement); WIBW 5 AM tally; 8:55 AM ET check"
  },
  {
   "state": "Wisconsin",
@@ -141,13 +141,13 @@
   "opp_party": "R",
   "held_by": "R",
   "polls_close_et": "8:00 PM",
-  "dem_pct": 46.8,
-  "opp_pct": 52.8,
-  "vote_in_pct": 70,
-  "standing": "trailing",
-  "status": "Counting – Democrat trails (Tuberville declared victory; an AP call is reported by the PollsterGraph aggregator but not yet confirmed by a news outlet)",
-  "called_by": "",
-  "source": "Decatur Daily unofficial returns, all 67 counties reporting (1:12 AM ET); share counted shown is from earlier check; ~6 AM ET check"
+  "dem_pct": 47.9,
+  "opp_pct": 52.1,
+  "vote_in_pct": 99,
+  "standing": "lost",
+  "status": "Lost (Jones had not conceded as of the AP call)",
+  "called_by": "AP, NBC News",
+  "source": "WBHM (AP call and count, 99% in); NBC News results page headline \"Tommy Tuberville Wins\"; checked vs AL Reporter (Tuberville 51.8%, Jones 47.9%); 8:40 AM ET check"
  },
  {
   "state": "Alaska",
@@ -156,13 +156,13 @@
   "opp_party": "R",
   "held_by": "R",
   "polls_close_et": "1:00 AM",
-  "dem_pct": null,
-  "opp_pct": null,
-  "vote_in_pct": null,
-  "standing": "pending",
-  "status": "Polls closed – no verified count yet",
+  "dem_pct": 48.97,
+  "opp_pct": 29.46,
+  "vote_in_pct": 67,
+  "standing": "leading",
+  "status": "Counting – Democrat leads (Republican Dave Bronson third at 14.16%; ranked-choice tabulation follows if no one tops 50%; not called)",
   "called_by": "",
-  "source": "Checked 1:10 AM ET; no governor count retrieved; 2:40 AM ET check found no newer count"
+  "source": "Decision Desk HQ results page (67% shown), updated 4:12 AM ET; 8:40 AM ET check"
  },
  {
   "state": "Arkansas",
@@ -354,10 +354,10 @@
   "dem_pct": null,
   "opp_pct": null,
   "vote_in_pct": null,
-  "standing": "trailing",
-  "status": "Counting – Democrat trails (Pillen declared victory; an AP call is reported by the PollsterGraph aggregator but not yet confirmed by a news outlet)",
-  "called_by": "",
-  "source": "Daily Nebraskan live updates, 11:10 PM CT; 2:40 AM ET check; ~6 AM ET check"
+  "standing": "lost",
+  "status": "Lost (AP declared Pillen the winner at 2:53 a.m. ET; no vote share retrieved)",
+  "called_by": "AP",
+  "source": "Canadian Press via CJME (AP call, 2:53 a.m. EST); Nebraska Examiner; 8:40 AM ET check"
  },
  {
   "state": "New Hampshire",

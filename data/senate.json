@@ -132,7 +132,7 @@
   "standing": "trailing",
   "status": "Counting – Democrat trails (Sullivan leads by about 1,700 votes; ranked-choice tabulation may follow; counting continues for days)",
   "called_by": "",
-  "source": "NBC News results (AP data), 72.4% in, ~6 AM ET check; NBC San Diego live blog"
+  "source": "NBC News results (AP data), 72.4% in, ~6 AM ET check; NBC San Diego live blog; 8:40 AM ET check found no newer count; 8:55 AM: NYT count via Boston 25 matches (1,677-vote gap)"
  },
  {
   "state": "Alabama",
@@ -265,9 +265,9 @@
   "opp_pct": 53.23,
   "vote_in_pct": 89,
   "standing": "trailing",
-  "status": "Counting – Democrat trails (Louisiana Illuminator, Verite News, KTBS and KSLA report Letlow won; no AP or network call confirmed in this check)",
+  "status": "Counting – Democrat trails (local outlets report Letlow won; Rapides Parish Journal shows all 3,722 Election Day precincts in, Letlow 745,963 to Davis 720,106; no AP or network call confirmed in this check)",
   "called_by": "",
-  "source": "DDHQ results page, 11:50 PM (89% in); checked vs WWNO (Letlow 52%, Davis 48% at 11 PM); rechecked 1:08 AM; 2:40 AM ET check: Louisiana Illuminator, Verite News headlines"
+  "source": "DDHQ results page, 11:50 PM (89% in); checked vs WWNO (Letlow 52%, Davis 48% at 11 PM); rechecked 1:08 AM; 2:40 AM ET check: Louisiana Illuminator, Verite News headlines; 8:40 AM ET check: Rapides Parish Journal unofficial totals"
  },
  {
   "state": "Massachusetts",
@@ -312,7 +312,7 @@
   "standing": "leading",
   "status": "Too close to call – Democrat leads by 43 votes (Colom 462,821, Hyde-Smith 462,778; AP has not called; no automatic recount law)",
   "called_by": "",
-  "source": "NBC News results (AP data), 95.6% in, ~6 AM ET check; vote totals via HuffPost/Yahoo, shortly before 4 AM ET"
+  "source": "NBC News results (AP data), 95.6% in, still 'too close to call' at 8:55 AM ET check; WLOX (6 AM count); Magnolia Tribune (97% of precincts)"
  },
  {
   "state": "Montana",
@@ -321,13 +321,13 @@
   "opp_party": "R",
   "held_by": "R",
   "polls_close_et": "10:00 PM",
-  "dem_pct": 12.0,
-  "opp_pct": 47.0,
-  "vote_in_pct": 31.0,
-  "standing": "trailing",
-  "status": "Early count – Democrat trails (independent Seth Bodnar second at 39% and has conceded per Daily Montanan; KPAX headline reports Alme won; no AP call confirmed)",
-  "called_by": "",
-  "source": "KPAX (31% of precincts reporting), 2:40 AM ET check; Daily Montanan"
+  "dem_pct": 11.9,
+  "opp_pct": 47.7,
+  "vote_in_pct": 78,
+  "standing": "lost",
+  "status": "Lost (AP called the race at 2:54 a.m.; independent Seth Bodnar, 38.6%, finished second and conceded)",
+  "called_by": "AP, NBC News",
+  "source": "Washington Examiner (AP call and AP count, 78% in); NBC News results page headline \"Kurt Alme Wins\"; 8:40 AM ET check"
  },
  {
   "state": "New Jersey",
