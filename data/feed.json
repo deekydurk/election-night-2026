@@ -1,5 +1,20 @@
 [
  {
+  "time_et": "12:26 PM",
+  "item": "AP calls Michigan's 10th District for Democrat Christina Hines over Republican Michael Bouchard, 52% to 45%, flipping a Republican-held seat. MI-4 (McCann leads) and MI-7 (Lawrence leads by about 12,500 votes) are still uncalled.",
+  "source": "Washington Examiner (AP); Argus-Press"
+ },
+ {
+  "time_et": "By 12:51 PM ET",
+  "item": "Mississippi Senate: the Secretary of State's office says more than 3,600 mail-in absentee ballots are still uncounted; the Colom campaign estimates 10,000–15,000 affidavit ballots. Colom still leads by 43 votes. Mississippi has no automatic recount.",
+  "source": "WJTV via WREG; Mississippi Today; Washington Times"
+ },
+ {
+  "time_et": "By 12:40 PM",
+  "item": "Kansas governor: Gov. Laura Kelly congratulated Democrat Cindy Holscher, who leads Republican Ty Masterson by 5,557 votes in unofficial results and has declared victory. Masterson has not conceded; AP has not called the race.",
+  "source": "KWCH; WLBT; Newsweek"
+ },
+ {
   "time_et": "By 12:27 PM ET",
   "item": "Alaska Senate lead flips: Democrat Mary Peltola now leads Sen. Dan Sullivan 102,701 to 102,075 (626 votes) with 74% counted; not called. Alaska's next count updates are Nov. 10, 13 and 18.",
   "source": "AP via Boston 25; Anchorage Daily News; Newsweek"
@@ -133,20 +148,5 @@
   "time_et": "By 1:10 AM",
   "item": "Alaska Senate early returns: Democrat Mary Peltola 54.1%, Republican Sen. Dan Sullivan 42.8%, with 45 of 401 precincts reporting; the state will keep accepting ballots for days. Nevada still has not reported any votes in the governor's race.",
   "source": "Alaska Division of Elections via Anchorage Daily News, Alaska Beacon; NBC News, CNN results pages"
- },
- {
-  "time_et": "By 1:08 AM",
-  "item": "Democrat Troy Jackson defeats Sen. Susan Collins in Maine's Senate race, per NBC News; NPR and the Washington Post also report Jackson won (AP call). Collins had conceded earlier.",
-  "source": "NBC News live blog; NPR; Washington Post"
- },
- {
-  "time_et": "By 1:08 AM",
-  "item": "CBS News projects Gov. Tina Kotek wins Oregon's governor race over Republican Christine Drazan, joining DDHQ.",
-  "source": "CBS News via KOIN; DDHQ"
- },
- {
-  "time_et": "By 1:08 AM",
-  "item": "AP calls governor races for Republicans Mike Mazzei (Oklahoma), Alan Wilson (South Carolina), Phil Scott (Vermont) and Brad Little (Idaho).",
-  "source": "AP race-call stories via WTOP, Yahoo News, CJME"
  }
 ]

@@ -132,7 +132,7 @@
   "standing": "leading",
   "status": "Counting – Democrat leads (Peltola 102,701, Sullivan 102,075 – a 626-vote lead; next state count updates Nov 10, 13 and 18; ranked-choice tabulation may follow)",
   "called_by": "",
-  "source": "AP count via Boston 25 (74% in, 9:03 AM ET update); Anchorage Daily News and Alaska Public Media; Newsweek (count schedule), ~12:27 PM ET check"
+  "source": "AP count via Boston 25 (74% in, 9:03 AM ET update); Anchorage Daily News and Alaska Public Media; Newsweek (count schedule), no newer count at ~12:51 PM ET check"
  },
  {
   "state": "Alabama",
@@ -310,9 +310,9 @@
   "opp_pct": 48.9,
   "vote_in_pct": 95.6,
   "standing": "leading",
-  "status": "Too close to call – Democrat leads by 43 votes (Colom 462,821, Hyde-Smith 462,778; AP has not called; Colom campaign estimates 10,000–15,000 affidavit ballots outstanding)",
+  "status": "Too close to call – Democrat leads by 43 votes (Colom 462,821, Hyde-Smith 462,778; AP has not called; Secretary of State says 3,600+ mail-in absentee ballots are uncounted, and the Colom campaign estimates 10,000–15,000 affidavit ballots; Mississippi has no automatic recount)",
   "called_by": "",
-  "source": "WLOX/Gray News (95.6% counted as of 9:30 AM ET); NBC News results (AP data); Mississippi Today (affidavit estimate), ~12:27 PM ET check"
+  "source": "WJTV via WREG (Secretary of State absentee figure, 11:16 AM CT); WLBT; Washington Times (recount law); NBC News results (AP data), 95.6% in, ~12:51 PM ET check"
  },
  {
   "state": "Montana",
