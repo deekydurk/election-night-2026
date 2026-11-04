@@ -44,13 +44,13 @@
   "opponent": "Rob Wittman (inc.)",
   "held_by": "R",
   "polls_close_et": "7:00 PM",
-  "dem_pct": 50.5,
-  "opp_pct": 49.3,
+  "dem_pct": 51.03,
+  "opp_pct": 48.72,
   "vote_in_pct": null,
   "standing": "won",
-  "status": "Won (AP still says too close to call; all precincts in, mail ballots still being counted; Wittman has not conceded)",
+  "status": "Won (Wittman has not conceded)",
   "called_by": "NBC News, DDHQ",
-  "source": "NBC News projection (NBC News post via Townhall); DDHQ call 10:28 PM; AP count via Axios Richmond (all precincts reporting), ~8:55 AM ET check"
+  "source": "Virginia Mercury (Virginia Department of Elections data, ~406,000 votes, 10:30 AM); NBC News projection; DDHQ call 10:28 PM; ~12:27 PM ET check"
  },
  {
   "race": "VA-2",
@@ -130,9 +130,9 @@
   "opp_pct": 48.2,
   "vote_in_pct": 94.8,
   "standing": "leading",
-  "status": "Counting – Democrat leads (not called)",
+  "status": "Counting – Democrat leads (McCann declared victory; AP has not called)",
   "called_by": "",
-  "source": "NBC News results (AP data), 94.8% in, ~8:55 AM ET check; earlier WSBT (87% in) had Huizenga narrowly ahead"
+  "source": "AP count via Michigan Advance (9:45 AM) and NBC News/Fox News (94.8% in); ~12:27 PM ET check"
  },
  {
   "race": "MI-7",
@@ -168,13 +168,13 @@
   "opponent": "Michael Bouchard",
   "held_by": "R",
   "polls_close_et": "8:00 PM",
-  "dem_pct": null,
-  "opp_pct": null,
-  "vote_in_pct": null,
+  "dem_pct": 52.44,
+  "opp_pct": 45.26,
+  "vote_in_pct": 95,
   "standing": "leading",
-  "status": "Counting – Democrat leads by about 6 points with about 90% counted (Bouchard conceded; AP has not called)",
+  "status": "Counting – Democrat leads (Hines declared victory and Bouchard conceded; AP has not called)",
   "called_by": "",
-  "source": "Bridge Michigan (6 AM ET); Michigan Advance (Bouchard concession), ~8:55 AM ET check"
+  "source": "Yahoo/Michigan news report (more than 95% in, 8 AM); Bridge Michigan; Michigan Advance; ~12:27 PM ET check"
  },
  {
   "race": "NH-1",
@@ -315,13 +315,13 @@
   "opponent": "Jay Feely",
   "held_by": "R",
   "polls_close_et": "9:00 PM",
-  "dem_pct": 52.5,
-  "opp_pct": 45.5,
+  "dem_pct": 52.6,
+  "opp_pct": 45.4,
   "vote_in_pct": null,
   "standing": "leading",
   "status": "Counting – Democrat leads (not called; share counted not stated)",
   "called_by": "",
-  "source": "KTAR results, ~8:55 AM ET check"
+  "source": "AZFamily (AP count, 6:30 AM MST); ~12:27 PM ET check"
  },
  {
   "race": "AZ-6",
@@ -458,9 +458,9 @@
   "opp_pct": 47.7,
   "vote_in_pct": 60.9,
   "standing": "leading",
-  "status": "Counting – Democrat leads (Lawler conceded; no network call yet; Westchester count continues)",
+  "status": "Counting – Democrat leads (Lawler conceded; AP and DDHQ have not called; Westchester count continues)",
   "called_by": "",
-  "source": "NBC News results (AP data), 60.9% in; NBC New York and CBS News (Lawler concession), ~8:55 AM ET check"
+  "source": "NBC News results (AP data), 60.9% in; Fox 5 NY, The Hill (no AP/DDHQ call); ~12:27 PM ET check"
  },
  {
   "race": "NY-19",

@@ -1,5 +1,20 @@
 [
  {
+  "time_et": "By 12:27 PM ET",
+  "item": "Alaska Senate lead flips: Democrat Mary Peltola now leads Sen. Dan Sullivan 102,701 to 102,075 (626 votes) with 74% counted; not called. Alaska's next count updates are Nov. 10, 13 and 18.",
+  "source": "AP via Boston 25; Anchorage Daily News; Newsweek"
+ },
+ {
+  "time_et": "By 12:27 PM ET",
+  "item": "AP calls Louisiana's Senate race for Republican Julia Letlow over Democrat Jamie Davis, 50.9% to 49.1% with 99% counted; NBC News also projects Letlow. Davis has not conceded and hinted at a recount request.",
+  "source": "AP via Louisiana Illuminator, Axios New Orleans; NBC News; KSLA"
+ },
+ {
+  "time_et": "By 12:27 PM ET",
+  "item": "NBC News House tally: Democrats 236, Republicans 146 (31 Democratic flips). Kansas: Cindy Holscher declares victory with a 5,557-vote lead; Ty Masterson asks for \"another look\"; AP has not called. McCann (MI-4) and Hines (MI-10) declare victory; AP has not called either.",
+  "source": "NBC News; Kansas Reflector; Michigan Advance"
+ },
+ {
   "time_et": "By 8:55 AM",
   "item": "House battlegrounds: AP has now called OH-1, OH-9, IA-1, IA-2, IA-3, NE-2, WI-3, NM-2, NV-3, TX-28, TX-34, TX-35 and MI-8 for Democrats. NBC News and DDHQ project Democrats won VA-1 and NC-1. In MI-4, Democrat Sean McCann now leads Rep. Bill Huizenga 50.3% to 48.2% with 95% counted; not called.",
   "source": "AP via PBS, WCPO, 13abc, WKOW, Michigan Public, NPR; NBC News; DDHQ"
@@ -133,20 +148,5 @@
   "time_et": "By 1:08 AM",
   "item": "AP calls governor races for Republicans Mike Mazzei (Oklahoma), Alan Wilson (South Carolina), Phil Scott (Vermont) and Brad Little (Idaho).",
   "source": "AP race-call stories via WTOP, Yahoo News, CJME"
- },
- {
-  "time_et": "By 12:40 AM",
-  "item": "Sen. Susan Collins concedes Maine's Senate race to Democrat Troy Jackson; AP had not called the race as of ~12:30 AM. Jackson 53.0%, Collins 45.82% with 67% in.",
-  "source": "Maine Morning Star via NENC; DDHQ results page (12:18 AM)"
- },
- {
-  "time_et": "By 12:40 AM",
-  "item": "AP calls Minnesota's governor race for Democrat Amy Klobuchar over Republican Lisa Demuth; NBC News also reports Klobuchar won.",
-  "source": "AP via WBTV; NBC News"
- },
- {
-  "time_et": "11:29 PM",
-  "item": "AP calls Maine's governor race for Democrat Hannah Pingree, joining DDHQ; Republican Bobby Charles and independent Rick Bennett conceded.",
-  "source": "AP via Yahoo News; WGME"
  }
 ]
