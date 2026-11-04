@@ -1,5 +1,20 @@
 [
  {
+  "time_et": "2:05 PM",
+  "item": "AP calls Michigan's 7th District for Democrat William Lawrence over Rep. Tom Barrett, 51% to 47.7% with 97% counted; NBC News also projects Lawrence. Barrett conceded.",
+  "source": "Michigan Advance, WLNS (AP); WKAR"
+ },
+ {
+  "time_et": "1:13 PM",
+  "item": "AP calls Michigan's 4th District for Democrat Sean McCann over Rep. Bill Huizenga, 50.1% to 48.3%; NBC, Fox News and the New York Times also call it. Democrats flipped three Michigan House seats.",
+  "source": "Michigan Advance (AP); Fox News; All The Calls"
+ },
+ {
+  "time_et": "By 4:52 PM ET",
+  "item": "NBC News House tally: Democrats 242, Republicans 150, 43 uncalled. Mississippi Senate: Colom's lead is now 65 votes (462,857 to 462,792) as absentee and affidavit ballots are processed; not called. Kansas governor and Alaska Senate remain uncalled.",
+  "source": "NBC News; WLOX"
+ },
+ {
   "time_et": "12:26 PM",
   "item": "AP calls Michigan's 10th District for Democrat Christina Hines over Republican Michael Bouchard, 52% to 45%, flipping a Republican-held seat. MI-4 (McCann leads) and MI-7 (Lawrence leads by about 12,500 votes) are still uncalled.",
   "source": "Washington Examiner (AP); Argus-Press"
@@ -133,20 +148,5 @@
   "time_et": "By 2:10 AM",
   "item": "Nebraska Gov. Jim Pillen (R) declares victory over Democrat Lynne Walz; no AP or network call confirmed in this check.",
   "source": "Daily Nebraskan live updates; Nebraska Public Media"
- },
- {
-  "time_et": "By 1:38 AM",
-  "item": "AP calls New Hampshire's governor race for Republican Gov. Kelly Ayotte over Democrat Cinde Warmington, joining Fox News. Ayotte 51.1%, Warmington 47.3% as of 12:42 AM.",
-  "source": "Washington Examiner (citing AP), 12:48 AM ET; Fox News"
- },
- {
-  "time_et": "By 1:38 AM",
-  "item": "Mississippi Senate remains too close to call: Republican Sen. Cindy Hyde-Smith 49.7%, Democrat Scott Colom 48.2% with 94% of votes counted.",
-  "source": "Commercial Dispatch (Columbus, Miss.)"
- },
- {
-  "time_et": "By 1:10 AM",
-  "item": "Alaska Senate early returns: Democrat Mary Peltola 54.1%, Republican Sen. Dan Sullivan 42.8%, with 45 of 401 precincts reporting; the state will keep accepting ballots for days. Nevada still has not reported any votes in the governor's race.",
-  "source": "Alaska Division of Elections via Anchorage Daily News, Alaska Beacon; NBC News, CNN results pages"
  }
 ]

@@ -126,13 +126,13 @@
   "opponent": "Bill Huizenga (inc.)",
   "held_by": "R",
   "polls_close_et": "8:00 PM",
-  "dem_pct": 50.3,
-  "opp_pct": 48.2,
-  "vote_in_pct": 94.8,
-  "standing": "leading",
-  "status": "Counting – Democrat leads (McCann declared victory; AP has not called)",
-  "called_by": "",
-  "source": "AP count via Michigan Advance (9:45 AM) and NBC News/Fox News (94.8% in); ~12:27 PM ET check"
+  "dem_pct": 50.1,
+  "opp_pct": 48.3,
+  "vote_in_pct": 97,
+  "standing": "won",
+  "status": "Won (flips Republican-held seat; AP called it at 1:13 PM ET)",
+  "called_by": "AP, NBC News, Fox News, NYT",
+  "source": "AP call 1:13 PM ET and AP count via Michigan Advance; Fox News results page; All The Calls (NBC, NYT, Fox), ~4:52 PM ET check"
  },
  {
   "race": "MI-7",
@@ -140,13 +140,13 @@
   "opponent": "Tom Barrett (inc.)",
   "held_by": "R",
   "polls_close_et": "8:00 PM",
-  "dem_pct": 50.95,
-  "opp_pct": 47.79,
-  "vote_in_pct": 96,
-  "standing": "leading",
-  "status": "Counting – Democrat leads (Lawrence 201,719, Barrett 189,203; Lawrence declared victory; AP has not called)",
-  "called_by": "",
-  "source": "Argus-Press (AP count, about 96% in, 8:30 AM); Michigan Public/WKAR; ~12:51 PM ET check"
+  "dem_pct": 51,
+  "opp_pct": 47.7,
+  "vote_in_pct": 97,
+  "standing": "won",
+  "status": "Won (Barrett conceded; AP called it at 2:05 PM ET)",
+  "called_by": "AP, NBC News",
+  "source": "AP call 2:05 PM ET via Michigan Advance/WLNS (97% counted); NBC News (via Lansing State Journal/Yahoo); WKAR (Barrett concession), ~4:52 PM ET check"
  },
  {
   "race": "MI-8",
@@ -316,12 +316,12 @@
   "held_by": "R",
   "polls_close_et": "9:00 PM",
   "dem_pct": 52.6,
-  "opp_pct": 45.4,
-  "vote_in_pct": null,
+  "opp_pct": null,
+  "vote_in_pct": 85.2,
   "standing": "leading",
-  "status": "Counting – Democrat leads (not called; share counted not stated)",
+  "status": "Counting – Democrat leads (not called)",
   "called_by": "",
-  "source": "AZFamily (AP count, 6:30 AM MST); ~12:27 PM ET check"
+  "source": "NBC News and Fox News results pages (AP data, 85.2% in), ~4:52 PM ET check"
  },
  {
   "race": "AZ-6",
@@ -329,13 +329,13 @@
   "opponent": "Juan Ciscomani (inc.)",
   "held_by": "R",
   "polls_close_et": "9:00 PM",
-  "dem_pct": 54.0,
-  "opp_pct": 44.0,
-  "vote_in_pct": null,
+  "dem_pct": 53.0,
+  "opp_pct": null,
+  "vote_in_pct": 79.5,
   "standing": "leading",
-  "status": "Counting – DDHQ projects win; awaiting a second call (AP says too close to call)",
+  "status": "Counting – DDHQ projects win; awaiting a second call (AP has not called)",
   "called_by": "",
-  "source": "KJZZ (AP count as of 2 AM MT); DDHQ call 10:12 PM via The Advocate, ~8:55 AM ET check"
+  "source": "NBC News and Fox News results pages (AP data, 79.5% in); DDHQ call 10:12 PM via The Advocate, ~4:52 PM ET check"
  },
  {
   "race": "CO-8",
@@ -454,13 +454,13 @@
   "opponent": "Mike Lawler (inc.)",
   "held_by": "R",
   "polls_close_et": "9:00 PM",
-  "dem_pct": 52.2,
-  "opp_pct": 47.7,
-  "vote_in_pct": 60.9,
+  "dem_pct": 52.1,
+  "opp_pct": null,
+  "vote_in_pct": 97,
   "standing": "leading",
-  "status": "Counting – Democrat leads (Lawler conceded; AP and DDHQ have not called; Westchester count continues)",
+  "status": "Counting – Democrat leads (Lawler conceded; no AP or network call confirmed in this check)",
   "called_by": "",
-  "source": "NBC News results (AP data), 60.9% in; Fox 5 NY, The Hill (no AP/DDHQ call); ~12:27 PM ET check"
+  "source": "Fox News results page (AP data, 97% in); WAMC; NBC News; ~4:52 PM ET check"
  },
  {
   "race": "NY-19",
