@@ -1,5 +1,10 @@
 [
  {
+  "time_et": "10:37 PM",
+  "item": "Mississippi Senate: Democrat Scott Colom's lead over Sen. Cindy Hyde-Smith has grown to 1,138 votes (464,926 to 463,788) with about 95.6% of the expected vote in. The race remains uncalled; the Secretary of State's office says it might take until next Friday to call it.",
+  "source": "WLBT (updated ~7:00 PM ET Wed)"
+ },
+ {
   "time_et": "10:08 PM",
   "item": "Kansas governor: the latest count shows Democrat Cindy Holscher ahead of Republican Ty Masterson 547,815 to 541,973. The race remains uncalled; Masterson has not conceded.",
   "source": "MultiState results page (as of 6:18 PM ET)"
@@ -143,10 +148,5 @@
   "time_et": "By 2:10 AM",
   "item": "Mississippi Senate: Democrat Scott Colom leads Republican Sen. Cindy Hyde-Smith by 28 votes (462,779 to 462,751, 48.9% each) in an unofficial count shortly after midnight Central; AP has not called the race.",
   "source": "msindy.org (as of 12:05 AM CT); VoteHub"
- },
- {
-  "time_et": "By 2:10 AM",
-  "item": "Kansas governor's race too close to call: Democrat Cindy Holscher 546,523 votes, Republican Ty Masterson 540,651, with nearly all precincts counted; AP has not declared a winner.",
-  "source": "Kansas Secretary of State via Johnson County Post; Kansas Reflector"
  }
 ]
