@@ -555,9 +555,9 @@
   "opp_pct": 40.4,
   "vote_in_pct": 52.2,
   "standing": "leading",
-  "status": "Counting – Democrat leads (not called)",
+  "status": "Counting – NBC News projects win; awaiting a second call (AP has not called)",
   "called_by": "",
-  "source": "NBC News results (AP data), 52.2% in, ~8:55 AM ET check"
+  "source": "NBC San Diego (NBC News projects von Wilpert win); NBC News results (AP data), 52.2% in; Times of San Diego (AP had yet to call), ~8:50 PM ET check"
  },
  {
   "race": "WA-3",
@@ -568,9 +568,9 @@
   "dem_pct": 55.0,
   "opp_pct": 44.2,
   "vote_in_pct": 66.7,
-  "standing": "leading",
-  "status": "Counting – NBC News projects win; awaiting a second call (AP has not called; Braun has not conceded)",
-  "called_by": "",
-  "source": "KGW (NBC race call); NBC News results page (66.7% in); KATU/KNKX (AP not called), ~12:51 PM ET check"
+  "standing": "won",
+  "status": "Won – projected by AP and NBC News (Braun had not conceded as of last report)",
+  "called_by": "AP, NBC News",
+  "source": "KATU (AP projection Wed. morning, Nov 4; AP estimated ~67% counted, 55% to 44%); KGW (NBC race call); NBC News results page (66.7% in), ~8:50 PM ET check"
  }
 ]

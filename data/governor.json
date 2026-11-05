@@ -102,7 +102,7 @@
   "standing": "leading",
   "status": "Too close to call – Democrat leads (546,587 to 541,030; Holscher declared victory and Gov. Laura Kelly congratulated her; Masterson has not conceded and wants \"another look\"; AP has not called; mail ballots still arriving through Friday)",
   "called_by": "",
-  "source": "NBC News results (AP data), 98.3% in, still too close to call; Kansas Reflector (Secretary of State totals); KSN/KWCH (Kelly statement; Masterson has not conceded); ~4:52 PM ET check; rechecked 8:06 PM ET Wed – no newer count or call found"
+  "source": "NBC News results (AP data), 98.3% in, still too close to call; Kansas Reflector (Secretary of State totals); KSN/KWCH (Kelly statement; Masterson has not conceded); ~4:52 PM ET check; rechecked 8:37 PM ET Wed (WIBW, KCUR, Kansas Reflector): no newer count, AP has not called"
  },
  {
   "state": "Wisconsin",
@@ -156,13 +156,13 @@
   "opp_party": "R",
   "held_by": "R",
   "polls_close_et": "1:00 AM",
-  "dem_pct": 48.97,
-  "opp_pct": 29.46,
-  "vote_in_pct": 67,
+  "dem_pct": 49.2,
+  "opp_pct": 29.2,
+  "vote_in_pct": 74.3,
   "standing": "leading",
-  "status": "Counting – Democrat leads (Republican Dave Bronson third at 14.16%; ranked-choice tabulation follows if no one tops 50%; not called)",
+  "status": "Counting – Democrat leads (Republican Dave Bronson third at 14.2%; ranked-choice tabulation follows if no one tops 50%; not called)",
   "called_by": "",
-  "source": "Decision Desk HQ results page (67% shown), updated 4:12 AM ET; 8:40 AM ET check; rechecked 8:06 PM ET Wed – no newer count or call found"
+  "source": "Alaska's News Source live blog (5:45 AM AKST Wed entry, 74.3% counted); checked 8:37 PM ET"
  },
  {
   "state": "Arkansas",
