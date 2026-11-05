@@ -1,5 +1,10 @@
 [
  {
+  "time_et": "9:14 PM",
+  "item": "Mississippi Senate remains uncalled with Colom ahead by 65 votes. ABC News reports mail ballots postmarked by Election Day may arrive through Nov. 10, the certification deadline is Nov. 13, and the state has no formal recount process. Neither candidate has conceded.",
+  "source": "ABC News; WLBT"
+ },
+ {
   "time_et": "2:05 PM",
   "item": "AP calls Michigan's 7th District for Democrat William Lawrence over Rep. Tom Barrett, 51% to 47.7% with 97% counted; NBC News also projects Lawrence. Barrett conceded.",
   "source": "Michigan Advance, WLNS (AP); WKAR"
@@ -143,10 +148,5 @@
   "time_et": "By 2:10 AM",
   "item": "Michigan Senate: Democrat Abdul El-Sayed 51.2%, Republican Mike Rogers 46.9% with an estimated 72% counted; no AP or network call confirmed in this check.",
   "source": "DDHQ race update, 1:12 AM ET"
- },
- {
-  "time_et": "By 2:10 AM",
-  "item": "Nebraska Gov. Jim Pillen (R) declares victory over Democrat Lynne Walz; no AP or network call confirmed in this check.",
-  "source": "Daily Nebraskan live updates; Nebraska Public Media"
  }
 ]
