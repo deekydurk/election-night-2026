@@ -1,5 +1,10 @@
 [
  {
+  "time_et": "10:08 PM",
+  "item": "Kansas governor: the latest count shows Democrat Cindy Holscher ahead of Republican Ty Masterson 547,815 to 541,973. The race remains uncalled; Masterson has not conceded.",
+  "source": "MultiState results page (as of 6:18 PM ET)"
+ },
+ {
   "time_et": "9:14 PM",
   "item": "Mississippi Senate remains uncalled with Colom ahead by 65 votes. ABC News reports mail ballots postmarked by Election Day may arrive through Nov. 10, the certification deadline is Nov. 13, and the state has no formal recount process. Neither candidate has conceded.",
   "source": "ABC News; WLBT"
@@ -143,10 +148,5 @@
   "time_et": "By 2:10 AM",
   "item": "Kansas governor's race too close to call: Democrat Cindy Holscher 546,523 votes, Republican Ty Masterson 540,651, with nearly all precincts counted; AP has not declared a winner.",
   "source": "Kansas Secretary of State via Johnson County Post; Kansas Reflector"
- },
- {
-  "time_et": "By 2:10 AM",
-  "item": "Michigan Senate: Democrat Abdul El-Sayed 51.2%, Republican Mike Rogers 46.9% with an estimated 72% counted; no AP or network call confirmed in this check.",
-  "source": "DDHQ race update, 1:12 AM ET"
  }
 ]
