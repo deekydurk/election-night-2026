@@ -315,11 +315,11 @@
   "opponent": "Jay Feely",
   "held_by": "R",
   "polls_close_et": "9:00 PM",
-  "dem_pct": 52.6,
-  "opp_pct": null,
-  "vote_in_pct": 85.2,
+  "dem_pct": 52.58,
+  "opp_pct": 45.38,
+  "vote_in_pct": 95,
   "standing": "leading",
-  "status": "Counting – Democrat leads (not called)",
+  "status": "Counting – Democrat leads (not called; \"over 95%\" counted per Cactus Politics)",
   "called_by": "",
   "source": "NBC News and Fox News results pages (AP data, 85.2% in), ~4:52 PM ET check"
  },
@@ -527,7 +527,7 @@
   "opp_pct": 33.6,
   "vote_in_pct": null,
   "standing": "leading",
-  "status": "Counting – Democrat leads (not called; share counted not stated)",
+  "status": "Early count – Democrat leads (not called; share counted not stated)",
   "called_by": "",
   "source": "NBC Los Angeles (NBC News Decision Desk), ~8:55 AM ET check"
  },
@@ -541,7 +541,7 @@
   "opp_pct": 41.3,
   "vote_in_pct": null,
   "standing": "leading",
-  "status": "Counting – Democrat leads (not called; share counted not stated)",
+  "status": "Early count – Democrat leads (not called; share counted not stated)",
   "called_by": "",
   "source": "NBC Los Angeles (NBC News Decision Desk), ~8:55 AM ET check"
  },
