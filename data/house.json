@@ -525,11 +525,11 @@
     "polls_close_et": "11:00 PM",
     "dem_pct": 66.4,
     "opp_pct": 33.6,
-    "vote_in_pct": null,
-    "standing": "leading",
-    "status": "Counting – CBS News projects win; awaiting a second call (share counted not stated)",
-    "called_by": "",
-    "source": "NBC Los Angeles (NBC News Decision Desk), ~8:55 AM ET check; CBS News live updates (CBS projects Valadao lost), ~9:20 PM ET Nov 4 check"
+    "vote_in_pct": 67,
+    "standing": "won",
+    "status": "Won – projected by CBS and NYT",
+    "called_by": "CBS, NYT",
+    "source": "CBS News live updates (CBS projects Valadao lost), ~9:20 PM ET Nov 4 check; SFGate via Yahoo (NYT called race for Villegas; 66.4% with 67% counted per NYT), ~9:50 PM ET Nov 4 check"
   },
   {
     "race": "CA-45",
